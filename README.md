@@ -18,9 +18,9 @@
 *請將檔案內 `audio_dir` 更換為所需的錄音檔案
     
 使用以下程式碼，將文字稿整合成上傳txt檔案  
-*需修改 `task1flie_task1ans` 檔案內 `path` 更換為文字稿
     
     python task1flie_task1ans.py
+*需修改 `task1flie_task1ans` 檔案內 `path` 更換為文字稿
 
 ****
 ## 任務二 找出敏感字詞
