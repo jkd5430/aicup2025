@@ -19,8 +19,8 @@
     
 使用以下程式碼，將文字稿整合成上傳txt檔案  
     
-    python task1flie_task1ans.py
-*需修改 `task1flie_task1ans` 檔案內 `path` 更換為文字稿
+    python task1flie_2_task1ans.py
+*請將檔案內 `path` 更換為你存放的task1檔案位置
 
 ****
 ## 任務二 找出敏感字詞
