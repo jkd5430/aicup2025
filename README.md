@@ -30,6 +30,7 @@
 由於本組中文英文分開處理，故首先將txt以及json檔案的中文與英文分開    
 *需修改 `split_ch_en`、`split_json_ch_en` 檔案內 `folder_path` 資料夾路徑  
 txt檔案使用
+
     python split_ch_en.py
 
 json檔案使用  
