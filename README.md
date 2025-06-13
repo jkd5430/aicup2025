@@ -109,7 +109,7 @@ json檔案使用
     
     python bert_pred.py
 *其中第168行放task1_whisper.py所生成的"result_val_all_number/task2_json"    
-*其中第170行設定存放位置
+*其中第170行設定存放位置    
 *模型權重請至雲端下載    
 https://drive.google.com/drive/folders/1gxkpGV-t0DU7RBOfbOKQW7REp1vCehmC?usp=sharing
 
