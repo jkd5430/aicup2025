@@ -7,7 +7,7 @@
     
     conda env create -f qwen3.yml
 ****
-## 任務一 錄音檔案轉為文字稿 
+## 任務一 語音轉文字 
 使用以下程式碼，啟動whisperx.yml環境
 
     conda acitvate <your_env>
@@ -23,7 +23,7 @@
 *請將檔案內 `path` 更換為你存放的task1檔案位置
 
 ****
-## 任務二 找出敏感字詞
+## 任務二 命名實體識別任務
 使用以下程式碼，啟動環境  
 
     conda acitvate <your_env_name2>
