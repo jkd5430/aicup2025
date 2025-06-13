@@ -13,12 +13,12 @@
     conda acitvate <your_env_whisperx>
     
 使用以下程式碼，將錄音檔轉為文字稿  
-    
+
     python task1_whisper.py
 *請將檔案內 `audio_dir` 更換為所需的錄音檔案
     
 使用以下程式碼，將文字稿整合成上傳txt檔案  
-    
+
     python task1flie_2_task1ans.py
 *請將檔案內 `path` 更換為你在task1_whisper.py存放的task1檔案位置
 
@@ -46,12 +46,12 @@ json檔案使用
 使用以下程式碼，清理推論結果中不需要的文字  
         
         python clean_data.py
-*需修改`clean_data`檔案內的第13行、第168行，設定推論文字檔及輸出檔案
+*需修改`clean_data`檔案內的第13行設定由RAG.PY生出的private_result_advance_EN檔案，第168行設定輸出檔案位置
     
 使用以下程式碼，找出敏感字詞中的特殊字元       
-        
+
         python English_find_symbol.py
-*需修改`English_find_symbol` 檔案內 `local` 分割後的英文txt檔案
+*需修改`English_find_symbol` 檔案內 `local` 改成split_ch_en.py所建立的en資料夾
     
 使用以下程式碼，將文字稿的敏感字詞對回去json檔中的時間以抓出敏感字詞的時間序  
 *需修改`English_timestep` 檔案內`local`  local需包含中文的txt以及json資料夾  
