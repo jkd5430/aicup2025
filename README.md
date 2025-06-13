@@ -103,11 +103,11 @@ json檔案使用
 使用以下程式碼，進行BERT訓練
     
     python bert_train.py
-*其中資料均放在bert_code/bert_data/bert/位置裡
-使用以下程式碼，進行BERT預測
+*其中資料均放在bert_code/bert_data/bert/位置裡    
+使用以下程式碼，進行BERT預測    
     
     python bert_pred.py
-*其中第168行放task1_whisper.py所生成的"result_val_all_number/task2_json"
+*其中第168行放task1_whisper.py所生成的"result_val_all_number/task2_json"    
 *其中第170行設定存放位置
 
 
