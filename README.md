@@ -8,15 +8,14 @@
     conda env create -f qwen3.yml
 ****
 ## 任務一 錄音檔案轉為文字稿 
-使用以下程式碼，啟動環境
+使用以下程式碼，啟動whisperx.yml環境
 
-    conda acitvate <your_env_name1>
+    conda acitvate <your_env>
     
 使用以下程式碼，將錄音檔轉為文字稿  
-*需修改 `AI_CUP_whisper_output_dictionary` 檔案內 `audio_dir` 更換為所需的錄音檔案
     
-    python AI_CUP_whisper_output_dictionary.py
-
+    python task1_whisper.py
+*請將檔案內 `audio_dir` 更換為所需的錄音檔案
 使用以下程式碼，將文字稿整合成上傳txt檔案  
 *需修改 `task1flie_task1ans` 檔案內 `path` 更換為文字稿
     
