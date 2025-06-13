@@ -1,14 +1,11 @@
 # aicup2025
-# AICUP 使用手冊  
-以上14個文件檔案以及2個環境安裝檔案都需要用到
-****
 ## 創建環境
-創建任務一 whisperX-large v3環境
+任務一 whisperX環境
     
-    conda create -n <your_env_name1> -f environment_whisperx.yml
-創建任務二 推論環境  
-
-    conda create -n <your_env_name2> -f task2_env.yml
+    conda env create -f whisperx.yml
+任務二 Qwen3以及BERT環境  
+    
+    conda env create -f qwen3.yml
 ****
 ## 任務一 錄音檔案轉為文字稿 
 使用以下程式碼，啟動環境
