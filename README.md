@@ -95,8 +95,8 @@ json檔案使用
 
     python concate.py
 *需修改`concate`檔案內第20行，分別將中英文的timestep的txt合併    
-##BERT
-    
+****
+## BERT 
 使用以下程式碼，將官方給的資料集標註成BIO格式
     
     python bio.py 
