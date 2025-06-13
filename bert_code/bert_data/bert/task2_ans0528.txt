@@ -1,0 +1,1971 @@
+24063	PROFESSION	15.407	15.787	sandwich
+24224	DURATION	14.864	15.705	last several months
+2423	FAMILYNAME	19.972	20.272	ivan
+24244	DURATION	11.29	11.41	all
+24244	DURATION	11.45	11.63	night
+24342	DURATION	14.723	15.564	a couple of minutes
+24342	DATE	18.907	19.287	friday
+24366	DATE	14.488	14.729	now
+24382	DURATION	3.874	4.555	twelve hundred
+24382	DURATION	6.937	7.478	twelve hundred
+24382	DURATION	13.243	13.763	twelve hundred
+24387	FAMILYNAME	19.996	20.436	tanya
+24387	FAMILYNAME	27.758	28.078	tanya
+24404	DURATION	4.052	4.612	ten minutes
+24444	AGE	1.992	2.413	twenties
+24444	PERSONALNAME	10.578	10.999	franco
+24444	PERSONALNAME	11.899	12.219	franco
+24444	CITY	13.74	14.201	andover
+24462	COUNTRY	9.595	9.875	india
+24462	DATE	11.216	11.376	now
+24462	AGE	14.477	14.877	eighteen
+24462	CITY	19.939	20.559	victor street
+24602	AGE	2.094	2.655	twenty
+24602	AGE	2.094	2.655	nine
+24602	FAMILYNAME	12.849	22.943	ivan long day
+24613	SET	15.641	16.161	every day
+24613	SET	20.864	21.404	once a week
+2465	PERSONALNAME	7.172	8.192	genevieve
+2465	DATE	17.714	17.954	now
+24653	DATE	10.999	11.52	this weekend
+24653	DOCTOR	20.647	20.927	hem
+24653	DOCTOR	21.107	21.487	ha
+24675	DATE	1.851	2.051	now
+24675	DATE	5.872	6.052	now
+24675	DURATION	12.533	13.053	in the past
+24691	DURATION	0.751	1.272	ten hours
+24691	DURATION	3.793	4.293	six hours
+24691	STATE	9.755	10.155	ohio
+24691	DURATION	15.938	16.698	last couple of days
+24691	DATE	20.48	20.84	wednesday
+24760	TIME	17.085	17.385	morning
+24782	TIME	0.391	0.672	three
+24782	TIME	2.153	2.694	three o ' clock
+24782	DURATION	7.9	8.481	three hours
+24782	DATE	19.013	19.234	now
+24782	DURATION	22.778	23.178	three hours
+24823	TIME	1.771	2.191	tonight
+24823	DATE	5.072	5.652	last week
+24823	DURATION	10.653	11.193	whole weekend
+24823	TIME	23.256	23.676	tonight
+24847	DOCTOR	8.559	8.94	micah
+24847	DATE	9.24	9.821	tuesday
+2487	DATE	3.276	3.677	friday
+2487	DATE	9.647	10.228	this weekend
+2487	DATE	12.893	13.153	monday
+2487	DATE	16.298	16.619	today
+24947	DURATION	1.383	1.643	during
+24947	DURATION	1.823	1.983	day
+24947	SET	8.649	9.069	per day
+24976	DURATION	2.593	3.093	two years
+24976	DATE	26.968	27.468	freshman year
+25002	DATE	9.324	21.521	sunday weekend
+25010	DATE	24.125	24.326	now
+25010	DURATION	25.988	26.309	an hour
+25023	PERSONALNAME	5.072	5.332	riley
+25023	DATE	24.217	24.657	tuesday
+25023	TIME	26.017	26.477	that morning
+25024	DATE	1.693	2.094	friday
+25024	DATE	3.776	4.296	tuesday
+25024	DATE	8.702	9.263	yesterday
+25024	DATE	15.37	15.831	a week
+25024	DATE	16.031	16.251	now
+2505	DURATION	0.792	1.352	ten minutes
+2505	TIME	8.938	9.459	last night
+2505	DATE	14.123	14.503	today
+2505	PERSONALNAME	14.723	15.103	james
+25077	DATE	4.779	5.14	sunday
+25077	TIME	5.46	5.861	noon ##time
+25097	DATE	14.552	18.078	tomorrow fifty
+25123	DATE	7.389	7.529	now
+25165	DATE	22.531	22.751	now
+25176	PERSONALNAME	7.249	7.629	james
+25225	DURATION	2.693	3.073	two weeks
+25237	FAMILYNAME	19.657	20.017	tanya
+25256	DATE	0.892	1.253	today
+25256	TIME	1.813	2.394	eight p . m
+25256	DATE	5.719	6.059	monday
+25256	DURATION	7.902	8.102	day
+25256	DATE	13.609	13.99	tomorrow
+25274	DATE	8.419	8.619	now
+25274	DURATION	10.681	11.101	weekend
+25274	DURATION	14.164	14.504	a week
+25306	PERSONALNAME	12.702	12.922	emma
+25330	PERSONALNAME	16.772	17.172	david
+25344	PERSONALNAME	1.559	1.779	jess
+25344	DATE	8.423	8.584	now
+25344	DATE	18.21	18.33	now
+25390	DURATION	10.566	10.786	last
+25390	DURATION	10.866	11.427	ten years
+25390	DATE	15.453	15.713	now
+25390	DATE	19.338	19.759	tomorrow
+25390	DATE	24.726	25.107	tomorrow
+25516	TIME	27.666	28.146	two - thirty
+25520	DURATION	1.973	2.473	this weekend
+25520	DURATION	7.378	7.598	week
+25520	DURATION	22.432	22.632	five
+25520	DURATION	22.772	23.292	ten minutes
+25533	DURATION	2.997	3.238	six
+25533	DURATION	3.478	4.019	eight hours
+25533	DURATION	13.158	13.418	six
+25533	DURATION	13.819	14.38	fifteen
+25557	DATE	0.111	0.352	now
+25557	DATE	23.33	23.53	now
+25581	DURATION	8.177	8.658	five days
+25588	DURATION	6.956	7.437	one day
+25588	DATE	17.444	17.805	one day
+25598	PERSONALNAME	27.646	28.126	franco
+2561	DATE	15.845	16.066	today
+2561	DATE	16.246	16.686	tomorrow
+25685	PERSONALNAME	0.431	0.811	james
+25685	DURATION	11.214	11.775	three
+25685	DURATION	11.915	12.535	four hours
+25685	TIME	20.177	20.717	this evening
+25714	DATE	4.58	4.801	now
+25724	DURATION	17.218	17.878	thirteen hours
+25724	DURATION	18.918	19.639	forty a week
+25745	DURATION	25.057	25.477	a second
+25770	DATE	20.645	20.765	now
+25790	CITY	0.091	0.612	chicago
+25790	STATE	2.233	2.794	montana
+25790	CITY	3.674	4.155	chicago
+25790	CITY	11.862	12.342	chicago
+25790	TIME	17.227	17.807	that night
+25790	COUNTRY	21.671	22.411	madagascar
+25803	DATE	10.933	11.133	now
+25803	TIME	18.709	19.109	other night
+2582	TIME	0.151	0.371	morning
+2582	TIME	2.012	2.272	morning
+2582	DATE	3.733	3.893	day
+2582	DATE	3.933	4.433	yesterday
+2582	DATE	7.915	8.216	one day
+2583	DURATION	0.171	0.671	weekend
+2584	FAMILYNAME	11.664	12.185	tanya
+25860	DATE	4.777	5.078	today
+25860	FAMILYNAME	6.239	6.5	ivan
+25864	DURATION	11.467	11.868	all day
+25864	PERSONALNAME	18.097	18.277	dave
+25864	DURATION	19.579	20.52	last couple of days
+25864	DURATION	24.746	25.828	past week and a half
+25864	DURATION	26.488	26.969	two weeks
+25864	DURATION	28.031	28.571	quite a while
+25874	TIME	4.878	5.539	friday morning
+25874	DOCTOR	7.282	7.643	barnes
+25874	COUNTY	9.205	9.766	rhode island
+25874	PROFESSION	11.488	11.749	cook
+25909	DATE	2.735	2.935	now
+25909	DATE	9.564	10.525	today
+25909	DURATION	10.625	11.005	six
+25909	DATE	13.068	13.309	fifth
+25909	DATE	18.315	18.495	now
+25909	DURATION	20.578	21.379	thirty
+25909	DATE	22.821	23.041	now
+25945	DATE	2.959	3.4	yesterday
+25945	DOCTOR	5.606	6.007	carlton
+25952	DATE	1.173	1.675	this weekend
+25952	SET	8.95	9.331	each day
+25952	SET	13.781	14.182	every day
+25952	TIME	16.667	17.028	morning
+25952	DURATION	17.449	18.15	an hour and a half
+25952	TIME	18.812	19.052	noon
+25952	TIME	19.954	20.355	afternoon
+25961	DATE	0.291	0.751	this week
+25961	DURATION	5.895	6.175	a week
+25961	DATE	9.938	10.378	this week
+25961	PROFESSION	26.369	26.609	potter
+26021	DATE	21.428	21.608	now
+26021	DURATION	26.872	27.373	two weeks
+26035	DATE	0.972	1.113	now
+26041	DURATION	0.692	0.892	two
+26041	DURATION	1.652	2.113	eleven
+26041	DURATION	3.314	3.454	two
+26041	DURATION	8.839	9.499	two thirteen
+26041	DURATION	21.289	21.489	three
+26041	DATE	25.213	25.393	now
+26053	DATE	15.801	16.001	now
+26054	DURATION	6.215	7.096	two three minutes
+26054	DURATION	10.017	11.138	two three minutes
+26092	FAMILYNAME	7.073	7.453	tanya
+26095	DATE	8.861	9.042	now
+26151	TIME	2.655	3.156	this morning
+26151	DATE	10.247	10.507	today
+26151	DURATION	10.928	11.368	two weeks
+26151	DATE	16.015	16.316	today
+26193	PERSONALNAME	3.014	3.314	sidney
+26193	DURATION	10.52	11.041	a few days
+26197	DURATION	5.042	5.223	day
+26239	DURATION	21.627	22.228	a few hours
+26251	DATE	0.611	0.891	second
+26251	DATE	3.233	3.493	first
+26286	DURATION	5.338	5.538	a day
+26286	DATE	9.423	9.623	now
+26290	DURATION	1.993	2.613	twenty minutes
+26290	TIME	4.915	5.336	last night
+26290	DURATION	9.8	10.36	twenty minutes
+26290	TIME	13.503	13.964	last night
+26290	TIME	14.484	14.624	any
+26290	TIME	14.684	14.945	night
+26290	DURATION	17.887	18.568	couple of weeks
+26290	PERSONALNAME	21.871	22.171	sydney
+26290	DURATION	23.292	23.913	past few weeks
+26305	DATE	21.826	22.046	now
+26315	PERSONALNAME	14.032	14.453	audrey
+26315	PROFESSION	15.995	16.556	consultant
+26315	PERSONALNAME	25.269	25.53	audrey
+26359	DATE	2.199	2.399	now
+26362	DATE	2.272	2.812	yesterday
+26362	TIME	9.814	10.334	this morning
+26392	PERSONALNAME	0.832	1.112	sydney
+26392	TIME	13.461	13.581	night
+26406	PERSONALNAME	25.343	25.723	kelly
+26406	PERSONALNAME	28.205	28.525	kelly
+2644	FAMILYNAME	19.459	19.819	tanya
+26523	DATE	3.036	3.296	friday
+26523	TIME	5.379	5.72	tonight
+26523	TIME	7.663	8.384	tomorrow morning
+26523	TIME	17.338	17.658	tonight
+26523	CITY	21.324	21.685	ham ##den
+26604	DATE	1.352	1.532	now
+26631	DURATION	3.977	4.558	a little while
+26631	DURATION	27.231	27.591	a week
+26664	DURATION	8.459	8.939	last week
+26671	DATE	3.415	4.836	now
+26698	DATE	0.171	0.291	now
+26698	DATE	0.531	0.891	easter
+26698	DURATION	4.292	4.832	six weeks
+26725	DURATION	13.312	13.893	five minutes
+26725	TIME	14.915	15.435	nighttime
+26732	PERSONALNAME	2.113	2.353	james
+26754	DATE	5.552	5.732	now
+26754	FAMILYNAME	15.015	15.275	ivan
+26845	DATE	0.791	1.091	now
+26859	PERSONALNAME	23.243	23.563	josh
+26860	PERSONALNAME	1.735	1.935	emma
+26860	PERSONALNAME	2.115	2.616	damien
+26876	DURATION	20.042	20.362	a year
+26876	DURATION	21.523	21.763	a year
+26876	SET	22.283	22.643	every day
+26876	SET	23.404	24.344	a couple times a week
+26876	DATE	27.146	27.306	year
+26877	DATE	0.611	0.852	rainy
+26877	DATE	0.892	1.052	day
+26877	TIME	24.309	24.589	summer
+26877	TIME	26.47	26.73	spring
+26877	TIME	26.911	27.231	summer
+26946	DATE	0.871	1.131	today
+26946	PERSONALNAME	4.513	4.933	sydney
+26968	DURATION	1.792	2.092	years
+26968	DATE	2.152	2.372	now
+26968	DURATION	5.613	5.874	months
+26998	DURATION	0.512	0.552	a
+26998	DURATION	0.592	0.953	weekend
+27057	DEPARTMENT	3.332	4.392	psychological medicine
+27057	DATE	5.412	5.732	today
+27057	TIME	11.213	14.854	last night ##len ##ol
+27057	DATE	18.715	18.955	today
+27057	PERSONALNAME	23.016	23.416	carl
+27057	PERSONALNAME	24.416	24.676	carl
+271	DATE	11.868	12.049	now
+27112	DURATION	5.732	6.012	days
+27112	SET	8.073	8.493	every day
+27112	DATE	11.274	11.554	now
+27112	TIME	11.974	12.494	this morning
+27112	DURATION	13.554	14.014	couple days
+27112	TIME	18.536	18.836	evenings
+2712	PERSONALNAME	11.001	11.221	jess
+2712	PERSONALNAME	14.225	14.465	jess
+2712	PERSONALNAME	29.626	29.946	jess
+27144	AGE	7.136	7.637	six
+27144	AGE	15.968	16.429	six
+27144	DURATION	27.393	27.673	three
+27144	AGE	27.774	28.375	six year
+27164	SET	27.333	27.513	four
+27164	SET	27.553	28.154	times a year
+27172	DATE	16.841	17.141	friday
+2723	DATE	17.143	17.403	now
+27240	DATE	3.012	3.312	today
+27240	DURATION	23.097	23.637	a week or two
+27269	PERSONALNAME	14.802	15.002	emma
+27285	DURATION	22.457	22.677	years
+27305	DURATION	4.253	4.473	three
+27350	DATE	2.672	2.952	now
+27350	DURATION	4.093	4.473	a month
+27350	DATE	14.497	14.737	spring
+27350	DATE	16.678	17.138	february
+27350	DATE	17.778	18.058	march
+27350	DATE	20.519	20.94	february
+27350	DATE	21.1	21.38	march
+27351	SET	25.214	25.935	one per week
+27362	DURATION	14.961	15.101	for
+27362	DURATION	15.141	15.461	a while
+27368	TIME	4.093	4.493	last night
+27368	PERSONALNAME	15.279	15.599	carl
+27368	AGE	24.303	24.563	four
+27375	DATE	24.381	24.942	last week
+27417	DATE	3.372	3.713	today
+27417	DATE	7.814	8.014	day
+27417	DURATION	19.799	20.419	several months
+27422	DATE	8.48	8.7	now
+27422	DATE	9.361	9.541	now
+27501	PERSONALNAME	25.804	26.224	tanya
+27541	DATE	6.739	7.26	last week
+27541	DURATION	11.125	11.765	last several days
+27558	PATIENT	16.936	17.336	jess ##a
+27581	DURATION	8.444	9.005	a few minutes
+27626	FAMILYNAME	0.351	0.711	josh
+27626	DURATION	22.876	23.276	an hour
+27655	DATE	1.731	1.951	sunday
+27655	DATE	2.031	8.352	monday week
+27655	TIME	18.454	18.794	morning
+27655	TIME	26.036	26.176	night
+2777	DATE	22.449	22.61	now
+278	DURATION	20.557	21.038	two hours
+278	DURATION	26.779	27.42	three hours
+278	DURATION	28.52	28.68	two
+27805	TIME	0.452	0.732	morning
+27805	TIME	1.934	2.275	morning
+27805	DATE	7.224	7.724	this week
+27805	DATE	9.207	9.568	this week
+27805	DURATION	10.349	11.231	last couple of weeks
+27826	TIME	4.433	4.773	morning
+27879	DURATION	2.066	2.811	this past week
+28030	TIME	10.985	11.225	five
+28030	TIME	11.445	11.726	morning
+28030	DURATION	14.79	15.891	a day
+28030	DURATION	18.254	18.614	all day
+28137	DATE	13.652	13.792	now
+28148	TIME	16.476	16.776	morning
+28148	DURATION	19.696	20.297	fifteen minutes
+28244	DATE	17.903	18.143	today
+28311	PERSONALNAME	0.531	0.852	tanya
+28311	FAMILYNAME	4.755	5.075	tanya
+28311	PERSONALNAME	14.522	14.923	candace
+28311	DATE	21.608	21.968	last year
+28311	FAMILYNAME	22.188	22.468	tanya
+28350	ORGANIZATION	10.433	11.433	cambridge business
+28400	CITY	6.074	6.554	genevieve
+2842	DATE	23.337	23.517	now
+2842	DATE	25.257	25.457	now
+28426	TIME	3.736	3.776	a
+28426	TIME	3.836	4.016	night
+28426	DATE	7.18	7.561	thursday
+28426	COUNTY	10.385	11.166	cheshire
+28426	DURATION	16.132	16.813	twenty hours
+28430	DATE	17.528	17.848	a day
+28430	DATE	18.689	19.09	this week
+28443	PERSONALNAME	6.78	7.06	sydney
+28443	DATE	8.242	8.442	now
+28443	DATE	20.017	20.117	now
+28457	FAMILYNAME	11.118	11.478	tanya
+28457	DATE	19.704	19.904	now
+28457	DURATION	25.107	25.447	years
+28460	TIME	5.713	6.013	morning
+28460	DURATION	6.833	7.193	all day
+28591	DATE	10.941	11.281	today
+28605	TIME	10.052	10.312	morning
+28673	PERSONALNAME	3.994	4.535	vanessa
+28673	PERSONALNAME	7.977	8.398	lucy
+28673	PERSONALNAME	20.548	21.028	vanessa
+28673	PERSONALNAME	21.228	21.668	yvonne
+28693	DURATION	9.997	10.217	day
+28693	DATE	17.201	17.701	yesterday
+28713	FAMILYNAME	7.045	7.466	tanya
+28713	FAMILYNAME	8.828	9.189	tanya
+28713	FAMILYNAME	11.293	11.694	tanya
+28825	DATE	3.677	3.957	may
+28825	DURATION	21.025	21.425	a weekend
+28825	PERSONALNAME	26.834	27.054	jess
+28914	DURATION	26.495	27.295	three four minutes
+29005	DURATION	20.667	21.208	in the past
+29150	CITY	6.798	8.96	wesley tuesday
+29150	DATE	14.686	14.826	this
+29163	DURATION	2.994	3.434	moments
+29163	DURATION	3.734	4.135	parts of
+29163	DURATION	4.295	4.495	day
+29163	TIME	15.565	15.885	evening
+29203	STATE	1.032	1.593	california
+29203	DATE	9.842	10.022	now
+29305	FAMILYNAME	11.876	12.216	tanya
+29342	PROFESSION	25.518	26.038	gp
+29347	DURATION	5.717	6.078	two weeks
+29347	DURATION	15.708	16.409	two week period
+29347	DURATION	16.629	17.29	two and a half week
+29379	DURATION	6.798	7.098	four
+29401	DURATION	14.683	15.704	last several months
+2943	CITY	4.976	5.437	cv ##s
+2943	DATE	13.806	14.146	friday
+2943	DATE	15.448	15.848	saturday
+2943	DATE	19.232	19.772	tuesday
+2943	DATE	21.614	22.115	yesterday
+29469	TIME	6.84	17.594	monday morning amount
+29569	PERSONALNAME	4.958	5.298	debbie
+29584	DURATION	0.952	1.734	fifteen minutes
+29584	DURATION	8.744	8.965	week
+29584	TIME	14.333	14.633	morning
+29584	TIME	16.997	17.357	evening
+29584	DATE	22.685	23.046	tomorrow
+29584	TIME	23.747	24.007	tonight
+29627	DURATION	6.399	6.8	an hour
+29627	DURATION	13.869	14.55	a long time
+29680	AGE	23.708	24.088	eleven
+29690	PATIENT	16.252	16.692	ramon ##a
+29690	DOCTOR	18.615	19.075	far ##row
+29768	DATE	3.676	3.816	now
+29771	DURATION	2.873	3.773	last couple of days
+29781	DATE	22.151	22.571	wednesday ##s
+29781	DATE	22.771	23.192	holidays
+29790	PATIENT	3.913	4.333	ramon ##a
+29790	PROFESSION	25.343	25.643	subway
+29790	PROFESSION	25.683	26.003	manager
+29805	DATE	2.735	2.896	now
+29805	TIME	7.964	20.764	last night day
+29805	FAMILYNAME	20.984	23.308	harold day
+2983	PERSONALNAME	2.432	2.712	james
+29912	DURATION	1.572	2.372	five minutes
+29912	DOCTOR	17.579	17.779	board
+29928	TIME	13.998	14.278	morning
+29928	TIME	15.298	15.699	evening
+29946	DURATION	4.195	4.656	long time
+29975	FAMILYNAME	12.575	13.056	tanya
+29977	DATE	1.514	2.015	yesterday
+29977	DOCTOR	13.235	13.535	graham
+30015	PERSONALNAME	10.915	11.176	dave
+30082	PERSONALNAME	0.973	1.153	ian
+30082	TIME	3.036	3.577	sunday morning
+30122	FAMILYNAME	9.826	10.086	ivan
+30122	FAMILYNAME	17.137	17.378	ivan
+30159	DURATION	9.52	9.86	day
+30159	CITY	14.264	14.885	greenwich
+30219	TIME	1.232	1.592	tonight
+30219	DATE	3.734	4.094	tomorrow
+30219	DATE	5.255	8.237	march time
+30219	DATE	17.465	18.245	tomorrow
+30219	TIME	21.908	22.228	ten
+30226	DATE	16.084	17.988	today
+30226	AGE	23.018	23.419	ten
+3027	DURATION	10.617	10.977	a moment
+3027	SET	13.939	14.399	every day
+30297	DATE	3.913	4.453	yesterday
+30297	PERSONALNAME	6.774	7.234	amelia
+30297	DATE	9.875	10.195	today
+30381	COUNTRY	22.624	22.884	u . s
+30381	COUNTRY	28.032	28.152	u
+30391	DATE	5.012	5.532	december
+30391	DATE	7.093	7.533	september
+30391	DATE	7.633	8.093	october
+30391	DATE	19.776	20.196	yesterday
+30391	DATE	20.356	20.576	today
+30477	DURATION	11.102	11.462	two years
+30477	ORGANIZATION	27.878	28.319	subway
+30588	DATE	7.236	7.657	january
+30588	DURATION	7.937	8.457	a long time
+30588	DATE	12.66	13.401	this past week
+30588	DURATION	22.167	22.768	a few days
+30588	DATE	24.869	25.169	sunday
+30588	DATE	25.309	25.69	monday
+30588	DATE	27.291	27.431	now
+3059	PROFESSION	0.932	1.373	insurance
+30646	DATE	24.066	24.246	now
+30662	DATE	2.253	2.754	friday
+30662	PERSONALNAME	16.889	17.45	cecilia
+30714	SET	5.775	19.104	every night minutes
+30714	DATE	27.15	27.37	monday
+30719	DURATION	15.757	16.337	a few weeks
+30719	DATE	23.759	23.939	now
+30781	DATE	15.677	16.137	yesterday
+30802	DATE	3.797	3.957	now
+30802	DATE	9.266	9.506	now
+30904	TIME	7.482	7.742	evening
+30934	DURATION	2.415	2.696	months
+30934	SET	14.458	15.019	one day a week
+30934	DATE	15.24	15.66	sundays
+30934	TIME	24.497	24.818	evening
+30986	DURATION	17.619	18.199	five hours
+30986	DURATION	21.201	21.441	day
+30992	DURATION	7.839	8.58	last several months
+31006	DATE	0.051	0.412	yesterday
+31006	DURATION	3.078	3.479	all day
+31016	AGE	6.376	6.616	thirty
+31016	AGE	6.676	7.036	five
+31016	DATE	21.407	21.587	now
+31016	DURATION	25.81	26.11	a year
+3108	ORGANIZATION	1.012	2.154	bank of america
+3108	DURATION	6.299	6.82	ten days
+3108	ORGANIZATION	13.749	14.71	bank of america
+31081	DURATION	7.296	7.776	a few days
+31081	FAMILYNAME	8.577	8.937	josh
+31081	DURATION	16.582	17.122	a few hours
+31087	PERSONALNAME	4.055	4.395	sydney
+31087	DATE	7.978	8.198	now
+31087	DURATION	20.669	20.85	eight
+31087	DURATION	21.11	22.711	nine weeks weeks
+3113	SET	3.76	4.282	every monday
+3113	DURATION	4.883	5.424	five hours
+31132	DATE	1.052	1.392	today
+31132	DATE	5.355	5.575	now
+31132	SET	9.559	10.019	once a week
+31132	SET	17.305	17.745	every week
+31132	DATE	21.748	22.169	that day
+31132	DATE	23.85	24.351	last week
+31247	CITY	0.031	0.311	denver
+31325	TIME	13.501	13.762	night
+31325	TIME	15.185	15.445	night
+31367	PERSONALNAME	6.575	7.015	susan
+31367	DATE	10.357	10.877	fourteenth
+31367	DATE	12.198	12.358	now
+31367	PERSONALNAME	15.399	15.7	sydney
+31367	PERSONALNAME	20.302	20.602	susan
+31367	PERSONALNAME	21.823	22.183	sydney
+31394	FAMILYNAME	5.253	7.854	tanya ##ical
+31402	DATE	21.495	21.755	now
+31414	DURATION	22.563	23.184	in the past
+3142	DATE	14.305	14.786	yesterday
+315	DURATION	8.382	9.063	fifteen minutes
+315	TIME	9.303	9.664	morning
+31537	DURATION	5.861	6.242	all week
+31537	DURATION	8.886	9.227	one week
+31542	DURATION	1.271	1.611	two months
+31600	DURATION	9.576	9.756	two
+31600	DURATION	9.916	10.376	three years
+31680	DATE	4.815	5.255	yesterday
+31680	DATE	6.797	7.057	today
+31680	DATE	21.209	21.829	yesterday
+31680	DATE	22.61	22.79	day
+31680	DATE	22.97	23.311	today
+31697	DURATION	13.7	14.901	another week and a half
+31697	DURATION	18.324	18.644	days
+31738	AGE	15.74	16.18	seventy
+3176	TIME	1.774	2.294	this morning
+3176	DATE	21.722	22.223	this year
+3176	DATE	23.986	24.426	next year
+31905	DATE	20.702	20.922	now
+31905	DURATION	21.483	21.884	hours
+31981	TIME	0.892	1.273	eleven
+31981	DURATION	2.815	3.756	several hours
+31981	TIME	11.307	11.988	sunday morning
+31981	PERSONALNAME	16.174	16.674	ian
+31981	PERSONALNAME	21.001	21.361	jess
+3199	DATE	15.259	15.519	now
+31992	TIME	0.872	1.372	six thirty
+31992	TIME	1.572	1.953	sunday
+32034	PERSONALNAME	7.633	8.013	debbie
+32106	DURATION	18.102	18.662	many years
+32127	PERSONALNAME	21.474	21.735	paul
+3214	FAMILYNAME	4.379	4.639	ivan
+3214	DATE	5.2	5.3	now
+32140	DATE	8.9	9.36	yesterday
+32166	DATE	24.547	24.828	march
+32166	DATE	25.449	25.749	april
+3217	PERSONALNAME	1.832	2.092	kelly
+3217	DATE	2.953	3.313	sunday
+3217	CITY	3.913	4.334	mystic
+3217	DATE	21.264	21.484	now
+3217	DATE	23.706	23.986	today
+3217	DATE	24.946	25.067	now
+32205	TIME	6.294	6.574	morning
+32205	DATE	8.055	8.475	last week
+32205	DURATION	13.558	14.118	a long time
+32207	DATE	16.414	16.634	now
+32207	DATE	20.595	20.915	today
+32207	PATIENT	26.216	26.676	ramon ##a
+32232	DURATION	5.561	5.982	one day
+32232	COUNTY	12.174	12.795	cheshire
+32232	DATE	16.662	17.083	friday
+32238	DATE	0.091	0.311	now
+32246	DATE	6.638	6.918	now
+32280	DURATION	2.515	2.696	day
+32280	PERSONALNAME	5.601	6.042	tanya
+3230	DATE	6.796	7.016	now
+3230	PATIENT	13.761	14.181	ramon ##a
+32317	DATE	0.951	1.191	now
+32317	PATIENT	1.211	1.592	ramon ##a
+32317	DATE	3.372	3.572	day
+32348	DURATION	9.802	10.142	a while
+32348	DATE	10.523	10.683	this
+32365	TIME	1.674	2.255	eight thirty
+32384	DATE	3.332	4.032	in the past
+3243	DATE	6.894	7.114	now
+3243	DOCTOR	10.695	10.955	hon
+3243	DATE	19.919	20.099	now
+3243	DATE	24.521	24.701	now
+3243	DURATION	25.901	26.321	all week
+3243	DURATION	27.522	27.762	a week
+33446	DATE	9.308	9.448	now
+40142	DATE	1.385	1.547	now
+4808	DATE	0.872	0.954	now
+50004	DATE	1.693	3.995	june , twenty - sixth - sixty - four
+50017	DATE	3.377	5.542	august , twenty - first , twenty - sixty - two
+50017	HOSPITAL	6.724	7.726	darling point
+50017	DEPARTMENT	8.688	12.615	gi ##pps ##land southern health service ling ##az ##a campus
+50017	DOCTOR	15.08	15.581	sand ##er
+50027	DOCTOR	0.131	11.974	susan du ##ren hospital
+50030	DOCTOR	7.622	8.263	w . ob ##sta ##ff
+50030	DATE	11.007	11.487	october
+50035	PATIENT	0.051	0.431	connie
+50035	STREET	1.432	2.433	blue cow street
+50035	CITY	2.973	3.893	camden haven
+50035	STATE	4.434	5.514	northern territory
+50035	ZIP	7.236	8.616	five zero six seven
+50035	MEDICAL_RECORD_NUMBER	12.559	17.862	four four zero two zero seven four dot w n e
+50035	MEDICAL_RECORD_NUMBER	19.964	23.486	four four b two zero seven four eight
+50040	STREET	1.393	2.294	monetary streets
+50040	CITY	2.615	3.296	ky ##ab ##ram
+50040	STATE	3.516	4.217	victoria
+50040	ZIP	5.399	7.262	seven zero zero zero
+50040	DATE	10.887	12.77	november first , two thousand twelve
+50040	TIME	13.151	14.353	nine eleven am
+50040	DEPARTMENT	14.833	15.955	west department
+50040	HOSPITAL	16.275	18.198	nam ##bo general hospital
+50040	DOCTOR	20.181	22.405	donald jeremiah berg
+50040	DOCTOR	25.97	26.491	v ##x
+50040	DOCTOR	28.073	28.834	c . harvey
+50048	DOCTOR	0.693	1.675	k . grass ##l
+50049	PATIENT	2.375	3.256	steve male ##k ' s
+50049	DATE	10.948	12.39	september
+50063	STATE	0.571	1.752	northern territory
+50063	ZIP	4.093	5.593	three - one - three - seven
+50063	DATE	9.935	10.835	august th ##ir ##tie ##th
+50063	AGE	12.696	13.596	nine -
+50063	AGE	12.696	13.596	nineteen
+50063	STREET	14.396	16.317	four ja ##bir ##u place
+50063	HOSPITAL	17.578	19.858	east wi ##mmer ##a health service
+50063	HOSPITAL	20.699	21.359	wi ##chi ##proof
+50067	MEDICAL_RECORD_NUMBER	2.396	7.005	three zero six nine one one dot q ##ff
+50067	PATIENT	9.851	11.454	toy ##uri ##co hoop
+50067	ID_NUMBER	13.538	18.247	thirty r nine one one six one two one
+50067	ID_NUMBER	20.051	23.057	thirty r nine one one six one
+50070	PERSONALNAME	4.425	4.788	mike
+50072	PATIENT	0.091	0.592	mason
+50072	STREET	1.856	3.721	wil ##bert ##h street
+50072	CITY	4.302	5.104	devon ##port
+50072	STATE	5.325	6.107	victoria
+50072	ZIP	7.029	9.235	eight zero zero three
+50072	DATE	11.22	14.71	july twenty second nineteen eighty
+50084	DOCTOR	6.36	6.72	yale
+50084	DATE	6.981	9.665	september , thirteenth two thousand sixty - two
+50084	DOCTOR	10.686	11.247	ha ##user
+50084	DATE	11.808	14.632	september , twelfth , two thousand sixty - two
+50084	DOCTOR	15.653	16.214	mann ##ion
+50084	DOCTOR	17.055	17.456	nan ##ce
+50084	PATIENT	20.4	20.881	jeremy
+50117	DOCTOR	2.692	3.572	a . duncan - tale
+50117	DOCTOR	4.553	5.573	a royce - cow ##ie
+50117	DATE	5.953	7.854	september third twenty sixty - two
+50117	DOCTOR	22.4	22.8	jamie
+50117	DOCTOR	23.08	23.801	ken tu ##rian
+50119	PATIENT	13.584	13.965	jo ##lene
+50122	PATIENT	0.051	0.491	virginia
+50122	DATE	8.958	10.98	july first , twenty sixty two
+50122	DOCTOR	15.624	16.064	va ##ssel ##l
+50122	DOCTOR	17.005	17.545	whites ##ide
+50123	DEPARTMENT	1.411	4.532	tissue pathology and diagnostic on ##cology department
+50123	HOSPITAL	4.812	6.373	west coast district hospital
+50123	DATE	9.174	11.054	july twenty - fifth - twelve
+50123	TIME	11.874	12.795	one - oh - five p . m
+50123	DOCTOR	14.555	15.615	derry harris - bu ##rks
+50123	DOCTOR	17.376	17.656	n . j .
+50123	DATE	17.936	20.297	september twenty - eighth twenty - sixty - two
+50123	DOCTOR	23.798	24.558	v . da ##ught ##ry
+50132	MEDICAL_RECORD_NUMBER	3.696	3.936	nine
+50132	ID_NUMBER	3.976	6.96	two q double six eight seven double nine u
+50132	MEDICAL_RECORD_NUMBER	8.882	11.866	nine two triple six eight seven dot y ##x ##u
+50132	DEPARTMENT	13.568	14.71	waste department
+50132	HOSPITAL	14.93	16.112	mora ##wa hospital
+50132	DATE	16.432	18.455	april tenth , two thousand fourteen
+50132	TIME	19.296	20.858	twelve thirty p . m
+50137	PATIENT	12.992	13.373	dora
+50144	PATIENT	0.231	1.572	za ##hara hamburger
+50144	DATE	3.032	5.814	october , fifteenth , nineteen ninety - six
+50144	STREET	7.314	8.295	stratford house
+50144	CITY	8.635	9.675	nam ##bu ##cca heads
+50144	STATE	10.075	11.096	western australia
+50149	PATIENT	0.151	2.753	for ##for ##a d . finite two four
+50149	HOSPITAL	5.215	6.156	inch ##eon hospital
+50149	STREET	7.958	8.638	cabin street
+50149	CITY	8.999	9.639	kia ##ma
+50149	STATE	9.759	10.68	south australia
+50149	ZIP	12.762	14.003	five one , three , four
+50149	DEPARTMENT	21.509	23.751	dickinson iii south department
+50153	DATE	4.014	6.656	june eighteenth , twenty sixty four
+50153	DEPARTMENT	10.539	11.96	anatomical department
+50153	HOSPITAL	12.721	14.382	fitzroy crossing hospital
+50153	DOCTOR	16.864	18.345	bernardo reggie vanish
+50153	DOCTOR	22.228	22.748	wai ##ku
+50153	DATE	26.331	27.272	june nineteenth
+50171	MEDICAL_RECORD_NUMBER	2.956	3.076	one
+50171	MEDICAL_RECORD_NUMBER	3.136	6.422	seven seven eight five zero two dot st ##z
+50171	MEDICAL_RECORD_NUMBER	8.846	11.731	one seven t eight five zero two six one z
+50171	DATE	14.015	16.399	september seventeenth twenty sixty three
+50171	PATIENT	16.94	17.281	ol ##iva
+50171	ID_NUMBER	22.85	28.6	one seven t eight five zero two six one seven t eight five zero two six
+50201	DATE	0.071	2.792	september eleventh , twenty sixty three
+50201	PATIENT	13.378	13.678	george
+50207	PATIENT	1.414	2.055	thomas
+50207	ID_NUMBER	4.901	8.468	zero six x nine three six five four
+50207	DATE	16.824	19.289	august twenty first twenty sixty three
+50207	DATE	20.351	22.756	september six twenty sixty three
+50216	MEDICAL_RECORD_NUMBER	2.254	9.323	one seven zero six four five eight dot vt ##x eps ##om note
+50216	MEDICAL_RECORD_NUMBER	9.964	13.568	one seven c six four five eight eight seven x
+50216	PATIENT	15.971	16.793	rudolf ru ##hman ##n
+50216	ID_NUMBER	19.736	23.301	one seven c six four five eight eight
+50216	STREET	24.482	25.183	human street
+50216	DISTRICT	25.704	26.425	mount elisa
+50257	DOCTOR	3.277	3.678	curry
+50257	DOCTOR	4.66	5.041	arthur
+50257	DOCTOR	12.776	13.357	richardson
+50257	DATE	13.798	14.399	september
+50261	AGE	3.753	4.494	sixty nine
+50261	DOCTOR	10.998	11.599	davidson
+50261	DATE	15.521	17.863	september twelfth , twenty sixty - three
+50261	DOCTOR	19.264	19.764	tatum
+50261	DOCTOR	20.665	21.105	hayward
+50261	DOCTOR	26.048	26.589	loft ##on
+50261	DOCTOR	27.469	27.65	brooks
+50265	DATE	2.032	5.255	september , twenty - six twenty - sixty - two
+50265	DOCTOR	6.676	7.596	q . fe ##rte ##s
+50265	DOCTOR	11.119	11.499	ip
+50280	PATIENT	1.693	1.994	taylor
+50280	DOCTOR	5.698	6.059	leonard
+50280	DATE	12.928	15.371	march seventeenth , twenty sixty - three
+50280	DOCTOR	22.32	22.7	austin
+50280	DOCTOR	23.221	23.481	river
+50284	ID_NUMBER	1.452	2.672	two three eight eight
+50284	MEDICAL_RECORD_NUMBER	6.834	11.256	seven five three three six two six dot bk ##f
+50284	MEDICAL_RECORD_NUMBER	16.018	23.801	seven five j , three six two six zero . seven five j , three six two six zero
+50284	DATE	25.422	27.963	february twenty sixth twenty sixty three
+50303	DATE	0.071	0.511	today
+50303	PATIENT	2.974	3.954	gary wagner
+50311	PATIENT	1.331	2.232	carter - le ##bo ##eu ##f
+50311	MEDICAL_RECORD_NUMBER	5.173	8.034	a - s - n - o - v
+50311	MEDICAL_RECORD_NUMBER	10.774	13.475	a - s - n - o - v
+50311	DATE	19.097	21.358	october tenth , two thousand sixty - two
+50311	DURATION	22.418	22.658	two
+50311	DURATION	23.339	23.939	three
+50311	HOSPITAL	26.34	27.3	co ##rri ##gent hospital
+50315	PATIENT	2.674	3.095	gordon
+50315	DOCTOR	4.437	4.857	charles
+50315	DOCTOR	8.562	9.103	ku ##z ##ma
+50315	DOCTOR	10.144	10.585	terry
+50315	DOCTOR	11.566	11.907	ari ##es
+50315	PATIENT	14.75	15.231	gordon
+50315	PATIENT	16.953	18.856	june nice
+50316	PATIENT	2.495	2.836	ol ##iva
+50316	TIME	5.1	6.081	three thirty am
+50316	DATE	6.462	11.571	july fifteenth , twenty thirteen ##p
+50316	PATIENT	19.645	20.026	ol ##iva
+50318	DOCTOR	2.434	3.515	p . west ##end ##orf
+50349	DOCTOR	3.435	3.935	shorter
+50349	DOCTOR	4.976	5.417	moody
+50349	PATIENT	13.366	13.946	kathy
+50361	PATIENT	5.643	5.944	annie
+50361	DATE	12.498	15.644	january fifteenth , two thousand sixty - three
+50381	PATIENT	0.051	0.352	mark
+50381	CITY	1.315	2.037	rocky spring
+50381	CITY	2.137	2.578	bowen
+50381	STATE	3.12	4.403	western australia
+50381	ZIP	6.349	8.174	seven zero two two
+50381	DATE	10.5	14.291	january sixteenth , nineteen ninety one
+50381	DATE	15.574	16.617	june twenty eight
+50389	DOCTOR	4.073	4.933	d . sl ##edge
+50392	DATE	1.533	2.054	november
+50392	AGE	10.405	10.925	seventy eight
+50392	PATIENT	11.386	11.867	teresa
+50392	DATE	21.74	24.163	july thirty twenty sixty - five
+50395	DOCTOR	0.952	1.132	a . m .
+50404	STREET	0.993	1.895	tan ##dora street
+50404	CITY	2.136	2.837	bonn ##ey hills
+50404	STATE	3.358	4.04	act
+50404	ZIP	6.385	7.548	one one six nine
+50404	PATIENT	8.109	8.49	thomas
+50404	DEPARTMENT	11.176	13.441	three h . r . state surgical unit
+50404	DOCTOR	16.728	17.049	dirk
+50412	DATE	0.051	0.432	today
+50412	PATIENT	3.276	4.157	stacy house
+50412	ID_NUMBER	7.061	15.133	d - d - d - d - d - d - d - d - d - d - d - d - d - d - d - d - d - d - d - d d d - d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d - d
+50423	ID_NUMBER	5.044	8.192	six one b zero nine four eight five
+50427	PATIENT	0.091	0.974	thomas booker
+50435	DOCTOR	2.493	3.133	stevenson
+50435	DATE	11.881	14.443	august twenty , two thousand sixty - two
+50435	DOCTOR	22.429	23.029	washington
+50435	DOCTOR	23.73	24.21	clinton
+50453	PATIENT	0.171	0.671	sarah
+50453	HOSPITAL	3.753	6.735	east ##world multi - purpose health service
+50453	DEPARTMENT	9.276	11.797	park ##es nine east department
+50453	DATE	12.518	14.899	april seven , twenty fourteen
+50453	TIME	15.899	17.32	five forty p . m
+50453	PATIENT	19.461	19.982	sarah
+50453	DOCTOR	24.844	25.184	reddy
+50453	DOCTOR	26.065	26.365	fitz
+50453	DOCTOR	27.226	27.986	stockton
+50453	DOCTOR	29.107	29.487	barrio
+50454	ID_NUMBER	2.072	13.455	one seven h eight seven eight six five one seven h eight seven eight six five
+50454	PERSONALNAME	16.737	17.597	rosie street
+50454	CITY	18.217	18.577	port
+50454	CITY	18.797	19.257	adelaide
+50454	CITY	19.598	20.098	##field
+50454	STATE	21.578	22.358	tasmania
+50454	ID_NUMBER	24.159	26.28	four four eight six
+50455	DATE	0.392	3.159	august , twenty - second , two thousand sixty - two
+50455	PATIENT	3.66	4.081	je ##line
+50455	DEPARTMENT	5.244	7.109	anatomical pathology department
+50455	HOSPITAL	7.53	8.833	om ##eo district health
+50455	DOCTOR	11.38	11.921	thompson
+50455	DOCTOR	16.272	16.894	st ##am ##mler
+50455	DOCTOR	17.836	18.278	wei ##tz ##man
+50470	DOCTOR	1.653	1.994	morris
+50470	DOCTOR	4.938	5.458	thorn ##burg
+50470	DOCTOR	6.42	6.82	edwards
+50470	DOCTOR	7.501	7.862	bowen
+50470	DOCTOR	8.763	9.144	howard
+50470	DATE	14.05	14.531	september
+50470	DATE	14.831	16.834	nineteenth twenty - sixty - three
+50470	DATE	22.662	24.445	march eleventh , twenty - sixty - four
+50517	PATIENT	3.036	4.439	gail jamie dick ##o
+50517	MEDICAL_RECORD_NUMBER	6.823	12.092	two seven nine five one eight seven dot s ##j ##q
+50517	MEDICAL_RECORD_NUMBER	13.855	16.32	two seven y five one eight
+50524	DATE	0.252	2.585	may twenty fourth , two thousand twelve
+50524	TIME	3.651	5.019	two fifty eight p . m .
+50543	PATIENT	0.111	0.451	eps
+50559	ORGANIZATION	2.714	4.096	sealed air corporation
+50570	DATE	5.6	5.8	iii
+50570	DATE	14.815	14.995	vii
+50570	DATE	15.015	15.396	viii
+50576	DEPARTMENT	3.713	5.653	radiation on ##cology department
+50576	HOSPITAL	6.574	8.154	royal darwin hospital
+50576	DOCTOR	10.535	12.096	margaret az ##eve ##nd ##ros
+50576	DOCTOR	13.157	13.937	r . pot ##os ##ky
+50576	DOCTOR	15.057	15.618	r . mel ##lor ##s
+50576	DOCTOR	16.858	17.358	r . she ##vo
+50578	PATIENT	0.051	0.852	leon porter
+50578	MEDICAL_RECORD_NUMBER	4.276	8.221	four eight zero nine one five four dot w a a
+50578	ID_NUMBER	12.867	16.392	four eight b nine one five four eight zero a
+50578	DATE	17.553	19.836	june twentieth , nineteen eighty nine
+50578	AGE	20.957	21.598	sixty five
+50584	DOCTOR	7.404	7.825	sure ##k
+50584	DOCTOR	9.528	10.249	i . hug ##im
+50584	TIME	11.912	12.894	three fifty pm
+50584	DATE	13.555	15.358	april tenth , twenty fourteen
+50592	HOSPITAL	6.762	9.367	st . george private under
+50592	DEPARTMENT	9.627	12.552	hunter new england mental health service
+50592	STREET	15.116	16.038	prairie hill
+50592	CITY	16.278	16.999	davenport
+50592	STATE	17.3	18.422	northern territory
+50592	ZIP	20.024	21.367	two eight seven nine
+50610	PATIENT	2.054	2.635	ashley
+50610	DATE	3.737	5.399	december
+50610	DEPARTMENT	18.72	20.042	pathology west
+50618	STREET	6.114	6.855	can ##tel ##o
+50618	CITY	6.995	7.735	nam ##bu ##cca heights
+50618	STATE	7.975	8.395	nt
+50618	ZIP	8.736	9.656	five - two - two - two
+50618	DATE	11.017	13.298	november twenty - second , two thousand - two
+50618	DOCTOR	18.341	19.661	grover forrest - franz
+50618	DOCTOR	20.602	21.162	marlon
+50618	DOCTOR	21.923	22.303	f
+50618	DOCTOR	21.923	22.303	. c .
+50618	DOCTOR	23.584	24.304	x . ho ##rry
+50618	DATE	26.685	29.347	june eighteenth , two thousand sixty - four
+50628	PATIENT	0.251	0.792	carol
+50628	DEPARTMENT	2.835	5.278	st . george private department
+50628	HOSPITAL	6.019	8.962	bell ##ingham river district hospital
+50628	DOCTOR	13.989	14.369	booker
+50628	DOCTOR	18.454	19.015	host ##en
+50628	DATE	19.576	21.038	september
+50628	DOCTOR	24.042	25.243	white
+50631	DATE	1.413	3.755	august twenty eighth , twenty sixty three
+50631	PATIENT	4.476	4.776	leon
+50631	HOSPITAL	5.837	6.778	roma hospital
+50631	ID_NUMBER	13.104	19.51	four eight b nine one five four eight four eight b nine one five four eight
+50631	STREET	21.892	23.273	legend manor street
+50631	STATE	24.714	25.415	tasmania
+50631	ZIP	27.537	28.578	two two zero seven
+50632	HOSPITAL	0.472	1.993	mo ##lton - ol ##anda hospital
+50632	PATIENT	2.554	2.834	allen
+50632	DEPARTMENT	5.197	7.62	gu ##ller - ga ##mbo ##n multi ##pur ##pose service
+50632	DOCTOR	15.389	15.829	collins
+50632	DATE	18.092	20.775	july , twenty - fifth , twenty - sixty - two
+50632	DOCTOR	21.917	22.317	sar ##ek
+50632	DATE	25.321	26.282	july , twenty - third
+50639	ID_NUMBER	3.215	6.279	one seven six six six four md ##b
+50639	ID_NUMBER	8.422	15.792	one seven s six six four four one ##tam ##p
+50639	PATIENT	16.233	16.513	allen
+50639	DATE	17.875	20.479	may twenty first two dozen twelve
+50639	TIME	22.481	23.803	nine twenty one a . m .
+50658	DATE	6.304	9.912	august twenty - ninth , twenty sixty - two
+50658	PATIENT	11.014	11.294	eric
+50658	DOCTOR	13.419	13.92	milton
+50658	DATE	17.908	20.734	august thirteenth , twenty sixty - two
+50658	DOCTOR	22.638	22.939	irving
+50662	DATE	1.814	4.198	october fifth , twenty - sixty - two
+50662	DOCTOR	7.403	8.685	a say ##lor
+50662	DOCTOR	15.035	15.857	i . j .
+50665	DOCTOR	3.393	4.714	ira irwin - pig ##gy
+50665	DOCTOR	6.776	8.777	z . ste ##rke ##nberg
+50665	DOCTOR	13.42	14.541	z . gu ##glio ##tti
+50665	DOCTOR	19.545	20.085	uh
+50665	DATE	21.686	24.828	october , second , two thousand sixty - two
+50673	PATIENT	0.051	1.272	jeremy resides
+50673	STREET	1.653	2.474	bolt street
+50673	CITY	2.854	3.535	tent ##er ##field
+50673	STATE	3.875	6.698	sa four four nine three
+50673	DATE	8.3	11.103	february eleventh , nineteen eighty - eight
+50673	DATE	12.564	14.727	july ninth , two thousand twelve
+50673	TIME	15.267	16.589	three forty two p . m .
+50673	DEPARTMENT	19.592	20.833	acute care ward
+50673	HOSPITAL	21.494	22.816	paul pi ##ri hospital
+50673	DOCTOR	25.558	26.059	bryant
+50676	DOCTOR	3.994	4.514	k . yu
+50676	DOCTOR	5.455	5.835	l . h .
+50680	TIME	1.612	2.673	three - fifty pm
+50680	DATE	2.953	4.655	april tenth twenty - fourteen
+50680	DATE	7.777	9.519	june thirteenth twenty - sixty - four
+50680	DOCTOR	10.139	10.78	d . ba ##kk ##e
+50680	DOCTOR	11.62	12.481	cast ##ig ##lion ##e
+50680	HOSPITAL	13.061	14.663	mary ##borough district health service ,
+50680	HOSPITAL	15.123	15.603	den ##ali
+50680	DOCTOR	19.366	19.707	o . d .
+50680	DOCTOR	20.327	20.647	xl
+50686	DATE	2.796	5.742	january fifteenth , two thousand sixty - three
+50686	DOCTOR	7.065	7.526	mann ##es
+50686	DATE	8.247	10.291	april eighth two thousand thirteen
+50686	TIME	11.333	12.997	three thirty - six p . m
+50686	DOCTOR	14.279	14.76	iv ##erson
+50686	DOCTOR	15.421	15.602	cook
+50706	PATIENT	1.411	2.772	claire vanessa qui ##nan
+50706	MEDICAL_RECORD_NUMBER	4.732	7.553	six one one two eight nine six dot b o o
+50706	ID_NUMBER	8.934	12.055	six one d two eight nine six zero five o
+50706	CITY	13.255	13.815	ham ##st ##run ##g
+50706	CITY	13.995	14.495	stirling
+50706	STATE	14.655	15.376	new south wales
+50706	ZIP	15.496	16.616	two five zero zero
+50706	DATE	18.317	20.197	february eight , two thousand three
+50706	ID_NUMBER	24.118	26.259	six one d two eight nine six zero
+50707	DOCTOR	17.109	17.689	q ##a
+50707	DATE	18.15	21.073	september , twenty - fifth twenty - sixty - two
+50707	DOCTOR	27.139	27.96	b . mont ##ai ##gne
+50718	DATE	2.575	5.599	september , twenty - first , twenty - sixty - two
+50718	DOCTOR	14.291	14.792	ci ##ci
+50718	DOCTOR	15.753	16.114	en ##i
+50718	DOCTOR	21.421	22.343	doug wagner
+50728	DATE	5.304	7.389	april twenty - six , nineteen eighty - four
+50728	DATE	8.652	10.316	june twenty - five twenty - twelve
+50728	TIME	10.757	12.441	nine forty - eight a . m
+50728	PATIENT	13.123	13.484	betty
+50728	HOSPITAL	14.907	15.689	seal central
+50728	HOSPITAL	16.551	18.255	st . helens district hospital
+50736	PATIENT	0.031	0.491	fl ##ory
+50736	DATE	9.936	10.936	april
+50736	DATE	13.157	13.958	march
+50789	ID_NUMBER	1.833	9.184	seven three h four two nine five a five j . gordon hayward
+50789	DATE	10.065	12.889	january twenty first nineteen eighty seven
+50789	HOSPITAL	14.15	14.952	st . vincent ' s
+50789	CITY	15.372	15.873	armada ##le
+50789	STATE	15.993	16.634	victoria
+50789	ID_NUMBER	19.057	20.499	three seven nine seven
+50789	MEDICAL_RECORD_NUMBER	23.543	27.809	seven three two four two nine five dot v and j
+50836	DATE	0.332	2.636	october eighth - sixty - two
+50836	DOCTOR	4.921	5.462	xp
+50836	DATE	6.183	8.668	october fourth twenty - sixty - two
+50836	DOCTOR	13.237	13.999	f . den ##nard
+50836	DOCTOR	18.027	18.768	f . cha ##sity
+50837	ID_NUMBER	1.912	5.214	nine two r a five three five four
+50837	STREET	10.797	11.497	peel street
+50837	CITY	12.117	12.818	cab ##ut ##ra
+50837	STATE	13.538	17.8	v . i . c . four a two one
+50837	DATE	20.902	23.624	october second , twenty sixty two
+50837	DEPARTMENT	24.604	26.165	med ##ec surgery ward
+50837	HOSPITAL	26.625	28.746	tri ##sy ##lian family care center ,
+50837	HOSPITAL	29.147	29.607	bel ##more
+50838	STREET	1.832	2.412	old street
+50838	CITY	2.932	3.452	co ##bar
+50838	STATE	3.972	5.092	south australia
+50838	ZIP	6.853	8.233	two zero seven zero
+50838	DATE	14.615	17.336	september tenth years twenty sixty two
+50838	DEPARTMENT	19.656	21.457	three nine jenny hall ' s close
+50838	DOCTOR	23.658	25.058	woodrow sidney der ##oy
+50841	DATE	2.174	5.237	june thirteenth twenty sixty - four
+50841	DOCTOR	7.821	8.181	swift
+50841	DATE	13.808	16.451	june twelfth , twenty sixty - four
+50844	DOCTOR	2.702	2.983	the ##is
+50844	DOCTOR	3.624	4.045	reddish
+50849	DOCTOR	4.136	4.817	f . phillips
+50849	DURATION	15.871	16.412	thirty
+50849	DURATION	19.876	20.377	forty
+50875	DOCTOR	0.872	2.233	eu ##ph ##emia tr ##ach ##tenberg
+50875	AGE	12.34	13.401	sixty two
+50887	ORGANIZATION	0.152	1.498	delta airlines
+50887	HOSPITAL	2.041	4.735	bud ##ala ##da community hospital
+50915	MEDICAL_RECORD_NUMBER	2.074	6.379	nine two four six three one seven dot u double n
+50915	PATIENT	8.802	9.563	a . d . zhang
+50915	DATE	11.325	14.689	november twenty sixth , nineteen ninety seven
+50915	ID_NUMBER	16.412	20.397	nine two m , six three one seven eight five n
+50915	ID_NUMBER	22.699	25.623	nine two m , six three one seven eight
+50916	PATIENT	0.111	1.112	billy fletcher
+50916	DATE	2.093	5.075	march , twenty - fifth , two thousand one
+50916	STREET	6.676	8.077	upper mount glen lake
+50916	CITY	8.538	9.038	penguin
+50916	STATE	9.278	13.281	q ##ld four one five five
+50916	MEDICAL_RECORD_NUMBER	16.404	21.488	three zero eight two three four four dot w r m
+50918	PATIENT	4.174	5.075	mason heal ##d
+50920	PATIENT	0.031	0.432	kenny
+50935	DATE	3.378	6.243	august fourteenth , two thousand sixty two
+50935	DOCTOR	13.458	13.939	iv ##erson
+50935	DOCTOR	14.54	15.001	butler
+50955	DOCTOR	3.196	3.576	m . y .
+50955	DOCTOR	6.681	8.363	e . van der vu ##ren
+50955	DATE	8.864	11.067	november six , twenty sixty - two
+50955	DOCTOR	15.113	16.215	e . pen ##cis
+50955	HOSPITAL	16.656	18.458	med ##rot ##a hospital
+50955	DATE	19.099	21.022	november six , twenty sixty - two
+50973	DOCTOR	2.394	3.135	parks eight
+50973	DOCTOR	4.476	4.897	wallace
+50973	DATE	13.887	16.19	august twenty ninth , twenty sixty three
+50973	DATE	17.131	19.254	september third , twenty sixty three
+50992	DOCTOR	0.131	1.232	aden ##oca ##rc ##ino ##ma
+50992	DOCTOR	7.235	8.556	za ##hra per ##sha
+50992	DOCTOR	9.917	10.917	p za ##mat ##is
+50992	TIME	12.318	14.199	four twenty six p . m
+50992	DATE	14.839	17.801	april sixteenth , two thousand fourteen
+51017	PATIENT	5.823	6.123	mark
+51017	DEPARTMENT	7.245	8.666	st . vincent department
+51017	HOSPITAL	9.707	11.009	karen district health
+51017	DOCTOR	13.391	13.792	pierce
+51017	DATE	16.315	18.938	august first , twenty sixty two
+51017	PATIENT	19.719	20.039	mark
+51019	MEDICAL_RECORD_NUMBER	1.393	7.24	eight six seven five nine nine dot p ##q ##w per ##tain ##s o ##vid ##ia dish ##on
+51019	ID_NUMBER	9.804	12.127	eight six u five nine nine six six
+51019	DATE	14.49	16.612	october twenty three twenty sixty two
+51023	PATIENT	0.091	0.391	ella
+51023	DEPARTMENT	5.754	8.315	vi ##gent ##on multi ##pur ##pose health service
+51023	HOSPITAL	9.036	10.857	northwest regional hospital
+51023	DATE	18.021	20.462	august twenty second twenty sixty two
+51023	DATE	21.142	23.384	august twenty seventh twenty sixty two
+51041	PATIENT	1.511	2.772	nora melvin - mori ##el
+51041	ID_NUMBER	5.233	8.054	four eight q two one nine six two one b
+51041	ID_NUMBER	9.694	11.835	four eight q two one nine six two
+51041	MEDICAL_RECORD_NUMBER	13.795	16.756	four eight six two one nine six dot g e b
+51041	STREET	18.697	19.297	n . ku ##m ##nar
+51041	CITY	19.537	21.978	cu ##na ##bar ##bra ##n northern territory
+51041	ZIP	23.198	24.379	four five zero five
+51041	DATE	25.599	28.16	september twenty first , two thousand and two
+51043	ID_NUMBER	2.453	7.277	nine eight y six two eight five four
+51043	PATIENT	8.738	9.219	eric
+51043	STREET	10.58	11.641	shipping street
+51043	CITY	12.482	13.122	ir ##ra ##wad ##ding
+51043	STATE	13.542	14.964	new south wales
+51043	ZIP	16.745	18.266	two five five nine
+51043	DATE	20.008	23.891	september twenty third nineteen seventy four
+51043	DATE	25.012	28.095	june twenty sixth twenty twelve
+51051	PATIENT	1.091	2.932	yang he sui dani ##lo nas ##ci ##mento
+51051	ID_NUMBER	4.272	7.452	five three p seven seven eight four six three v
+51051	MEDICAL_RECORD_NUMBER	9.233	12.373	five three five seven seven eight dot l ##q ##k
+51051	MEDICAL_RECORD_NUMBER	13.854	16.334	five three p seven seven eight four six
+51051	DATE	18.555	20.915	january eighteenth , nineteen eighty - seven
+51051	STREET	21.875	22.775	mainline mor ##ro
+51051	STATE	23.235	25.136	australian capital territory
+51051	ZIP	25.256	26.256	six nine one zero
+51057	PATIENT	0.151	0.693	kathy
+51057	STREET	1.775	2.758	sea weekly street
+51057	CITY	4.121	4.983	key arbor
+51057	STATE	5.464	6.046	washington
+51057	TIME	7.189	8.732	night seven zero
+51057	DATE	10.978	14.126	january twenty sixth , two thousand four
+51062	PATIENT	12.145	13.007	mr . hunter
+51067	DOCTOR	1.072	1.593	robinson
+51067	DOCTOR	3.736	4.056	mann
+51067	HOSPITAL	14.789	16.351	hess rural health service
+51067	PATIENT	17.212	17.693	ariel
+51067	HOSPITAL	19.936	21.097	serena hospital
+51081	DOCTOR	2.112	4.672	jerome andres yer ##ans ##on - ur ##io
+51081	DOCTOR	10.814	11.154	x . c .
+51081	DOCTOR	12.074	12.714	a . en ##fi ##e
+51081	HOSPITAL	13.294	14.435	kali ##a hospital
+51081	DOCTOR	15.675	16.335	a . gr ##ism ##ore
+51081	HOSPITAL	17.255	19.636	quinn ##bey ##an district hospital
+51081	DATE	21.656	24.137	september , twenty - seventh twenty - sixty - two
+51094	ORGANIZATION	1.672	2.813	asa pathology
+51094	STREET	6.475	7.516	sand ##rine street
+51094	CITY	7.856	8.597	bowen head
+51094	STATE	9.057	10.278	western australia
+51094	ZIP	12.119	13.68	six nine zero six
+51094	PATIENT	14.801	15.221	jasper
+51094	ID_NUMBER	20.525	20.745	two
+51094	ID_NUMBER	20.825	28.41	seven oh five three seven four zero . two seven oh five three seven four zero
+51131	ID_NUMBER	1.352	6.015	dot nine forty eight zero seven six six ap
+51131	PATIENT	6.716	7.376	chris hunter
+51131	STREET	9.218	10.138	goose ##well street
+51131	CITY	10.378	11.219	bono ##ra point
+51131	STATE	11.419	12.42	south australia
+51131	ZIP	14.441	16.303	six two two zero
+51154	DATE	1.053	1.514	today
+51154	PATIENT	4.359	5.4	carol porter
+51154	MEDICAL_RECORD_NUMBER	8.566	9.648	thirty - one - eight
+51154	MEDICAL_RECORD_NUMBER	10.069	12.954	four - one - two - six - two - nine - k
+51154	MEDICAL_RECORD_NUMBER	15.879	21.028	three - one - zero , four - one - two - six , dot h - y - k
+51154	MEDICAL_RECORD_NUMBER	23.312	24.354	thirty - one - eight
+51154	MEDICAL_RECORD_NUMBER	24.794	26.778	four - one - two - six - two
+51185	STREET	2.325	3.231	kern ##an street
+51185	CITY	3.754	4.378	gun ##d ##wind ##i
+51185	STATE	4.881	6.088	western australia
+51201	DOCTOR	5.881	6.442	s . em ##ler
+51201	HOSPITAL	7.224	9.287	gi ##pps ##land southern health service
+51201	HOSPITAL	9.948	11.17	ang ##ath ##a campus
+51201	DATE	12.112	14.436	november tenth , two thousand sixty - two
+51201	DATE	17.662	18.603	october th ##ir ##tie ##th
+51201	DATE	19.024	19.986	two thousand sixty - two
+51277	PATIENT	2.412	3.432	jerome shu ##ba
+51277	DATE	5.833	7.854	june first , nineteen ninety
+51277	ID_NUMBER	11.655	15.816	eight four w eight three four six eight two w
+51277	MEDICAL_RECORD_NUMBER	18.357	21.798	eight four eight eight three four dot rv ##g
+51277	MEDICAL_RECORD_NUMBER	24.679	27.6	eight four w eight three four six eight
+51278	ID_NUMBER	2.775	5.259	zero eight v six nine one four two
+51278	DOCTOR	12.169	12.63	wesley
+51278	DATE	14.372	16.936	july third , two thousand sixty two
+51278	DOCTOR	18.679	19.079	spade
+51310	DATE	0.572	0.912	today
+51310	PATIENT	3.455	4.115	betty cook
+51310	PATIENT	9.961	10.222	betty
+51310	STREET	11.002	11.543	fort foot ##e
+51310	CITY	11.763	12.544	goa
+51310	STATE	12.624	12.704	wa
+51316	DATE	15.0	17.064	september twenty - eighth twenty - sixty - two
+51354	DATE	0.031	0.472	today
+51354	PATIENT	2.696	3.517	brendan sar ##ge
+51354	ID_NUMBER	5.18	9.687	three four g five two nine three five zero three
+51354	DATE	12.172	23.791	march twenty seventh , nineteen ninety eight three four two five two nine three dot o . a j
+51358	DATE	2.972	5.353	september sixth , twenty sixty three
+51358	DATE	10.556	11.076	same date
+51358	DOCTOR	12.897	13.217	west
+51358	PATIENT	14.777	15.238	derek
+51392	PATIENT	1.433	2.595	hay ##wood - mccoy ##le
+51392	DATE	11.791	11.851	oct
+51406	PATIENT	1.551	1.911	brendan
+51406	DOCTOR	5.832	6.212	moran ##t
+51406	DOCTOR	10.253	10.513	cook
+51406	DOCTOR	11.233	11.653	ha ##user
+51406	PATIENT	16.094	16.594	brendan
+51406	PATIENT	20.075	20.515	brendan
+51406	DATE	25.416	25.716	july
+51413	MEDICAL_RECORD_NUMBER	3.194	6.958	six five five six eight five five dot sw ##k
+51413	MEDICAL_RECORD_NUMBER	9.12	11.823	six five oh six eight five five seven
+51413	PATIENT	15.827	16.207	taylor
+51413	DATE	17.869	20.551	january fourteenth twenty thirteen
+51413	TIME	22.313	26.377	nine oh three a . m . ##tam ##p
+51415	PATIENT	2.512	2.992	patient
+51415	PATIENT	3.153	4.313	jesus for ##fa ##la
+51415	ID_NUMBER	7.074	7.415	zero
+51415	ID_NUMBER	7.515	16.859	six m two four zero seven eight zero k zero six m two four zero seven eight
+51415	MEDICAL_RECORD_NUMBER	19.581	24.023	zero six four two four zero dot tv ##a
+51447	PATIENT	0.031	0.492	fl ##or ##rie
+51447	DOCTOR	5.319	5.94	stevenson
+51447	DATE	16.557	19.041	february fourth , twenty sixty three
+51447	DATE	19.903	22.126	february fifth , twenty sixty three
+51447	DOCTOR	26.333	26.674	park
+51478	DATE	1.931	3.692	june tenth , nineteen eighty - seven
+51478	DATE	6.012	8.213	april eighth , two thousand fourteen
+51478	TIME	8.813	10.493	three fifty p . m
+51478	DOCTOR	17.155	18.815	ng ##uy ##a adolf ##ot ##ris
+51478	DOCTOR	19.556	20.096	g . f .
+51478	DOCTOR	21.216	21.916	s . lu ##bel
+51478	DATE	25.977	28.878	june thirteenth , two thousand sixty - four
+51480	ID_NUMBER	1.132	5.118	eight six f two eight six four two seven eight
+51480	PATIENT	7.581	8.302	dylan murray
+51480	PATIENT	9.383	9.764	dylan
+51480	DATE	10.445	13.128	january thirty two thousand and seven
+51480	STREET	13.969	14.931	c . chase street
+51480	CITY	15.291	15.772	smith ##ton
+51480	STATE	15.992	16.973	south australia
+51480	ID_NUMBER	18.635	20.178	seven three zero seven
+51480	MEDICAL_RECORD_NUMBER	24.503	27.687	eight six two two eight six four dot h . s . v
+51487	DATE	0.371	2.872	august six , two thousand sixty two
+51487	PATIENT	3.513	3.993	kathy
+51487	HOSPITAL	6.374	8.655	prince of wales private department
+51487	HOSPITAL	11.697	13.297	char ##lev ##ille hospital
+51487	DOCTOR	14.718	15.238	hansen
+51488	PATIENT	7.961	8.481	ashley
+51488	DOCTOR	14.509	14.769	cook
+51488	DOCTOR	16.211	16.691	liu
+51488	DOCTOR	17.793	18.113	gong
+51488	DATE	23.059	26.263	may , twenty - third twenty - sixty - four
+51488	DOCTOR	26.884	27.104	cook
+51489	PATIENT	4.293	4.814	jasper
+51496	PATIENT	0.031	0.672	george hill
+51496	DATE	1.493	4.056	january seventeenth , two thousand three
+51496	HOSPITAL	8.041	9.263	bar ##ala ##ba hospital
+51496	MEDICAL_RECORD_NUMBER	14.89	15.17	nine
+51496	MEDICAL_RECORD_NUMBER	15.23	25.103	six zero two five nine three dot d i o and eps ##o id nine six c two five nine three one three o
+51506	MEDICAL_RECORD_NUMBER	3.395	7.521	nine six zero zero six three five dot p ##f ##q
+51506	ID_NUMBER	12.347	15.972	nine six a zero six three five five
+51506	PATIENT	19.336	19.656	ariel
+51506	DATE	24.182	26.445	june fourteenth twenty sixty two
+51514	DATE	1.112	2.913	july eighth , twenty nineteen
+51514	PATIENT	3.534	3.934	thomas
+51514	HOSPITAL	5.476	6.636	ipswich hospital
+51514	DATE	7.437	9.879	august twenty first , twenty sixty three
+51514	ID_NUMBER	14.903	22.65	zero six x nine three six five four zero six x nine three six five four
+51515	ID_NUMBER	0.952	2.293	six nine eight seven
+51515	ID_NUMBER	4.515	9.199	zero four f zero seven three eight nine six i
+51515	MEDICAL_RECORD_NUMBER	12.461	18.587	zero four two zero seven three eight dot y ##qi
+51515	ID_NUMBER	21.009	24.872	zero four f zero seven three eight nine
+51543	PATIENT	0.051	0.372	leon
+51562	ID_NUMBER	1.311	5.612	one seven n , three four two , six four five x
+51562	PATIENT	6.473	7.353	mind ##y nielsen
+51562	DATE	8.713	11.494	february second , nineteen seventy two
+51562	STREET	12.974	13.514	ka ##pit ##i
+51562	CITY	13.574	14.294	gold coast
+51562	STATE	14.574	15.755	western australia
+51562	ZIP	17.775	19.016	two eight four two
+51562	MEDICAL_RECORD_NUMBER	24.337	29.298	one seven five three , four two six dot l o x
+51565	DATE	6.244	8.569	october third , twenty sixty - two
+51565	DOCTOR	11.415	13.901	le ##mu ##el ulysses fan ##zle ##r
+51565	DOCTOR	18.43	19.733	yu di ren ##zo
+51565	DATE	20.375	22.499	october fifth , twenty sixty - two
+51604	DOCTOR	2.833	4.235	sha ##rl ##a car ##ith ##ers
+51604	DOCTOR	5.335	6.877	jan ##tz - mis ##han ##ko
+51604	DATE	7.537	9.839	october tenth sixty two
+51617	DOCTOR	0.692	1.474	pi ##oja ##no
+51617	ORGANIZATION	5.401	6.623	am ##erian corporation
+51628	DATE	2.558	4.784	may , twenty - nine two thousand four
+51628	DATE	6.469	8.936	may , twenty - seven , two thousand sixty - four
+51628	DOCTOR	10.981	11.703	l . carr ##ar
+51628	DOCTOR	13.809	14.451	l . lu ##mad ##il
+51636	DATE	1.183	3.954	september sixth , twenty sixty three
+51636	DOCTOR	5.159	5.46	ben
+51636	DOCTOR	6.102	6.745	sa ##bon ##is
+51649	PATIENT	0.031	0.471	katrina
+51649	ID_NUMBER	3.052	9.196	four nine z seven two zero six three , four nine z seven two zero six three
+51649	DATE	14.498	16.659	october fourteenth , twenty sixty three
+51649	PATIENT	16.819	17.26	katrina
+51690	DOCTOR	1.794	2.275	x ##fe ##i
+51690	TIME	4.76	6.042	three forty p . m .
+51690	DATE	6.803	7.445	august eighth
+51690	DATE	7.885	8.767	two thousand twelve
+51690	DOCTOR	10.049	10.691	x ##chi ##lo
+51690	DATE	16.281	18.465	november tenth , two thousand sixty two
+51705	DOCTOR	3.323	4.788	jamie brant ##on hilton
+51705	DOCTOR	5.511	5.852	w g .
+51705	DOCTOR	7.097	7.859	d . good ##ner
+51705	DATE	11.212	11.713	september
+51706	DOCTOR	3.673	4.493	h . der ##is ##u
+51706	DOCTOR	23.002	23.642	h . wood ##folk
+51711	DOCTOR	13.595	13.975	irving
+51732	DATE	0.051	0.371	today
+51732	PATIENT	1.292	1.893	danny smith
+51734	ZIP	2.505	3.169	one twelve
+51734	DATE	3.772	6.769	july twenty sixth two thousand twelve
+51739	DATE	0.512	1.713	september th ##ir ##tie ##th
+51739	ZIP	2.014	2.935	two thousand five
+51739	STREET	4.857	5.298	fa ##lk ##ham
+51739	CITY	5.578	6.079	howl ##ong
+51739	STATE	6.379	7.0	victoria
+51739	ZIP	9.183	10.385	four zero one two
+51739	DATE	13.489	16.112	september fourteenth , twenty sixty two
+51739	DEPARTMENT	16.993	18.235	seals central
+51739	DOCTOR	20.778	21.7	ted burn ##ey
+51739	DATE	24.724	27.227	september fifteenth , twenty sixty two
+51739	DOCTOR	28.148	28.669	x ##w
+51750	DOCTOR	1.072	1.513	lowry
+51750	DOCTOR	1.993	2.393	dow ##dy
+51750	DOCTOR	2.974	3.234	lin
+51750	DOCTOR	3.835	4.335	iv ##erson
+51750	DOCTOR	5.236	5.557	cook
+51750	DOCTOR	6.358	6.778	mane ##ss
+51750	DATE	11.463	14.206	november sixth two thousand sixty - three
+51750	DOCTOR	15.527	15.968	lowry
+51750	DATE	19.071	21.694	november seventh two thousand sixty - three
+51750	DOCTOR	24.837	25.317	iv ##erson
+51750	DOCTOR	25.898	26.078	cook
+51759	STREET	6.362	7.403	burns ##ide street
+51759	CITY	8.085	9.828	beacon ##field upper
+51759	STATE	10.288	12.071	northern territory
+51759	DATE	20.846	21.227	august
+51762	PATIENT	1.093	1.574	katrina
+51762	DATE	3.939	5.181	may
+51762	PATIENT	12.475	12.936	katrina
+51763	DATE	5.359	7.722	april , twenty - sixty - four
+51763	DATE	11.628	14.732	april fifteenth , twenty - sixty - four
+51766	ID_NUMBER	1.695	4.281	seven one v nine three zero eight two
+51766	STREET	9.073	10.255	north col ##umb ##ine street
+51766	STREET	10.556	11.578	basement space
+51766	CITY	12.08	12.841	q ##ld
+51766	ZIP	14.044	15.187	two six two three
+51766	DATE	18.515	20.78	october twenty four , twenty sixty two
+51767	STREET	1.953	2.634	to ##bri ##n
+51767	CITY	2.754	3.354	ya ##mba
+51767	DATE	8.98	11.243	october fifth , two thousand twenty - nine
+51771	PATIENT	0.031	0.832	michael lin ##wood
+51771	STREET	2.174	7.3	love ##lace street
+51771	CITY	7.46	8.06	casino
+51771	STATE	8.501	9.342	new south wales
+51771	ID_NUMBER	11.324	12.546	two two two four
+51771	MEDICAL_RECORD_NUMBER	16.33	20.755	five one three five zero two five dot tb ##t
+51771	MEDICAL_RECORD_NUMBER	23.438	26.842	five one i five zero two five seven
+51771	ID_NUMBER	28.945	29.766	five one i
+51789	DEPARTMENT	4.276	4.937	inc ##iso ##r
+51792	DURATION	14.516	14.777	three
+51792	DURATION	15.997	16.237	ten
+51792	DURATION	19.558	20.219	fifteen
+51793	DATE	0.371	3.033	december twenty third , twenty sixty three
+51793	DOCTOR	6.796	7.136	len ##z
+51793	DATE	9.078	9.338	day
+51793	DATE	10.098	12.62	december twenty fourth , twenty sixty three
+51793	DOCTOR	18.345	18.845	del ##man
+51793	DOCTOR	23.648	24.609	ellington has
+51794	HOSPITAL	1.654	2.977	moss ##man hospital
+51794	DEPARTMENT	3.438	7.085	doctor - shared multi ##pur ##pose health service
+51794	HOSPITAL	8.067	9.951	hunter area department
+51794	DEPARTMENT	12.316	14.179	intensive care unit
+51794	DOCTOR	17.646	18.167	daniels
+51794	DOCTOR	18.648	18.769	on
+51794	DOCTOR	18.849	19.109	march
+51817	DATE	0.452	0.752	today
+51817	PATIENT	2.255	3.016	jeremy reeves
+51817	MEDICAL_RECORD_NUMBER	4.979	8.104	two nine f seven eight four seven five seven r
+51817	MEDICAL_RECORD_NUMBER	9.947	12.952	two nine two seven eight four dot sp ##s
+51817	MEDICAL_RECORD_NUMBER	16.638	22.187	two nine f seven eight four seven five , two nine f seven eight four seven five
+51817	PATIENT	22.788	23.108	jeremy
+51817	STREET	23.789	24.651	rich ##land valley
+51817	CITY	24.851	25.432	richmond
+51817	STATE	25.813	27.315	australian capital territory
+51822	PATIENT	1.534	1.854	roy
+51822	TIME	3.057	4.98	june night
+51822	PATIENT	20.508	20.809	roy
+51826	PATIENT	4.155	5.416	ruben mickey push ##ard
+51826	ID_NUMBER	8.179	12.022	one six j , one zero two , seven six six c
+51826	MEDICAL_RECORD_NUMBER	14.284	17.547	one six three , one zero two , dot ss ##p
+51826	MEDICAL_RECORD_NUMBER	19.649	22.572	one six j , one zero two , seven six
+51832	DOCTOR	3.515	5.317	raoul perez
+51832	DOCTOR	8.16	8.36	ge
+51832	DOCTOR	8.44	8.48	fr
+51842	DATE	1.894	4.518	september , twenty - eighth , twenty - sixty - two
+51842	DEPARTMENT	5.319	6.701	med ##ic ' s surgery ward
+51842	HOSPITAL	7.402	9.385	west wi ##mmer ##a health service
+51842	CITY	9.685	10.266	kan ##ai ##va
+51842	DOCTOR	15.034	16.736	quad edison jan ##us
+51842	DOCTOR	18.058	18.479	l ##v
+51842	DATE	21.844	24.448	september , twenty - ninth twenty - sixty - two
+51866	DOCTOR	0.391	0.692	brown
+51866	DATE	10.059	12.401	january
+51866	DOCTOR	20.888	21.329	porter
+51866	DOCTOR	21.949	22.31	hero
+51866	DOCTOR	23.07	23.571	gr ##att ##on
+51866	PATIENT	27.134	27.514	dylan
+51867	TIME	0.411	1.933	eight fifty two p . m .
+51867	DEPARTMENT	6.037	8.919	st . vincent department forensic hospital
+51867	DOCTOR	10.701	11.061	gr ##ou ##ch
+51867	DATE	15.145	17.107	may seventeen twenty sixty four
+51876	PATIENT	3.292	4.852	rain ##a ja ##gens - briggs
+51876	MEDICAL_RECORD_NUMBER	7.953	13.814	one seven h eight seven eight six five two c
+51876	MEDICAL_RECORD_NUMBER	17.635	24.137	one seven two eight seven eight six dot ngc
+51900	PATIENT	5.922	6.603	sabrina
+51900	PATIENT	17.103	17.724	sabrina
+51913	DATE	4.442	6.386	june eighteenth , twenty sixty four
+51913	TIME	18.997	20.22	twelve o ' clock position
+51913	TIME	22.144	22.746	three o ' clock
+51918	PATIENT	4.332	5.212	iss ##a smith
+51918	DATE	11.893	13.293	early june
+51931	PATIENT	0.111	1.013	laura crawford
+51931	DATE	9.346	9.547	october
+51931	HOSPITAL	10.729	11.77	rocking ##ham general hospital
+51949	DATE	25.161	26.543	september first
+51967	DOCTOR	0.672	1.072	rose
+51967	DEPARTMENT	4.175	4.696	esa
+51976	MEDICAL_RECORD_NUMBER	5.666	7.551	two thousand sixty under
+51976	MEDICAL_RECORD_NUMBER	8.854	11.883	nine five w seven eight five four one
+51984	DATE	0.512	3.137	november of twenty - first , nineteen eighty - six
+51984	DATE	6.763	9.088	september thirteenth , twenty sixty - two
+51984	HOSPITAL	10.27	11.472	seals central
+51984	HOSPITAL	11.893	12.895	red ##land hospital
+51984	DOCTOR	14.858	16.341	tak ##a williams - crown
+51984	DATE	20.328	22.592	september fourteenth , twenty sixty - two
+51984	DATE	23.173	25.418	september fifteenth , twenty sixty - two
+51984	DATE	26.179	28.183	december first , twenty sixty - two
+51987	DOCTOR	0.691	1.551	g . cal ##di ##llo
+51987	DATE	4.532	6.173	june
+51987	DEPARTMENT	8.193	9.313	seed path department
+51987	HOSPITAL	9.554	10.494	waller ##ill hospital
+51998	DOCTOR	3.258	5.323	ol ##ly lowell - gr ##ob ##rac ##h
+51998	DOCTOR	8.37	8.811	axel
+51998	DOCTOR	9.653	10.154	jay ##ce ##e
+51998	DOCTOR	11.257	11.758	edge ##worth
+51998	DATE	14.845	17.291	october third , twenty sixty two
+51998	DATE	17.892	20.037	december third , twenty sixty two
+52015	ID_NUMBER	0.111	3.293	six three f two three three seven two
+52015	CITY	5.715	6.256	glen ##ville
+52015	CITY	6.296	8.237	newcastle northern territory
+52015	ID_NUMBER	10.739	12.02	four three seven two
+52015	DATE	13.501	15.903	december second nineteen ninety four
+52015	DATE	23.829	25.15	july sixteenth
+52018	PATIENT	2.334	3.115	kendall sur ##ley
+52018	ID_NUMBER	5.279	9.004	two one i seven six two four zero a w
+52018	MEDICAL_RECORD_NUMBER	11.247	14.472	two one three seven six two dot mc ##v
+52018	MEDICAL_RECORD_NUMBER	17.036	19.96	two one i seven six two four zero
+52018	STREET	22.223	23.345	lower maj ##ap ##onic ##s
+52018	CITY	23.565	24.106	wash ##oe
+52018	STATE	24.426	25.087	tasmania
+52018	ZIP	26.369	27.571	seven three zero five
+52114	DATE	3.097	5.762	october first , twenty sixty two
+52124	ID_NUMBER	3.355	6.459	three four g five two nine three five
+52124	PATIENT	8.101	8.481	brendan
+52124	STREET	9.322	10.264	platt house street
+52124	CITY	10.784	11.425	cu ##rie cu ##rie
+52124	STATE	11.485	12.186	victoria
+52124	ZIP	14.328	15.73	three one six six
+52124	HOSPITAL	18.293	21.017	ball ##arat health services base hospital
+52124	DEPARTMENT	22.158	23.54	seal central department
+52154	ID_NUMBER	9.627	12.571	two one i seven six two four zero
+52154	DURATION	13.894	17.76	one hundred eighty one hundred twenty ninety five mill
+52172	HOSPITAL	4.296	5.738	dickinson iii north
+52172	HOSPITAL	6.179	7.28	port pear ##y hospital
+52172	DOCTOR	12.527	13.749	reuben g ##won ##g el ##dridge
+52172	DOCTOR	14.45	14.81	du ##an
+52172	DOCTOR	15.531	16.272	q over ##ba ##e
+52175	DATE	3.116	4.038	may th ##ir ##tie ##th
+52175	AGE	4.118	5.079	twenty twenty five
+52175	DOCTOR	8.505	9.186	peter mac
+52175	DOCTOR	11.41	13.073	keith wesley land ##kam ##mer
+52175	AGE	21.326	21.807	sixty
+52176	DOCTOR	3.218	3.719	wise ##man
+52176	DOCTOR	6.826	7.207	mu ##sk
+52176	DOCTOR	7.888	8.269	moody
+52176	DOCTOR	8.91	9.251	knight
+52176	DOCTOR	9.933	10.353	porter
+52176	DOCTOR	11.155	11.436	hayes
+52182	DATE	0.611	3.093	february eighteenth , twenty - fourteen
+52182	TIME	3.834	4.994	one - forty - nine p . m .
+52182	PATIENT	5.535	5.875	laura
+52182	ID_NUMBER	13.06	19.965	three - zero - t - six - eight - one - five - zero three - zero - t - six - eight - one - five - zero
+52182	STREET	21.886	22.827	stone mill street
+52182	CITY	23.087	23.587	go ##sford
+52182	STATE	23.747	24.148	nt
+52182	ZIP	26.489	27.33	one - two - two - four
+52195	DATE	0.351	2.932	september eighteenth , twenty sixty three
+52195	DATE	8.235	10.576	september second , twenty sixty three
+52195	PATIENT	12.317	12.657	george
+52195	AGE	16.92	17.56	twenty three
+52195	TIME	27.285	28.586	three forty p . m .
+52230	DOCTOR	3.439	3.84	ellis
+52230	DURATION	4.783	5.565	a few days
+52230	DATE	6.788	7.87	april
+52230	DOCTOR	10.837	11.299	porter
+52230	DOCTOR	14.426	14.647	mike
+52279	TIME	0.432	2.334	twelve forty - four pm
+52279	PATIENT	2.955	3.255	ja ##len
+52279	DEPARTMENT	3.916	4.397	pathways ,
+52279	HOSPITAL	5.098	6.4	world memorial hospital
+52279	DOCTOR	8.122	8.522	porter
+52279	DATE	12.388	14.27	august twenty - seven , twenty sixty - two
+52279	DOCTOR	16.213	16.593	leonard
+52279	DOCTOR	17.274	17.695	rub ##io
+52279	PATIENT	21.14	21.5	ja ##len
+52290	PATIENT	2.692	3.772	virginia james
+52290	DATE	13.495	13.636	july
+52301	DOCTOR	0.371	0.952	gr ##ac ##ia
+52301	DOCTOR	8.662	9.223	butler
+52301	DOCTOR	9.844	10.345	martin
+52301	DOCTOR	11.186	11.747	joseph
+52301	DOCTOR	12.447	12.968	brandon
+52301	DOCTOR	13.809	14.17	towns
+52301	DATE	21.96	24.123	september second twenty sixty three
+52301	DATE	24.764	27.708	september eleventh , twenty sixty three
+52311	DEPARTMENT	1.612	3.093	parks nine east department
+52311	DATE	3.634	5.095	may , twenty eighth , twenty twelfth
+52311	TIME	6.416	6.956	eight twelfth
+52311	TIME	12.8	13.581	nine thirty five
+52311	TIME	14.121	14.962	that same morning
+52327	PATIENT	2.873	3.673	tom barry
+52329	HOSPITAL	1.593	2.595	spring ##wood hospital
+52329	DATE	3.456	5.058	november tenth , twenty - sixty - two
+52329	DOCTOR	9.364	10.125	ok ##as ##of ##sky
+52329	DATE	14.372	16.575	september twenty - seventh - sixty - two
+52329	DATE	18.397	20.18	may tenth , twenty - sixty - two
+52329	ID_NUMBER	21.522	25.427	five - three p - seven - seven - eight - four - six a - five
+52338	PATIENT	0.091	0.311	ella
+52338	DEPARTMENT	2.114	4.657	hunter area pathology department
+52338	HOSPITAL	5.358	8.161	kala ##nch ##oe multi ##pur ##pose health service
+52338	DOCTOR	13.448	13.889	vale ##nt
+52338	DOCTOR	16.632	17.133	jackson
+52338	DOCTOR	17.874	18.294	fish ##el
+52338	DATE	23.081	23.221	may
+52351	DATE	0.527	1.028	today
+52351	PATIENT	3.353	4.174	sarah scott
+52351	PATIENT	4.775	5.437	wasp
+52351	MEDICAL_RECORD_NUMBER	7.06	12.37	five one r zero one three five eight seven v
+52351	MEDICAL_RECORD_NUMBER	15.436	20.787	five one six zero one three five dot v u v
+52356	PATIENT	0.372	0.692	gary
+52356	STREET	1.553	2.595	west porter street
+52356	CITY	2.895	4.037	bag ##a , vic
+52356	DATE	7.021	7.302	may
+52356	DATE	14.432	14.673	june
+52356	DATE	14.753	15.073	june
+52356	DATE	15.153	15.434	june
+52356	DATE	15.694	15.854	june
+52356	DATE	15.874	16.195	june
+52356	DATE	16.235	16.415	june
+52356	DATE	16.435	16.576	june
+52356	DATE	17.297	17.457	june
+52356	DATE	17.537	17.797	june
+52356	DATE	17.817	17.978	june
+52356	DATE	18.078	18.358	june
+52356	DATE	18.458	18.639	june
+52356	DATE	18.719	19.179	june
+52356	DATE	19.92	20.241	june
+52356	DATE	20.261	20.441	june
+52356	DATE	20.481	20.742	june
+52356	DATE	20.802	21.162	june
+52356	DATE	21.262	21.723	june
+52356	DATE	21.863	22.084	june
+52356	DATE	22.104	22.244	june
+52356	DATE	22.304	22.665	june
+52356	DATE	22.805	23.025	june
+52356	DATE	23.526	24.027	june
+52356	DATE	24.127	24.287	june
+52356	DATE	24.307	24.527	june
+52356	DATE	24.627	24.888	june
+52372	PATIENT	0.031	0.292	danny
+52372	STREET	1.435	2.458	bram ##ston street
+52372	CITY	2.799	3.4	th ##uro ##mere
+52372	ID_NUMBER	5.045	6.429	five two seven three
+52372	DATE	7.933	10.24	july twenty third , two thousand four
+52375	DATE	0.812	1.192	today
+52375	PATIENT	3.955	4.876	jo ##lene parker
+52375	PATIENT	8.56	9.0	jo ##lene
+52379	STREET	2.137	2.859	list ##on
+52379	CITY	3.18	3.601	l ##yt ##ton
+52379	CITY	4.043	5.086	q ##ld
+52379	DATE	11.484	14.774	march twenty - first , nineteen ninety - four
+52384	PATIENT	3.999	4.841	addison dad ##o
+52384	ID_NUMBER	7.768	11.495	six three m seven four one four five zero o
+52384	MEDICAL_RECORD_NUMBER	13.44	16.907	six three four seven four one dot l ##na
+52408	DOCTOR	1.313	2.014	terry
+52408	DOCTOR	5.76	6.28	temples
+52432	PATIENT	2.756	3.598	ja ##len nielsen
+52435	MEDICAL_RECORD_NUMBER	2.417	7.929	nine , two , six , eight , five , three , five , dot , m ##z ##s
+52435	PATIENT	10.996	11.898	liz le ##her
+52435	DATE	13.402	15.767	october , eighteen , twenty - ten
+52435	ID_NUMBER	17.972	22.402	nine , two , r - a five , three , five , four , nine , s
+52448	DOCTOR	3.415	4.055	van v ##lie ##t
+52448	DATE	8.84	11.183	july , twenty - seventh , twenty - sixty - two
+52448	PATIENT	11.723	12.063	dora
+52448	DOCTOR	15.047	15.547	gas ##ol
+52448	PATIENT	26.859	27.179	dora
+52451	PATIENT	1.052	1.653	harley ra ##der
+52451	MEDICAL_RECORD_NUMBER	3.455	6.379	zero five seven seven five eight dot kb ##p
+52451	ID_NUMBER	7.941	11.185	zero five t - seven five eight three zero five m
+52451	ID_NUMBER	12.887	14.929	zero five t - seven eight three zero
+52451	DATE	17.412	19.254	march third , nineteen ninety - seven
+52451	STREET	20.235	21.717	n ka ##spar ##t street
+52451	CITY	22.218	22.698	gu ##l ##wa
+52451	ZIP	25.822	27.084	six seven zero five
+52464	ID_NUMBER	3.142	7.517	four four b two zero seven four eight five e
+52464	PATIENT	10.286	11.21	connie din ##wi ##dd ##ie
+52464	DATE	13.016	15.203	april ninth , nineteen eighty three
+52479	ID_NUMBER	1.933	10.082	five one zero one three five eight five one zero one three five eight
+52479	PATIENT	10.683	11.123	sarah
+52479	CITY	12.405	14.287	mitch ##el newcastle
+52479	STATE	15.068	15.468	wa
+52479	ID_NUMBER	18.792	20.594	two three one six
+52479	DATE	22.596	25.959	april twenty fourth nineteen ninety seven
+52481	DATE	0.271	2.295	june the eighteenth twenty - twelfth
+52481	TIME	3.477	5.701	twelve - zero - six p . m .
+52481	PATIENT	5.801	6.202	jeremy
+52481	DEPARTMENT	7.785	11.652	douglas hell ##ym ##ore multi ##pur ##pose sent ##ry
+52481	DOCTOR	14.517	14.817	nurse
+52481	DATE	20.647	22.491	august twenty - one twenty - sixty - two
+52481	DOCTOR	24.334	24.795	robinson
+52488	PATIENT	0.111	0.652	ashley
+52488	STREET	1.753	2.694	almond street
+52488	CITY	3.035	3.616	waterford
+52488	STATE	4.236	6.78	australian capital territory
+52488	ZIP	10.485	12.307	three seven five eight
+52488	DATE	14.209	16.472	october third , twenty twelve
+52538	DATE	0.231	2.614	june tenth , two thousand twelve
+52538	TIME	3.936	5.377	six forty eight a . m .
+52538	PATIENT	6.439	6.779	calvin
+52538	DEPARTMENT	8.661	9.923	cpc pathology
+52538	HOSPITAL	11.685	12.626	ang ##lis ##s hospital
+52538	DOCTOR	16.471	16.951	duncan
+52540	PATIENT	0.071	0.452	connie
+52540	DEPARTMENT	2.275	3.617	laboratory department
+52540	HOSPITAL	4.318	7.504	mercy health o ' connell family center campus
+52548	DURATION	0.772	1.012	five
+52548	DOCTOR	8.822	9.302	ju
+52548	DATE	9.643	11.565	september , twenty eighth , twenty sixty two
+52548	DOCTOR	15.91	16.451	obe ##rsa ##rd
+52548	DURATION	24.621	24.781	four
+52564	ID_NUMBER	1.113	5.62	six five t nine zero seven three four three six
+52564	PATIENT	8.143	8.865	ella walton
+52564	DATE	10.467	12.811	november twelfth two thousand four
+52564	PATIENT	13.472	13.672	ella
+52564	STREET	14.533	15.995	east oliver ##a street
+52564	CITY	16.656	17.097	or ##vos
+52564	STATE	17.137	17.838	tasmania
+52564	ID_NUMBER	19.761	20.883	six two two one
+52564	ID_NUMBER	24.529	27.012	six five seven nine zero seven
+52569	DOCTOR	14.364	15.045	st ##az ##en ##zo
+52574	DATE	22.361	24.982	february fourth , two thousand sixty three
+52579	HOSPITAL	1.013	2.496	darling point department
+52579	HOSPITAL	2.937	5.383	midlands multi - purpose health center
+52579	DOCTOR	6.986	7.307	holt
+52579	DOCTOR	7.908	8.329	russell
+52579	HOSPITAL	14.182	15.705	wi ##mmer ##a healthcare group ,
+52579	HOSPITAL	16.346	16.868	ho ##rs ##ham
+52589	DOCTOR	3.523	5.73	l ##yra jamie sc ##hler ##eth
+52591	PATIENT	1.909	3.151	ko ##han lau ##shan
+52591	MEDICAL_RECORD_NUMBER	4.994	8.299	seven one y zero six seven eight three zero j
+52591	MEDICAL_RECORD_NUMBER	10.181	13.727	seven one nine zero six seven eight dot j b j
+52591	DEPARTMENT	15.689	16.931	emergency department
+52591	HOSPITAL	17.151	18.814	west wi ##mmer ##a health service ,
+52591	HOSPITAL	18.894	19.535	cane ##va
+52591	ID_NUMBER	21.157	23.741	seven one y zero six seven eight three
+52591	STREET	25.303	26.004	new jefferson
+52591	CITY	26.124	26.966	vincent ##ia
+52591	STATE	27.066	28.027	new south wales
+52591	ZIP	28.408	29.569	four zero seven six
+52596	TIME	2.333	3.835	four thirty five p . m
+52596	DATE	11.282	13.685	july twenty third twenty sixty two
+52596	DATE	16.928	19.05	july twenty four twenty sixty two
+52620	STREET	1.793	2.735	juniper point
+52620	CITY	3.015	3.576	mari ##mba
+52620	STATE	3.956	5.018	western australia
+52620	ZIP	6.76	7.762	six one eight one
+52620	DATE	9.464	11.807	february six , nineteen eighty nine
+52620	DATE	15.092	17.315	april fourth , twenty fourteen
+52620	TIME	18.176	19.397	ten seventeen a . m
+52620	HOSPITAL	20.339	21.741	mater mothers hospital
+52620	DEPARTMENT	23.763	26.287	anatomical pathology department
+52662	DOCTOR	3.036	4.078	d . r . sl ##in ##wood
+52662	DOCTOR	4.138	4.599	don ##ny
+52662	DOCTOR	4.739	5.26	dem ##ell
+52662	DOCTOR	5.661	6.282	pan ##shaw
+52662	DOCTOR	6.682	7.223	ax ##man
+52662	DOCTOR	7.704	15.758	ax ##nell ##i [UNK] 八 五
+52662	ID_NUMBER	23.411	23.652	two
+52662	ID_NUMBER	23.792	24.092	three
+52662	DURATION	24.513	24.834	seven
+52666	PATIENT	2.555	3.596	sabrina tatum
+52666	MEDICAL_RECORD_NUMBER	5.98	10.607	four one eight three three six three dot ng ##a
+52666	MEDICAL_RECORD_NUMBER	12.289	15.894	forty one w three three six three five
+52666	PATIENT	16.335	16.996	sabrina
+52666	DATE	18.598	20.882	april twenty sixty four
+52718	DATE	1.934	4.658	september fourth , twenty sixty - two
+52718	PATIENT	5.779	6.34	nikola
+52718	DOCTOR	10.867	11.328	nelson
+52718	DOCTOR	15.794	16.235	pitcher
+52754	HOSPITAL	3.978	5.26	boston scientific
+52754	HOSPITAL	8.286	10.309	wentworth district hospital
+52754	DATE	13.435	15.999	june twelfth , twenty sixty - four
+52754	DOCTOR	20.788	21.028	b
+52754	DOCTOR	20.788	21.789	. crawford
+52762	DATE	3.678	6.764	october , twenty , twenty , sixty - two
+52762	DOCTOR	12.796	14.078	i . maj ##ers ##ki
+52784	DOCTOR	6.398	7.479	b . gut ##owski
+52784	TIME	8.32	9.061	two - thirty
+52784	DATE	9.762	12.485	june nineteenth , two thousand thirteen
+52784	DOCTOR	17.331	17.871	a . l .
+52784	DATE	18.412	20.875	august twenty - second twenty - sixty - three
+52806	DATE	2.834	4.897	october , twenty - six , nineteen eighty - three
+52806	AGE	7.8	8.261	eighty five
+52806	DATE	11.885	13.827	june , eleventh , twenty - sixty - four
+52806	DOCTOR	17.612	18.833	bradley armand ru ##ffer
+52806	DOCTOR	19.454	19.774	td
+52806	DOCTOR	20.375	20.736	al
+52806	DOCTOR	21.316	21.657	n ##x
+52806	DOCTOR	22.398	22.698	sg
+52806	DATE	25.421	27.383	june , twelfth , twenty - sixty - four
+52814	STREET	1.294	2.657	upper montagu street
+52814	CITY	2.937	3.699	rock ##hampton
+52814	STATE	3.839	4.841	south australia
+52814	ZIP	6.525	8.028	six three three eight
+52814	DATE	12.017	14.081	august twenty ninth , two thousand twelve
+52814	TIME	14.703	16.085	two thirty one p . m
+52814	DEPARTMENT	16.927	18.791	ur ##ology day only department
+52814	HOSPITAL	19.453	21.457	cal ##vary public hospital a . c . t .
+52874	DOCTOR	6.019	6.58	ellington
+52874	DATE	8.142	8.343	may
+52874	DATE	8.523	11.467	may rein ##for
+52874	DATE	15.092	17.115	may
+52884	MEDICAL_RECORD_NUMBER	1.963	5.931	zero seven four one nine zero dot m ##fs
+52884	PATIENT	6.893	8.356	patient reed ##us kelly
+52884	DATE	9.398	11.182	may third , two thousand eleven
+52884	ID_NUMBER	12.725	16.292	zero seven l one nine zero four one seven h
+52884	ID_NUMBER	17.615	20.14	zero seven l one nine zero four one
+52905	DEPARTMENT	0.451	2.654	ob ##ste ##trics department
+52905	HOSPITAL	3.074	5.557	western district health service ,
+52905	HOSPITAL	5.777	6.317	pin ##ter ##est
+52905	DOCTOR	9.961	11.963	tobias andy gr ##osh
+52905	DOCTOR	13.444	13.845	s . g .
+52905	DOCTOR	15.006	15.326	l . y .
+52905	DOCTOR	16.668	17.348	o . tip ##ra
+52917	DOCTOR	2.775	5.138	h . ne ##id ##hart
+52917	DOCTOR	8.183	9.104	bruno ba ##ult
+52917	DOCTOR	10.266	11.107	ian ki ##pling
+52917	DOCTOR	12.229	13.13	barry dan ##wood
+52917	DATE	15.854	18.077	december third , twenty sixty - two
+52933	DATE	2.853	5.935	june eleventh , twenty - sixty - four
+52933	HOSPITAL	6.836	8.157	por ##ology west
+52933	HOSPITAL	8.877	10.599	sutherland hospital
+52933	DOCTOR	14.201	17.483	joseph f ##ons ##ek sp ##iro
+52933	DATE	20.886	23.608	june twelfth , twenty - sixty - four
+52933	DOCTOR	25.189	26.47	k . mas ##ek
+52963	DURATION	13.621	13.801	three
+52966	DATE	1.913	4.075	september twenty - seventh twenty - sixth , two
+52966	DEPARTMENT	4.876	5.477	path ##west
+52966	DEPARTMENT	6.278	7.379	forensic hospital
+52966	DOCTOR	8.12	10.182	al ##phon ##se - roll ##y pic ##on
+52978	PATIENT	9.478	10.679	hank lin ##de ##mann
+52978	DATE	11.96	12.68	december
+52987	DURATION	2.353	2.453	one
+52987	ID_NUMBER	22.488	22.608	one
+52987	ID_NUMBER	22.868	23.228	eleven
+53000	STREET	1.152	1.974	pleasant chase
+53000	CITY	2.514	3.395	camden haven
+53000	STATE	3.756	4.717	south australia
+53000	ZIP	6.579	7.661	four four nine two
+53000	PATIENT	8.362	8.742	derek
+53000	ID_NUMBER	13.308	19.016	four eight g one three eight three five four eight g one three eight three five
+53000	DATE	23.001	25.364	june twenty fifth twenty thirteen
+53000	TIME	26.245	27.206	six nine p . m .
+53012	DATE	3.38	3.922	next day
+53012	DATE	4.784	7.191	august , twenty - second twenty - sixty - two
+53012	DOCTOR	9.277	9.798	williams
+53012	DOCTOR	11.663	12.185	gabriel
+53017	COUNTRY	7.573	7.953	envoy
+53017	DOCTOR	9.593	11.174	harris is ##ma ##el clyde
+53017	DOCTOR	13.234	13.634	m . y . on
+53017	DATE	13.774	15.695	oct . xv
+53017	DOCTOR	16.915	17.715	j . progress
+53020	ID_NUMBER	1.275	2.318	six six zero nine
+53020	DATE	3.101	5.167	october twenty sixth , two thousand six
+53068	DOCTOR	5.355	7.357	sim ##ran char ##issa ha ##ge ##be
+53068	DOCTOR	8.417	8.918	jackie
+53068	DOCTOR	9.839	10.179	beck
+53068	DOCTOR	11.08	11.42	kirk
+53068	DOCTOR	12.461	12.861	nj
+53068	DOCTOR	13.862	14.382	t ##g
+53068	DATE	18.525	18.946	october
+53072	DATE	3.373	5.835	november ninth , nineteen ninety four
+53072	DATE	10.658	12.92	august first , two thousand twelve
+53072	TIME	13.6	15.161	seven thirty three p . m
+53072	DEPARTMENT	16.002	17.523	corona ##ry care unit
+53072	HOSPITAL	18.183	19.484	tottenham hospital
+53072	DOCTOR	22.206	23.887	bar ##ung ##a brad almond
+53075	ID_NUMBER	1.033	5.099	nine six a zero six three five five two q per ##tain ##s
+53075	DOCTOR	5.42	6.201	ariel whitman
+53075	HOSPITAL	9.306	11.109	hess rural health service
+53075	DEPARTMENT	11.609	12.771	day surgery unit
+53075	PATIENT	14.374	14.774	ariel
+53075	DATE	15.436	17.439	october the fifth , nineteen eighty nine
+53075	DISTRICT	18.5	19.021	wild hope
+53075	STATE	19.121	19.802	tasmania
+53075	STREET	20.544	21.365	kam ##ino street
+53075	ZIP	23.468	24.47	three one seven nine
+53103	DATE	0.212	2.238	april ten to twenty fourteen
+53103	TIME	2.539	3.662	two forty p . m .
+53103	DEPARTMENT	6.732	9.62	p . o . w . l . seven consulting rooms
+53103	HOSPITAL	10.282	11.286	ke ##rat ##in hospital
+53103	DOCTOR	12.449	14.114	winston lei ##lani rico ##tta
+53111	MEDICAL_RECORD_NUMBER	1.332	5.175	four three , seven , eight , zero five , four , u ##uc
+53111	PATIENT	7.197	8.338	guy finn lam ##son
+53111	ID_NUMBER	11.18	11.46	four
+53111	ID_NUMBER	11.58	14.443	three s eight zero five , four , seven
+53112	DATE	1.312	3.674	july second , two thousand five
+53112	ID_NUMBER	7.797	11.68	seven five a eight six one six nine
+53121	MEDICAL_RECORD_NUMBER	1.833	6.817	zero seven three nine zero five dot rq ##q
+53121	PATIENT	10.08	11.602	brig ##ida lori ##s brake
+53121	ID_NUMBER	13.804	17.808	zero seven k nine zero five six six
+53121	DATE	20.41	23.393	june sixteen , twenty sixty four
+53121	DOCTOR	25.895	25.955	a . r .
+53138	ID_NUMBER	0.892	3.196	eight six f two eight six four two
+53138	PATIENT	8.544	8.924	dylan
+53138	DATE	10.487	16.315	march eighth , twenty thirteen three fifty four p . m moment
+53138	DEPARTMENT	18.619	19.82	recovery department
+53138	HOSPITAL	20.121	21.663	bala ##cl ##ava hospital
+53138	PATIENT	24.427	24.748	dylan
+53157	PATIENT	0.031	0.952	tommy hi ##lde ##brand ##t
+53157	DATE	1.873	3.756	june tenth , twenty thirteen
+53157	CITY	4.517	4.857	daly
+53157	CITY	4.938	5.418	mill ##ice ##nt
+53157	STATE	6.079	6.66	tasmania
+53157	ZIP	7.942	8.883	two nine zero two
+53157	MEDICAL_RECORD_NUMBER	11.186	14.19	three five six three five two eight dot u a o
+53157	MEDICAL_RECORD_NUMBER	16.573	18.996	three five s three five two eight eight
+53157	ID_NUMBER	20.739	23.623	three five s three five two eight eight zero o
+53169	DATE	2.574	5.157	october seventeenth , two thousand sixty - two
+53169	DATE	17.29	19.592	october fifteenth two thousand sixty - two
+53169	DATE	20.353	22.675	october seventeenth two thousand sixty - two
+53169	DOCTOR	24.277	25.238	m . ku ##rum ##el
+53184	DATE	1.254	2.799	july , twenty fifth , twenty twelve
+53184	TIME	3.019	4.945	seven forty nine p . m
+53184	HOSPITAL	5.306	6.369	ex ##mouth hospital
+53184	DOCTOR	6.97	8.033	junior jason dice
+53184	DEPARTMENT	8.455	9.558	envoy pathology
+53188	DOCTOR	1.914	2.375	bridges
+53188	DATE	10.689	15.959	april seventeenth , two thousand thirteen twelve forty five p . m .
+53190	STREET	0.972	1.532	se ##lmer
+53190	CITY	1.772	2.252	howl ##ong
+53190	STATE	2.332	3.353	western australia
+53190	ZIP	5.434	6.735	five , seven two four
+53190	ID_NUMBER	10.978	11.298	nine
+53190	ID_NUMBER	11.398	13.919	four one zero two zero four three
+53190	DATE	15.44	15.761	march
+53190	DATE	15.941	17.762	twenty seventh fourteen
+53190	TIME	18.582	19.903	six forty , eight p . m .
+53208	DEPARTMENT	3.166	4.011	nec
+53213	ID_NUMBER	7.116	14.561	two seven d eight three zero six three two seven d eight three zero six three
+53213	MEDICAL_RECORD_NUMBER	17.163	21.586	two seven one eight three zero dot q ##j ##v
+53217	DOCTOR	0.131	0.673	carol
+53229	PATIENT	1.033	1.734	derek wall
+53229	DATE	2.875	5.059	november third , nineteen eighty - two
+53229	HOSPITAL	6.741	7.843	long ridge hospital
+53229	MEDICAL_RECORD_NUMBER	14.193	18.059	four eight two one three eight three dot o m f
+53229	MEDICAL_RECORD_NUMBER	20.323	24.209	four eight g one three eight three five four f
+53255	STREET	5.417	5.837	north ##am
+53255	CITY	6.138	6.638	tin ##oni
+53255	ZIP	8.42	9.642	six three two seven
+53255	DATE	11.103	13.486	december twenty ninth , nineteen ninety two
+53255	DATE	16.489	18.451	july eleventh , twenty twelve
+53255	TIME	19.372	20.493	nine ten a . m
+53255	DEPARTMENT	21.214	22.496	sit ##pet ##h department ,
+53255	HOSPITAL	22.896	23.657	ear hospital
+53267	PATIENT	0.031	0.372	taylor
+53268	DATE	2.254	4.656	october twelfth , two thousand sixty - two
+53268	DOCTOR	9.562	10.083	k ##l
+53268	DATE	10.683	12.986	october tenth , two thousand sixty - two
+53268	DOCTOR	17.251	17.932	z . fi ##lto
+53286	DATE	0.271	0.772	today
+53286	PATIENT	4.238	5.44	jeremy ku ##z ##ma
+53294	ID_NUMBER	3.297	7.484	two seven y five one eight seven six three q .
+53294	PATIENT	8.706	8.967	gail
+53294	DATE	10.109	12.894	june twenty - seventh nineteen ninety - two
+53294	STREET	14.697	15.338	walk ##end ##en
+53294	CITY	15.519	16.019	den ##man
+53294	STATE	16.32	17.121	tasmania
+53294	ZIP	18.724	19.926	four three eight three
+53335	PATIENT	3.417	4.178	cloud ##bu ##tton
+53344	PATIENT	0.051	0.311	allen
+53344	DATE	8.742	11.887	march twenty third , two thousand sixty four
+53344	DOCTOR	13.509	19.116	hi ##nk ##s days
+53352	DATE	2.071	2.572	oct
+53352	DEPARTMENT	15.815	16.995	os ##mot ##ic mutations
+53352	DEPARTMENT	17.195	17.595	cancer
+53352	HOSPITAL	24.897	25.737	reno clinic
+53352	HOSPITAL	25.977	27.097	southwestern area
+53352	HOSPITAL	27.337	29.458	tim ##bu ##n and district health care services
+53363	MEDICAL_RECORD_NUMBER	3.217	7.946	a - three - z - one - seven - nine - seven - zero
+53363	PATIENT	9.268	9.89	nikola
+53363	STREET	11.433	12.475	man ##oli street
+53363	CITY	13.156	13.517	el ##ga ##y
+53363	STATE	14.098	14.859	tasmania
+53363	ZIP	16.763	18.967	three - five - seven - six
+53363	DATE	21.311	23.676	november third , twenty - o - six
+53364	PATIENT	4.973	5.974	el ##dora shook
+53364	STREET	9.835	10.756	stranger street
+53364	CITY	11.516	11.876	li ##smo ##re
+53364	STATE	11.896	12.416	new south wales
+53364	DATE	13.337	13.697	february
+53374	DOCTOR	2.956	3.177	wu
+53374	DOCTOR	3.838	4.078	hu
+53374	DOCTOR	4.779	5.1	chen
+53374	DOCTOR	5.761	6.022	guo
+53374	PATIENT	13.094	13.455	connie
+53374	DATE	14.577	14.837	june
+53374	DATE	14.938	15.418	june ,
+53374	DATE	15.879	16.821	june
+53397	DATE	9.139	9.759	september
+53397	DATE	9.879	10.46	eighteenth
+53400	DOCTOR	2.233	2.913	p . b ##lov ##in
+53400	DATE	3.614	5.855	may third , twenty sixty - three
+53400	HOSPITAL	17.364	19.165	cher ##bourg hospital cancer center
+53400	STATE	19.466	20.567	northern territory
+53400	DATE	21.547	23.549	march twenty - seven , twenty sixty - three
+53402	ID_NUMBER	1.694	18.721	xx ##x ##w - [UNK]
+53408	DOCTOR	1.993	2.673	wi ##dar ##ji
+53411	DATE	9.375	12.056	september , twenty - sixth , twenty - sixty - three
+53411	PATIENT	12.996	13.336	kenny
+53411	DEPARTMENT	15.897	21.939	po ##ms department date
+53411	PATIENT	23.42	23.74	kenny
+53415	PATIENT	0.051	0.552	maria
+53415	STREET	1.412	2.393	west railroad
+53415	CITY	2.493	3.114	willing ##ston
+53415	STATE	3.314	3.775	nt
+53415	ID_NUMBER	5.676	7.098	one , two three , four
+53415	DATE	8.619	11.082	october eleventh , two thousand nine
+53430	PATIENT	0.031	0.911	jasper red ##dick
+53430	DATE	1.972	4.012	august twelfth , nineteen ninety - nine
+53430	HOSPITAL	6.033	8.594	shore ##haven dick street memorial hospital
+53430	DATE	11.815	14.295	september eleventh , twenty sixty - three
+53430	MEDICAL_RECORD_NUMBER	19.177	23.138	two seven five five three seven four dot a r u
+53430	MEDICAL_RECORD_NUMBER	25.259	29.56	two seven o five three seven four zero six u
+53437	DATE	2.535	3.436	october
+53437	DOCTOR	5.479	5.92	gas ##ol
+53437	DOCTOR	6.541	6.922	pin ##ion
+53437	PATIENT	10.307	10.687	katrina
+53437	DATE	13.191	13.412	may
+53437	DOCTOR	16.236	16.637	gordon
+53445	DATE	7.915	9.916	october eleventh , twenty sixty - two
+53445	DEPARTMENT	11.037	12.277	macquarie ward
+53445	HOSPITAL	12.638	14.078	co ##bourg district hospital
+53445	DOCTOR	15.439	16.64	mar ##on theo ##lo ##zzi
+53445	DATE	21.522	22.283	october twelfth
+53457	DEPARTMENT	2.415	4.199	envoy specialist department
+53457	DOCTOR	6.804	11.793	landon day
+53457	DATE	12.635	15.159	august twenty ninth , twenty sixty three
+53457	DOCTOR	17.744	18.145	vincent
+53466	DATE	9.244	12.609	october , seventeen , twenty , sixty - two
+53466	DEPARTMENT	13.55	14.932	med ##ic surgery ward
+53466	HOSPITAL	16.073	17.495	lake grace hospital
+53466	DOCTOR	21.141	22.863	trevor jarrett - yo ##ki ##l
+53466	DOCTOR	25.967	26.007	k . h .
+53478	PATIENT	2.595	2.896	mike
+53478	DOCTOR	20.384	20.845	porter
+53478	DOCTOR	22.388	22.728	ellis
+53488	DATE	2.332	4.152	june ninth , twenty sixty four
+53488	DOCTOR	6.213	6.673	stewart
+53488	DOCTOR	8.634	9.134	stewart
+53488	DATE	11.295	13.096	june fifth , twenty sixty four
+53488	DOCTOR	17.737	18.017	hook
+53488	PATIENT	27.501	27.921	susan
+53489	ID_NUMBER	3.493	3.713	two
+53489	ID_NUMBER	3.893	4.013	one
+53489	ID_NUMBER	4.253	4.353	i
+53489	ID_NUMBER	4.774	6.595	seven six two four zero
+53489	DOCTOR	8.956	10.136	f . z ##ir ##man ##o
+53489	DOCTOR	13.538	14.219	f . kris ##to ##f
+53489	DOCTOR	15.379	16.06	f . may ##cock
+53489	DOCTOR	17.22	17.821	sam ##oza
+53489	DEPARTMENT	18.701	20.762	st . vincent s pathology department
+53495	DEPARTMENT	5.174	6.035	bra ##f
+53495	DATE	9.617	11.818	may seventh sixty three
+53495	DEPARTMENT	12.239	12.519	lew ##y
+53495	DEPARTMENT	13.539	14.22	q ##ld
+53509	STREET	2.193	3.134	han street
+53509	CITY	4.095	5.116	rosy downs
+53509	STATE	5.877	6.277	sa
+53509	ZIP	8.8	10.902	seven two six eight
+53509	DATE	14.245	15.926	august twenty seven
+53515	STREET	2.716	4.058	br ##ida bella street
+53515	CITY	4.899	5.801	lean ##gat ##ha
+53515	STATE	6.362	7.003	act
+53515	ZIP	9.347	11.871	five , six , zero , seven
+53515	DATE	14.455	15.778	february twenty - seven
+53525	PATIENT	2.214	2.654	stacy
+53525	AGE	4.376	5.097	fifty six
+53525	DOCTOR	10.123	10.504	fu ##lt ##z
+53525	DOCTOR	11.445	11.885	linden
+53530	PATIENT	0.992	2.333	rick ##son nay ##a marcus
+53530	MEDICAL_RECORD_NUMBER	5.055	9.118	two eight zero five zero six five dot f and v
+53530	ID_NUMBER	11.379	14.882	two eight b five zero six five one four v
+53530	ID_NUMBER	17.644	23.908	two eight b five zero six five one two eight b five zero six five one .
+53530	CITY	25.71	26.43	la ga ##ra
+53530	CITY	26.65	27.231	mor ##omba
+53530	STATE	27.571	28.171	ta ##s
+53535	DOCTOR	4.642	4.963	fix
+53535	DOCTOR	6.446	7.288	stockton
+53535	DATE	12.661	15.187	june ten , twenty sixty - four
+53546	DATE	0.932	2.834	april twenty fourth , nineteen ninety seven
+53546	ID_NUMBER	7.438	12.423	nine seven p two two seven five three nine seven p two two seven five three
+53546	DATE	16.127	17.668	april seven twenty fourteen
+53546	TIME	18.349	19.31	five forty p . m .
+53546	DEPARTMENT	19.77	20.671	palms department
+53546	HOSPITAL	21.172	22.293	margaret river hospital

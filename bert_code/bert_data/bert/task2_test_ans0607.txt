@@ -1,0 +1,2986 @@
+60014	DATE	2.996	5.259	july nineteenth , twenty sixty - two
+60014	DATE	5.84	8.124	july twenty - eighth twenty sixty - two
+60014	PATIENT	12.992	13.393	amanda
+60015	DOCTOR	1.033	1.654	t . we ##rn ##z
+60015	DATE	2.636	2.716	june
+60015	DATE	2.736	2.816	june
+60022	PATIENT	0.472	0.873	catherine
+60022	DOCTOR	3.477	3.798	mars
+60022	PATIENT	9.589	9.99	catherine
+60022	DOCTOR	12.053	12.354	kerr
+60022	DOCTOR	12.915	13.236	martin
+60049	DOCTOR	1.392	1.853	c . m .
+60049	DATE	2.213	4.256	may , twenty - fourth - sixty - three
+60049	DOCTOR	7.9	8.921	z . wi ##s ##now ##ski
+60049	TIME	22.836	23.477	nine o ' clock
+60079	PATIENT	9.471	9.992	sarah
+60079	DATE	15.72	18.844	february
+60079	DOCTOR	25.933	26.314	brooke
+60084	DATE	0.231	2.892	october , twelve , twenty - sixty - two
+60084	DOCTOR	3.872	8.053	z h . l
+60084	DURATION	17.055	28.798	eight one two
+60102	STREET	5.559	6.501	queens ##brook
+60102	CITY	7.202	7.783	armada ##le
+60102	STATE	8.804	9.505	q ##ld
+60102	DATE	12.81	15.274	january tenth , two thousand six
+60102	DATE	17.858	20.061	november fourth , twenty thirteen
+60102	TIME	21.363	23.206	sixteen twelve pm
+60102	DEPARTMENT	23.927	25.029	day surgery unit
+60102	HOSPITAL	25.71	26.732	heath ##cote health
+60147	PATIENT	3.278	4.641	susanna pat ##ric ##one
+60147	DATE	5.884	8.47	december tenth , twenty sixty - three
+60147	DEPARTMENT	9.031	10.895	per ##per ##ative unit
+60147	HOSPITAL	11.737	13.3	royal melbourne hospital ,
+60147	HOSPITAL	13.741	14.623	city campus
+60147	ID_NUMBER	17.55	22.0	six six b five two seven nine six five l
+60180	PATIENT	3.417	4.379	ruby resides
+60180	HOSPITAL	4.88	6.744	st . john ' s ca ##yon
+60180	CITY	7.164	7.805	sea lake
+60180	CITY	8.507	9.208	crescent
+60180	ID_NUMBER	11.933	13.496	four six nine five
+60180	PATIENT	15.961	16.381	ruby
+60180	DATE	18.646	22.413	june , twenty second , twenty sixty two
+60180	DEPARTMENT	24.757	26.52	swamp department
+60197	PATIENT	0.432	0.692	hank
+60197	DATE	5.141	17.744	january twenty - first two thousand sixty - two o - seventy - fifty - three - seven - seven ,
+60197	ID_NUMBER	18.285	18.746	eighty - nine - one
+60226	PATIENT	0.512	1.033	donovan
+60226	DEPARTMENT	2.716	4.98	st . vincent ' s pathology department
+60226	HOSPITAL	5.641	9.127	st . eden hope and district memorial hospital
+60226	DOCTOR	13.354	13.795	temple
+60226	DOCTOR	14.857	15.338	potter
+60226	DOCTOR	16.28	16.78	russell
+60226	DOCTOR	17.702	18.203	griffin
+60226	PATIENT	24.414	24.935	donovan
+60226	DATE	26.798	27.279	december
+60243	DATE	1.473	1.774	today
+60243	PATIENT	3.797	5.079	mr . cord ##ell d ' or ##ta
+60243	DATE	27.217	27.437	march
+60245	PATIENT	2.353	3.775	oval - mcc ##hes ##ney
+60245	DATE	7.759	12.263	february twelfth , twenty sixty three
+60253	DOCTOR	4.114	4.874	h . bo ##dian
+60253	DOCTOR	6.656	7.276	h . harlow
+60267	DOCTOR	0.707	1.403	mali ##gnan ##cy
+60275	PATIENT	1.933	12.962	marine ku ##a e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e
+60286	DOCTOR	1.376	1.878	hu ##ston
+60286	DOCTOR	2.199	3.183	ik ##ks
+60286	DOCTOR	3.605	4.267	o . med ##elli ##n
+60290	PATIENT	1.994	3.155	mohamed han
+60290	MEDICAL_RECORD_NUMBER	5.399	9.304	zero zero nine four two three dot cm ##g
+60290	MEDICAL_RECORD_NUMBER	10.966	14.491	zero zero y four two three zero four
+60290	DATE	15.673	17.255	february on
+60290	DATE	17.355	20.86	february twenty second two thousand and sixty two
+60330	DATE	1.812	2.192	today
+60330	PATIENT	5.054	6.014	ian clark
+60330	PATIENT	13.058	13.298	ian
+60330	MEDICAL_RECORD_NUMBER	14.939	20.362	seven one y six six zero five eight nine eight
+60330	MEDICAL_RECORD_NUMBER	23.984	28.946	seven one nine six six zero dot o v y
+60349	STREET	10.845	11.886	south concord
+60349	CITY	12.247	12.968	campo ##town
+60349	STATE	13.749	15.651	australian capital territory
+60349	DATE	20.017	22.46	january nine , nineteen eighty - six
+60349	DOCTOR	25.664	27.146	em ##mel ##ine cassandra ni ##tz
+60362	DATE	0.051	0.431	today
+60362	PATIENT	2.692	3.512	amanda ben
+60365	DATE	3.969	6.812	february fifteenth , twenty seventeen
+60365	DATE	10.096	12.539	february thirteenth , twenty thirteen
+60365	TIME	13.72	15.582	six sixteen p . m
+60365	CITY	18.145	18.666	levi ##ty
+60365	DEPARTMENT	19.807	21.569	foreign nose health services
+60365	DOCTOR	23.812	26.955	evan gregory bowl ##es . o ##es ##op ##ha
+60373	HOSPITAL	4.217	5.579	alta ##ir corporation
+60373	HOSPITAL	7.581	10.325	bomb ##ard ##a multi ##pur ##pose service hospital
+60373	HOSPITAL	11.026	12.468	luce ##nt technologies
+60373	HOSPITAL	12.949	13.85	broom ##e hospital
+60380	CITY	0.291	0.892	ya ##rra ##gan
+60380	STATE	1.953	2.614	queensland
+60380	ID_NUMBER	5.577	7.199	three five two two
+60380	DATE	8.7	11.163	april twenty seventh , nineteen ninety
+60380	PATIENT	12.144	12.424	matt
+60380	DATE	19.412	22.255	april twenty third , twenty twelve
+60380	TIME	23.236	24.618	three sixteen p . m .
+60380	PATIENT	26.62	26.9	matt
+60394	DATE	0.171	0.551	today
+60394	PATIENT	2.633	3.294	abby parker
+60394	HOSPITAL	5.176	6.117	rubin ##o hospital
+60394	PATIENT	6.677	6.937	abby
+60394	PATIENT	8.979	9.119	abby
+60394	DATE	12.262	12.823	january
+60394	PATIENT	13.523	13.683	abby
+60394	DOCTOR	15.765	16.046	go ##lland
+60420	PATIENT	2.415	3.356	linda goodwin
+60420	MEDICAL_RECORD_NUMBER	5.24	9.767	nine nine l three three nine five six seven j
+60420	MEDICAL_RECORD_NUMBER	12.952	17.339	nine nine four three three nine five dot r u j
+60420	PATIENT	18.601	19.022	linda
+60420	ID_NUMBER	22.388	29.7	nine nine l three three nine five six nine nine l three three nine five six
+60500	DOCTOR	11.844	12.685	m . tin ##tenberg
+60514	DATE	0.031	0.411	today
+60514	PATIENT	2.654	4.115	nicholas molina ##ro
+60514	DATE	11.743	11.943	may
+60533	PATIENT	0.912	1.212	del ##ve
+60533	PATIENT	3.115	3.996	roger duncan
+60533	ID_NUMBER	6.78	11.486	two six and four seven three seven six one oh
+60533	MEDICAL_RECORD_NUMBER	15.671	21.358	two six four four seven three seven doc q ##do
+60533	ID_NUMBER	25.984	29.008	two six and four seven three seven six
+60574	DATE	0.051	1.652	february second
+60581	DATE	1.032	3.115	july sixteenth , twenty sixty - two
+60581	PATIENT	9.445	9.805	taylor
+60581	DOCTOR	11.808	12.048	nun ##n
+60581	DATE	16.795	18.698	july sixteenth , twenty sixty - two
+60581	DOCTOR	19.699	20.22	si ##aka ##m
+60581	PATIENT	22.964	23.345	taylor
+60598	PATIENT	3.154	5.156	bruce edmond ##s fin ##kel ##man surgery
+60598	DATE	5.856	8.539	may , twenty - seven , twenty - thirteen
+60598	TIME	8.979	10.58	two twenty - eight p . m
+60598	DEPARTMENT	11.621	12.842	day surgery unit
+60598	HOSPITAL	13.463	15.244	east gram ##pia ##n health service
+60598	HOSPITAL	15.785	16.225	el ##rat ##t
+60598	ID_NUMBER	19.568	24.533	two eight x two four six zero two eight r
+60617	STREET	3.217	3.978	german street
+60617	CITY	4.419	5.281	anthony lagoon
+60617	STATE	5.842	6.844	south australia
+60617	ZIP	8.747	9.969	five five four zero
+60617	PATIENT	10.831	12.734	collins fourth ,
+60617	DATE	14.017	15.78	august , twenty thirteenth
+60617	AGE	17.162	17.523	fifty
+60626	DATE	4.652	7.473	june , twenty - eighth - sixty - two
+60626	HOSPITAL	13.614	16.455	south gibson ' s hospital
+60626	DEPARTMENT	20.596	20.976	gap
+60633	DEPARTMENT	1.9	4.142	deco ##nce ##rn ii south department
+60633	HOSPITAL	5.043	7.845	peter james center facility
+60633	PATIENT	14.192	14.432	ian
+60633	DOCTOR	16.994	17.335	ellis
+60633	DOCTOR	18.416	19.056	antonio
+60633	DOCTOR	20.117	20.678	cameron
+60633	DOCTOR	21.639	21.939	mann
+60633	DOCTOR	23.24	23.581	gregg
+60633	PATIENT	27.384	27.505	ian
+60697	DATE	14.93	15.571	february
+60697	PATIENT	20.717	20.978	luke
+60697	AGE	21.558	22.499	fifty nine
+60703	PATIENT	2.152	4.333	teresa tess ##ia hen ##drick
+60703	MEDICAL_RECORD_NUMBER	7.114	12.917	five , five , five , eight , four , seven , one , dot , e - b - j
+60703	MEDICAL_RECORD_NUMBER	15.398	25.243	five , five , n eight four seven one one five five n eight four seven one one
+60730	DOCTOR	0.149	0.932	dino ##xi ##s
+60732	DATE	0.312	2.72	february eighth sixty two
+60740	PATIENT	0.411	1.652	kimberly ##son
+60740	DATE	2.813	4.875	december twenty - two thousand
+60740	MEDICAL_RECORD_NUMBER	9.918	13.681	zero four two six seven six five dot j and y
+60740	MEDICAL_RECORD_NUMBER	15.602	19.245	zero four f six seven six five three five y
+60740	ID_NUMBER	24.149	27.131	zero four f six seven six five three
+60740	PATIENT	27.651	28.151	kimberly
+60741	PATIENT	0.953	1.333	del ##ve
+60741	PATIENT	4.038	5.421	ram ##iro mart ##i
+60741	PATIENT	14.357	14.878	ram ##iro
+60779	HOSPITAL	6.881	7.722	ny ##e forty
+60779	DATE	8.082	10.906	december seventeenth twenty - twelve
+60779	HOSPITAL	11.667	15.112	king ##ery hospital and community health center
+60779	DOCTOR	16.254	17.355	rich b ##lins ##ton
+60779	DURATION	24.385	25.206	fifty
+60786	DOCTOR	0.812	2.734	tracy judah rap ##olo
+60786	DOCTOR	5.157	6.999	##s . j . mcc ##ask ##in
+60786	DOCTOR	8.48	9.521	malcolm ke ##rz ##er
+60786	DATE	13.065	16.008	january seventh , twenty - sixty - three
+60786	DOCTOR	18.371	18.851	yu ##yu
+60786	DATE	21.975	24.798	january seventh , twenty - sixty - three
+60786	DOCTOR	26.82	27.26	yu ##zi
+60791	PATIENT	3.132	3.672	jonathan
+60814	DOCTOR	7.879	9.821	jar ##lene jon ##a - ga ##rin ##do
+60814	DOCTOR	10.902	11.522	x ##z
+60814	DOCTOR	12.623	13.244	n . bo ##lick
+60814	DOCTOR	14.565	15.706	n . schumacher
+60830	DOCTOR	18.078	18.499	wade ##r
+60830	DOCTOR	19.3	19.661	poole
+60830	DOCTOR	20.442	20.862	mars
+60830	DOCTOR	21.664	22.144	booker
+60830	PATIENT	27.472	28.033	brendan
+60832	ID_NUMBER	1.532	6.377	one six q five zero zero seven seven five v
+60832	PATIENT	7.758	8.759	vita lawson
+60832	STREET	10.761	12.043	w good ##eno ##w street
+60832	CITY	12.703	13.504	go ##bach ##u
+60832	STATE	13.604	14.445	tasmania
+60832	ZIP	16.867	18.669	three nine nine five
+60832	HOSPITAL	21.632	23.173	st . vincent ' s hospital ,
+60832	HOSPITAL	23.614	24.434	doll ##ing ##hurst
+60832	PATIENT	27.658	28.038	vita
+60884	DOCTOR	2.174	2.494	jack
+60884	DOCTOR	3.435	3.876	helen
+60884	DOCTOR	4.797	5.298	reddish
+60884	DOCTOR	6.239	6.82	kendrick
+60884	DOCTOR	7.961	8.422	peter
+60905	TIME	1.192	2.835	fifty - two p . m .
+60905	PATIENT	5.678	6.179	mandy
+60905	DEPARTMENT	9.543	12.086	cosmetic surgery ward
+60905	HOSPITAL	13.268	14.61	ne ##m ##no ##ps hospital
+60905	DOCTOR	19.015	19.516	guild
+60914	DEPARTMENT	0.311	2.273	envoy pathology department
+60914	DOCTOR	3.394	7.959	rose that same day
+60914	TIME	8.52	18.43	one forty - five pm years
+60914	PATIENT	18.79	19.171	amanda
+60914	DOCTOR	23.355	23.855	sullivan
+60914	DOCTOR	24.576	25.057	ed bell
+60914	DOCTOR	25.937	26.318	bowen
+60930	DOCTOR	3.955	4.575	d o
+60930	DATE	5.656	9.62	may sixteenth twenty sixty three
+60930	MEDICAL_RECORD_NUMBER	12.282	17.667	fifty forty five fifteen
+60992	DATE	0.852	1.092	june
+60992	DATE	1.172	3.475	june
+60992	DATE	4.176	4.957	july
+60992	DATE	7.14	7.56	july
+60992	HOSPITAL	19.295	20.917	canberra hospital
+60992	DOCTOR	22.659	23.06	bran ##i
+60997	DATE	2.834	5.137	third december , twenty sixty three
+60997	DOCTOR	23.861	24.482	washington
+60997	DOCTOR	27.405	28.827	sage lopez
+61050	ID_NUMBER	0.532	0.832	three
+61050	ID_NUMBER	0.912	4.516	two f five one four eight seven , seven f
+61050	ID_NUMBER	6.378	6.658	three
+61050	ID_NUMBER	6.738	13.726	two f five one four eight seven three two f five one four eight seven
+61050	DATE	15.128	18.171	february fourth , two thousand and sixty three
+61050	PATIENT	18.672	18.972	ea ##son
+61050	DEPARTMENT	20.233	26.38	cure for life foundation ne ##uro - on ##cology laboratory adult cancer department hospital
+61145	PATIENT	4.857	5.317	roger
+61145	STREET	7.12	8.361	north rowan street
+61145	CITY	8.702	9.262	long ##ford
+61145	STATE	10.384	11.625	northern territory
+61145	ZIP	15.45	17.052	three one two seven
+61145	DATE	18.373	20.676	april twenty fourth , nineteen eighty one
+61145	PATIENT	21.397	21.838	roger
+61175	TIME	15.859	16.6	twelve o ' clock
+61175	TIME	17.64	18.321	nine o ' clock
+61175	TIME	20.622	21.242	three o ' clock
+61176	DATE	4.696	7.078	august twelfth , two thousand and twelve
+61176	AGE	7.919	8.76	fifty six
+61176	HOSPITAL	26.278	27.44	wall ##alo ##o hospital
+61176	DEPARTMENT	27.8	29.722	din ##kins ##on three south department
+61215	DOCTOR	6.014	6.835	t . her ##x
+61222	DATE	0.331	1.493	august th ##th
+61263	DOCTOR	0.051	0.672	terence
+61263	DOCTOR	1.694	2.195	freud
+61263	DOCTOR	2.296	2.897	dent ##hal
+61263	DOCTOR	3.458	5.161	rudolf katz ##enbach
+61263	DOCTOR	6.484	12.356	moderately de ##pre ##cia ##ted aden ##oca ##rc
+61267	DOCTOR	0.912	1.352	brendan
+61267	DOCTOR	2.113	2.454	moose
+61267	DOCTOR	4.716	5.056	nora
+61267	DOCTOR	6.198	6.598	rosa
+61267	DOCTOR	7.699	7.98	nick
+61267	DOCTOR	8.941	9.201	paul
+61267	DATE	18.291	18.471	december
+61267	DATE	19.832	20.313	december
+61280	PATIENT	0.472	3.036	danny
+61280	HOSPITAL	6.481	7.403	rubin ##a hospital
+61280	DEPARTMENT	8.264	9.486	st . vincent department
+61280	DOCTOR	16.197	16.698	rod ##ino
+61280	DOCTOR	17.279	17.66	milton
+61280	DOCTOR	18.18	18.501	stout
+61280	DOCTOR	19.443	20.023	gilmore
+61280	PATIENT	22.167	22.528	danny
+61280	DATE	23.369	23.79	february ,
+61280	DATE	23.95	26.254	february ,
+61280	HOSPITAL	28.678	29.519	rubin ##a hospital
+61316	DATE	4.169	5.937	may eighth , twenty sixty three
+61316	DATE	6.64	8.97	august thirteenth twenty sixty three
+61332	CITY	0.932	1.432	dan ##wood
+61332	CITY	1.593	2.373	co ##org ##ard ##ai
+61332	STATE	2.514	3.054	queensland
+61332	ZIP	5.196	6.498	five four one seven
+61332	DATE	10.142	12.344	september fifth , twenty thirteen
+61332	DEPARTMENT	14.206	15.307	parks four east
+61332	HOSPITAL	15.808	17.289	osborne park hospital
+61332	DOCTOR	20.012	21.254	heath malone - buddy ##field
+61332	DOCTOR	23.616	24.016	u . t .
+61332	DOCTOR	24.957	25.318	m . r .
+61332	DOCTOR	26.139	26.599	u . per ##ich
+61332	DOCTOR	27.28	27.58	blaine
+61332	DOCTOR	28.041	28.341	u . lies ##el
+61338	DATE	0.111	2.296	july - six - sixty - two
+61338	DOCTOR	5.543	6.545	d . bro ##ning ##er
+61343	PATIENT	4.476	5.677	thomas booker
+61343	HOSPITAL	10.643	13.806	royal melbourne hospital city campus
+61343	PATIENT	14.527	15.268	thomas
+61343	STREET	20.474	21.515	anchor street
+61343	CITY	21.996	23.097	mer ##win - le - bar
+61343	STATE	23.878	24.719	wa
+61343	ZIP	27.181	29.304	three four six three
+61379	DOCTOR	17.936	18.516	q ##r
+61379	DATE	18.817	19.358	february
+61379	DOCTOR	28.13	28.831	das ##alia
+61402	DEPARTMENT	1.974	3.977	regional health services
+61402	DEPARTMENT	6.261	10.288	gi ##pps ##land southern health service leon ga ##tha
+61402	HOSPITAL	11.369	15.716	eastern isle health and aged care cow ##ell campus
+61438	DOCTOR	1.934	2.755	g . fr ##iers
+61438	DURATION	24.204	24.484	six
+61494	DOCTOR	16.713	17.173	i . h .
+61494	DATE	17.634	20.758	february twentieth , two thousand and sixty - two
+61494	DOCTOR	25.564	27.066	c . send ##ev ##il
+61494	DOCTOR	28.588	28.648	##s
+61506	DATE	0.031	0.451	today
+61506	PATIENT	2.413	3.553	donovan bryant
+61528	DATE	0.391	3.114	august
+61528	DOCTOR	7.918	8.538	k ##z
+61528	DOCTOR	9.239	9.82	p ##q
+61528	DATE	10.981	11.441	february
+61540	DOCTOR	5.739	6.339	z . f .
+61540	DATE	7.341	10.605	feb . xi ##x
+61540	AGE	22.842	23.443	fifteen
+61585	DATE	0.612	5.057	today samuel man ##olis
+61585	DATE	13.368	13.668	april
+61611	DURATION	0.532	0.812	day
+61611	PATIENT	19.594	20.114	donovan
+61622	PATIENT	0.572	0.992	steve
+61622	DOCTOR	6.399	6.919	lindsay
+61622	DOCTOR	7.74	8.121	alex
+61622	DOCTOR	9.142	9.703	memphis
+61622	PATIENT	13.107	13.447	steve
+61622	PATIENT	20.436	20.836	steve
+61622	DATE	26.503	26.964	january
+61627	DOCTOR	12.568	13.028	g ##q
+61627	DATE	13.269	15.892	september third , two thousand sixty - three
+61627	DURATION	21.179	21.72	seventeen
+61684	MEDICAL_RECORD_NUMBER	1.011	3.112	t r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r
+61695	PATIENT	8.634	8.935	danny
+61702	PATIENT	0.752	0.973	del ##ve
+61702	PATIENT	2.435	3.256	dennis booker
+61702	PATIENT	6.962	7.343	dennis
+61710	DEPARTMENT	2.214	4.517	day surgery unit hospital
+61710	DOCTOR	7.982	8.563	joseph
+61710	DOCTOR	9.404	9.945	iv ##erson
+61710	DOCTOR	10.766	11.287	pri ##tch ##ard
+61710	DOCTOR	12.629	13.15	pic ##ard
+61710	PATIENT	16.975	17.416	milton
+61742	MEDICAL_RECORD_NUMBER	0.592	5.801	six six zero five two seven nine dot q ##nl
+61742	MEDICAL_RECORD_NUMBER	8.385	11.791	six six b five two seven nine six
+61742	CITY	14.315	19.985	bellevue de mo ##lyn ##eux northern territory two five one six
+61742	DATE	22.249	24.914	july seventeenth two thousand six
+61742	DOCTOR	28.44	29.742	len ad ##mir ##a begin
+61791	DATE	0.792	1.313	february
+61791	DATE	1.393	3.655	february
+61791	DATE	4.256	6.899	june
+61791	DATE	8.481	8.922	february
+61791	PATIENT	20.035	20.455	linda
+61791	DOCTOR	26.242	26.683	polo
+61791	DOCTOR	27.864	28.405	sk ##ord ##er
+61865	DOCTOR	2.834	4.095	v . rai ##mond ##o
+61883	STREET	1.734	2.936	abe ##rf ##oy ##le street
+61883	CITY	3.617	4.278	glen ##ella
+61883	STATE	4.358	4.939	queensland
+61883	ZIP	6.702	8.205	six four zero five
+61883	PATIENT	9.066	9.487	austin
+61883	DATE	11.069	13.634	july twenty fourth , nineteen ninety four
+61883	AGE	15.016	15.637	twenty nine
+61883	ID_NUMBER	22.188	22.509	six
+61883	ID_NUMBER	22.789	26.776	eight t four seven nine six one seven n
+61883	PATIENT	27.577	28.098	austin
+61891	DATE	0.411	3.736	october , twenty - first twenty - thirteen
+61891	TIME	4.136	4.917	two p . m .
+61891	PATIENT	7.24	7.981	kenny smith
+61891	AGE	8.742	10.164	seventy seven
+61891	PATIENT	11.526	11.966	kenny
+61891	MEDICAL_RECORD_NUMBER	14.529	19.476	one four zero six four nine four dot g ##cr
+61891	MEDICAL_RECORD_NUMBER	22.459	26.484	one four six six four nine four two one r
+61898	PATIENT	0.051	1.252	david scott street
+61898	CITY	1.533	2.013	med ##ford
+61898	STATE	2.353	3.555	new south wales
+61898	ZIP	6.137	7.779	four eight seven zero
+61898	DATE	12.684	16.068	april nineteenth twenty twelve at
+61898	TIME	16.328	17.97	ten fifteen a . m .
+61898	HOSPITAL	20.172	22.835	griffith bay hospital under
+61898	DEPARTMENT	23.135	25.418	park ##es nine east department
+61905	DOCTOR	3.593	4.013	ti ##ti
+61905	DATE	4.513	7.235	april sixteenth , twenty - sixty - three
+61905	DOCTOR	12.458	13.838	b st ##av ##ost ##ov ##tch ##ev
+61924	PATIENT	4.356	5.258	sarah brown
+61924	AGE	6.259	7.901	sixty two
+61930	DOCTOR	0.131	1.132	emery ga ##rt ##ner
+61930	PATIENT	7.399	9.241	cho ##lang ##io ##car ##cino ##ma
+61930	DOCTOR	12.064	12.164	w . e .
+61956	DOCTOR	5.374	5.994	x ##z
+61956	DOCTOR	7.135	7.515	z
+61956	DOCTOR	9.796	13.798	z afford ##ance section
+61956	DOCTOR	16.46	16.72	z
+61956	DATE	18.501	21.102	december thirteenth , twenty - twelve
+61956	TIME	22.063	23.944	twelve thirty - five p . m
+61977	DATE	0.692	1.053	today
+61977	PATIENT	3.677	4.598	colby ga ##rnet ##t
+61977	ID_NUMBER	7.263	11.89	one zero u three two two five four five x
+61977	MEDICAL_RECORD_NUMBER	14.414	18.22	one zero seven three two two dot pm ##n
+61977	ID_NUMBER	22.407	25.972	one zero u three two two five four
+61987	PATIENT	10.653	13.073	vidal
+61987	DATE	15.594	17.514	september eighth , nineteen ninety
+61987	AGE	18.314	18.874	twenty three
+61987	DATE	20.215	20.915	current year
+61987	DATE	24.915	27.796	december ninth , twenty thirteen
+61995	DEPARTMENT	0.071	1.613	seal center department
+61995	DEPARTMENT	1.974	3.536	gi ##ra multi ##pur ##pose service
+61995	DOCTOR	7.181	7.722	hamilton
+61995	PATIENT	8.884	9.224	dennis
+61995	DATE	13.951	16.114	july seventeenth , twenty sixty two
+61995	DOCTOR	23.725	24.325	sex ##ton
+61995	DOCTOR	25.167	25.627	anderson
+61995	PATIENT	28.151	28.592	dennis
+62001	DOCTOR	2.332	2.712	r . f .
+62001	DOCTOR	3.733	4.233	b . l .
+62001	DOCTOR	5.434	6.154	a . ho ##b ##day
+62001	DATE	9.656	12.278	october twenty - ninth - sixty - three
+62001	AGE	28.126	28.786	forty
+62001	AGE	28.126	28.786	five
+62001	AGE	29.447	29.967	thirty
+62002	PATIENT	3.073	3.994	otis o ##at ##ley
+62002	ID_NUMBER	7.056	11.419	five two p four one one four seven five five
+62002	MEDICAL_RECORD_NUMBER	14.581	19.524	five two six four one one four dot s n o
+62002	MEDICAL_RECORD_NUMBER	21.686	25.349	five two p four one one four seven
+62079	DATE	0.352	0.754	january
+62097	DATE	0.031	0.411	today
+62097	PATIENT	2.453	11.359	doris chen collin ren ##ner breed multi ##pur ##pose service in intensive care unit
+62097	PATIENT	12.5	12.981	doris
+62097	STREET	14.061	15.242	mount vernon street
+62097	CITY	15.663	16.183	warwick
+62097	STATE	16.303	17.444	northern territory
+62097	PATIENT	21.967	22.107	shu
+62097	DATE	23.088	23.649	february
+62129	DOCTOR	1.447	2.748	cesar lin - wood bu ##cco
+62129	DOCTOR	3.028	3.149	en ##zi
+62129	DOCTOR	3.489	3.629	jc
+62129	DOCTOR	4.05	4.49	i . kenya ##rd
+62129	DATE	5.912	6.192	june
+62143	DOCTOR	2.535	2.656	geo
+62168	HOSPITAL	1.271	2.832	wil ##can ##nia health service
+62168	DATE	3.872	6.313	may eighth , twenty - sixty - three
+62168	DOCTOR	8.514	8.574	s
+62168	DOCTOR	8.634	9.054	galen
+62168	DOCTOR	10.435	11.035	mac ##ular
+62168	DATE	13.936	23.04	july sixteenth , - sixty - three co
+62173	DATE	2.173	2.713	january
+62173	DATE	2.793	3.154	january
+62173	DATE	4.115	5.356	january
+62173	DOCTOR	6.617	8.398	al ##phon ##se mer ##vin - cu ##la ##z
+62173	DOCTOR	11.581	12.122	basil
+62173	DOCTOR	14.444	14.844	l ##z
+62173	DOCTOR	16.025	16.465	x ##s
+62173	DATE	16.746	17.246	january
+62173	DATE	17.326	18.127	january
+62173	DATE	18.908	19.728	january
+62198	DATE	5.247	7.488	december third , twenty sixty - three
+62198	DOCTOR	10.65	11.39	h . ramirez
+62198	DOCTOR	13.891	14.391	h hash
+62208	DEPARTMENT	1.112	2.414	stroke unit
+62208	HOSPITAL	3.755	5.237	inn ##is ##fa ##il hospital
+62208	DOCTOR	13.345	13.686	eddie
+62208	DOCTOR	14.647	15.187	monica
+62208	DOCTOR	16.288	16.889	wendy
+62208	DOCTOR	18.01	18.391	bill
+62211	TIME	6.959	7.66	one o ' clock
+62211	DATE	11.604	14.648	december seventeenth , twenty - twelve
+62211	TIME	15.188	15.929	four thirty
+62211	DEPARTMENT	17.651	19.974	radiation on ##cology department
+62211	HOSPITAL	20.495	23.919	midlands multi ##pur ##pose health center
+62211	DOCTOR	26.101	28.183	eric hugo alvarez - rid ##o
+62221	DOCTOR	0.171	0.591	nj
+62221	DOCTOR	0.792	1.272	p ##j
+62221	DOCTOR	1.472	1.972	aw
+62221	DOCTOR	2.673	3.333	es ##pr ##i
+62221	DATE	6.256	6.776	january
+62221	DATE	9.698	10.178	january
+62224	PATIENT	0.231	1.431	brandon jefferson
+62224	AGE	1.631	2.452	nineteen
+62224	HOSPITAL	6.092	9.933	card ##onda and district soldiers memorial hospital
+62224	STATE	10.594	12.654	australian capital territory
+62224	MEDICAL_RECORD_NUMBER	18.395	22.196	nine eight five six two five three dot f w h
+62224	MEDICAL_RECORD_NUMBER	24.897	28.478	nine eight n six two five three two eight h
+62262	TIME	2.673	3.974	four ten p . m
+62262	DATE	4.855	19.708	twenty - fifth october twenty - thirteenth ##oro ##o campus
+62274	DATE	0.752	3.114	february thirteen twenty sixty - three
+62274	DOCTOR	25.498	26.418	v . challenger
+62357	DOCTOR	0.472	0.873	brody
+62357	DOCTOR	3.079	3.58	chad ##wick
+62357	DOCTOR	5.946	6.407	pearson
+62357	DOCTOR	6.908	7.149	lin
+62357	DOCTOR	10.918	11.199	craig
+62357	DATE	12.001	14.607	february fifth , two thousand and sixty - three
+62357	PATIENT	15.83	16.131	ea ##son
+62362	MEDICAL_RECORD_NUMBER	3.116	7.944	three eight six five two seven eight dot q ##ev
+62362	MEDICAL_RECORD_NUMBER	10.468	15.115	three eight r five two seven eight six one v
+62362	ID_NUMBER	17.419	22.547	three eight r five two seven eight six . per ##tain ##s
+62362	PATIENT	23.168	25.071	beatrice wig ##nob ##rad
+62362	DATE	26.433	28.717	may four , nineteen ninety two
+62378	DATE	1.052	3.615	march seventh , twenty - thirteen
+62378	TIME	4.055	5.056	two - forty - seven
+62378	DEPARTMENT	5.897	7.459	im ##vs department
+62378	HOSPITAL	7.839	8.44	beaufort
+62378	HOSPITAL	8.74	10.442	skip ##ton health services
+62378	HOSPITAL	10.922	12.263	beaufort campus
+62378	DOCTOR	14.506	16.988	darren brooks horace baltimore
+62378	DOCTOR	21.433	23.054	mi ##ki wolfe ##ns ##berger
+62378	DOCTOR	24.276	25.097	jay go ##la
+62378	DATE	25.817	26.198	four
+62378	DATE	26.618	29.261	march seventh , twenty - thirteenth
+62403	DEPARTMENT	0.151	0.912	west department
+62403	HOSPITAL	1.192	2.252	gen ##owa ##y hospital
+62403	DOCTOR	4.534	6.035	giuseppe ol ##anza ##nch ##i
+62403	CITY	8.036	8.597	tun ##ker ##y
+62403	STATE	9.417	9.898	nt
+62403	CITY	11.619	12.239	po box
+62403	ZIP	12.419	13.52	two , eight , nine
+62403	ZIP	14.521	15.662	two , three , two , six
+62403	DOCTOR	18.644	19.204	v ##z
+62403	DOCTOR	19.564	20.365	z is ##hid ##a
+62403	DATE	23.747	25.668	august tenth , twenty sixty two
+62444	PATIENT	3.135	4.096	crane duncan
+62444	PATIENT	8.462	8.882	ap ##so
+62445	DOCTOR	3.235	5.478	hugh e ##ger ##ton
+62457	DOCTOR	1.313	1.653	knight
+62457	DOCTOR	6.138	6.679	wilson
+62457	DOCTOR	7.94	8.521	randolph
+62457	PATIENT	14.228	14.829	willie
+62457	DATE	15.63	18.553	july third , twenty sixty two
+62480	STREET	0.331	1.911	mar ##port ' s old street
+62480	CITY	2.472	3.092	cook ##town
+62480	STATE	3.692	4.572	victoria
+62480	ID_NUMBER	7.133	8.973	three , seven , six , two
+62480	DATE	10.694	13.134	may ninth , nineteen ninety - nine
+62480	PATIENT	13.594	13.894	gap
+62480	PATIENT	16.975	17.755	mate ##nya
+62480	DATE	21.056	23.997	june twenty - eighth , twenty sixty - two
+62480	PATIENT	24.557	24.917	gap
+62480	DEPARTMENT	27.918	29.078	pathology north
+62505	DATE	1.092	2.694	december twenty - six - three
+62505	DATE	11.884	14.687	twenty - sixth december , twenty - six - three
+62505	PATIENT	21.554	21.895	gary
+62505	DOCTOR	23.176	23.437	duke
+62505	DOCTOR	24.177	24.498	fox
+62505	DOCTOR	25.359	25.639	owen
+62511	TIME	0.231	0.572	morning
+62511	PATIENT	3.096	4.418	mr . howard caesar
+62511	DATE	6.942	7.202	august
+62513	DATE	11.303	14.346	february twenty - six , twenty - sixty - two
+62513	HOSPITAL	16.449	18.911	gulf links world rehabilitation center
+62513	DOCTOR	21.294	22.996	stanton willie kit ##tle ##s
+62513	DEPARTMENT	24.357	26.48	forensic medicine department
+62546	PATIENT	0.312	0.855	del ##eti ##on
+62546	DOCTOR	4.55	5.374	mali ##gnan
+62548	DOCTOR	5.839	6.179	l . v .
+62548	DATE	6.5	6.78	may
+62548	DATE	6.88	8.783	tenth twenty - sixty - three
+62548	DOCTOR	10.265	10.786	cullen
+62548	DOCTOR	11.587	12.007	e . l .
+62548	DATE	12.488	12.888	april
+62548	DATE	12.989	15.332	sixteenth , twenty - sixty - three
+62548	DOCTOR	16.834	17.495	s . sugar
+62548	DOCTOR	25.065	25.946	s . at ##well
+62548	DOCTOR	26.947	27.708	s . at ##kin
+62578	DATE	2.514	3.134	january
+62578	STREET	4.536	5.437	summer robin ##ville
+62578	CITY	5.477	5.697	act
+62578	STATE	5.717	6.358	zip
+62578	DOCTOR	7.699	8.64	##s . courtney west - fuss
+62595	DATE	3.515	6.377	january , twenty - second , twenty - sixty - three
+62595	DOCTOR	7.859	8.88	c . el ##berg
+62595	DOCTOR	11.102	12.784	r r . donnelly
+62595	HOSPITAL	13.505	16.448	finley hospital and community health care
+62612	PATIENT	2.614	5.398	mandy dale ##o
+62612	MEDICAL_RECORD_NUMBER	6.379	11.185	four six m six seven two four nine o x
+62612	MEDICAL_RECORD_NUMBER	13.869	18.715	four six four six seven two four does x ##c ##x
+62612	PATIENT	19.636	20.057	mandy
+62612	ID_NUMBER	24.362	27.927	four six m six seven two four nine
+62616	DATE	0.131	0.611	october
+62616	DATE	0.751	2.673	eighteenth two thousand one
+62616	STREET	4.594	5.654	ville estates
+62616	CITY	6.335	6.815	sea lake
+62616	STATE	6.875	7.435	queensland
+62616	ZIP	9.056	10.337	one , two , three , five
+62616	DEPARTMENT	15.06	24.905	envoy pathology three six c six nine two one two
+62625	PATIENT	9.78	10.18	steve
+62625	DATE	13.563	16.385	february
+62625	PATIENT	20.529	20.929	steve
+62697	TIME	0.211	0.572	morning
+62697	DATE	1.272	1.653	today
+62697	PATIENT	3.835	4.155	mr
+62697	PATIENT	4.195	5.056	stephan penn ##ell
+62697	DATE	7.399	9.501	august sixth , nineteen ninety - three
+62697	MEDICAL_RECORD_NUMBER	12.004	15.788	seven four five seven one six dot p ##x ##l
+62697	MEDICAL_RECORD_NUMBER	19.172	22.996	seven four zero seven one six six eight four b
+62697	ID_NUMBER	24.878	28.041	seven four zero seven one six six eight
+62700	ID_NUMBER	3.6	9.686	one one f four three three one four one one f four three three one four
+62700	HOSPITAL	11.448	12.308	mora hospital
+62700	DATE	13.089	15.672	november thirteenth , twenty thirteen
+62700	TIME	16.392	17.634	twelve fifteen pm
+62700	DEPARTMENT	20.636	22.098	three area ##ta close
+62700	DOCTOR	25.101	26.041	crystal mar ##gard
+62700	DOCTOR	26.542	27.383	mc ##gui ##nity
+62718	STREET	0.472	1.213	worcester park
+62718	CITY	1.794	2.555	bradford
+62718	STATE	2.996	5.88	tasmania
+62718	DATE	15.276	17.98	july twenty - third twenty - thirteen
+62718	TIME	19.422	21.045	eight - forty - nine a . m
+62718	HOSPITAL	22.167	23.589	ga ##mara ##cha hospital
+62718	DEPARTMENT	25.732	27.155	r ##h ##w department
+62774	PATIENT	0.071	3.792	wil ##i
+62774	CITY	6.532	7.252	mit ##tag ##ong
+62774	STATE	7.832	9.233	south australia
+62774	ZIP	11.713	13.733	four six seven four
+62774	DATE	16.514	20.334	june twenty - third nineteen seventy - nine
+62774	AGE	22.755	23.575	forty three
+62808	PATIENT	1.631	2.032	claire
+62808	DATE	6.873	9.334	january ninth , twenty sixty - three
+62808	DOCTOR	11.574	11.994	curry
+62808	PATIENT	17.196	17.456	claire
+62834	DEPARTMENT	2.294	3.115	st . vincent
+62834	HOSPITAL	3.936	7.12	bethel ad ##lon multi ##pur ##pose service
+62834	DATE	10.444	12.647	august , twenty - eight twenty - thirteen
+62834	TIME	13.267	13.628	eight ,
+62834	TIME	13.928	15.07	twenty - six a . m
+62834	PATIENT	17.713	18.214	ren ##ford
+62834	CITY	18.454	19.675	ren ##mark t . a . s
+62834	ZIP	21.978	24.181	five - zero - eight - four
+62834	DOCTOR	27.605	28.767	jackson l . cars ##ten
+62836	PATIENT	0.091	1.151	james min ##rod
+62836	MEDICAL_RECORD_NUMBER	3.552	6.813	nine seven p four o five five four
+62836	MEDICAL_RECORD_NUMBER	8.813	17.835	nine seven six four o five five dot k ##z ##x cy ##st
+62836	DATE	21.316	25.077	february twenty first , twenty sixty two
+62877	DOCTOR	2.272	2.753	f . w .
+62877	DATE	3.353	5.854	april , twenty - third , - sixty - three
+62877	DOCTOR	10.137	10.317	c
+62877	DOCTOR	10.137	10.937	. carr ##ico
+62877	DATE	11.578	13.779	april , twenty - fourth , twenty - sixty - three
+62900	DATE	0.331	2.932	february sixth sixty two
+62905	MEDICAL_RECORD_NUMBER	2.494	6.097	nine zero five two four seven nine dot gma
+62905	ID_NUMBER	7.819	11.083	nine zero n two four seven nine two four a
+62905	ID_NUMBER	12.704	15.888	nine zero n two four seven nine two per ##tain ##s
+62905	PATIENT	16.208	17.489	kayla royce brennan
+62905	DATE	18.811	20.192	september th ##ir ##tie ##th
+62905	ID_NUMBER	20.432	21.353	nineteen eighty one
+62905	DATE	26.479	27.92	june seventh , twenty twelve
+62905	TIME	28.701	29.682	one thirty two p . m
+62917	DOCTOR	1.653	1.733	dc ##is
+62931	DATE	0.692	0.932	day
+62931	PATIENT	4.636	6.057	claude johnny vickers
+62931	CITY	14.146	14.506	copper tree
+62931	CITY	14.526	15.587	murray bridge
+62931	STATE	15.607	16.348	wa
+62940	PATIENT	0.852	1.733	steve butler
+62940	AGE	2.174	3.115	seventy
+62940	STATE	3.996	5.838	australian capital territory
+62940	DEPARTMENT	8.561	9.162	department
+62940	DEPARTMENT	9.462	10.644	correct ##ive services
+62940	HOSPITAL	11.525	12.406	alpine health
+62940	HOSPITAL	12.746	26.443	med ##ford - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a a a a a a a a a a a a a - a
+62951	PATIENT	0.592	1.432	corey find ##ler
+62951	DOCTOR	19.149	19.69	j . p .
+62951	DOCTOR	20.931	21.551	h . cr ##is ##co
+62951	DATE	23.714	24.154	january
+62959	PATIENT	7.918	8.458	donovan
+62959	STREET	9.499	10.24	elk ##o street
+62959	CITY	11.421	12.062	ras ##mussen
+62959	STATE	13.803	14.584	tasmania
+62959	ZIP	17.026	18.387	five one one eight
+62959	DATE	20.289	22.931	april twenty fourth , nineteen eighty one
+62993	DOCTOR	0.031	0.632	valentine
+62993	DOCTOR	1.452	1.833	george
+62993	DOCTOR	2.534	3.034	linden
+62993	PATIENT	6.678	7.018	bowen
+62993	PATIENT	16.428	16.869	bowen
+62993	DATE	18.27	21.233	february , twenty , twenty - sixty - three
+62998	PATIENT	2.193	4.655	lydia kali ##na os ##trom
+62998	MEDICAL_RECORD_NUMBER	7.257	13.783	seven two five five zero nine seven dot f ##v ##q
+62998	ID_NUMBER	16.125	21.289	seven two n five zero nine seven two
+62998	DOCTOR	26.053	27.554	t . fu ##shan ##te
+63034	PATIENT	3.475	5.057	jenny moore downs surgery
+63034	DATE	5.738	8.681	november , thirteenth , twenty - sixty - three
+63034	HOSPITAL	9.882	12.305	r ##h ##w derby hospital
+63034	MEDICAL_RECORD_NUMBER	15.629	19.874	eight three zero two nine six nine four three eight
+63034	MEDICAL_RECORD_NUMBER	22.677	27.342	eight three five two nine six nine dot mk ##v
+63044	DOCTOR	2.734	3.195	xi
+63044	DOCTOR	4.216	4.577	ut
+63044	DATE	5.277	8.161	december eleventh , twenty - sixty - three
+63044	DOCTOR	11.645	12.486	ar ##bel ##en ##ka
+63062	PATIENT	0.051	0.652	kamen ##sky
+63062	PATIENT	4.517	7.821	stephen th ##ir ##tie ##th
+63062	DATE	8.382	10.264	december , twenty sixty three
+63062	PATIENT	22.66	23.161	stephen
+63075	DEPARTMENT	4.456	5.398	met ##ic ##ulously
+63082	PATIENT	0.632	1.313	donna mar ##mon
+63082	ID_NUMBER	2.414	5.579	zero five k , one seven six zero four
+63082	MEDICAL_RECORD_NUMBER	7.542	10.906	zero five four , one seven six dot a - l - m
+63082	DOCTOR	12.689	13.109	i -
+63082	DOCTOR	12.689	13.109	q
+63082	DATE	13.73	16.354	april twenty second , twenty sixty three
+63108	PATIENT	2.755	3.796	jamie cas ##cio
+63108	MEDICAL_RECORD_NUMBER	6.28	11.227	zero one four four seven seven nine dot k ##zh
+63108	MEDICAL_RECORD_NUMBER	12.99	16.134	zero one k four seven seven nine four
+63108	ID_NUMBER	18.478	22.904	zero one k four seven seven nine four nine h
+63108	STREET	24.967	25.788	old timbers
+63108	CITY	26.309	26.83	old gate
+63108	STATE	27.31	28.352	northern territory
+63149	DATE	0.652	3.376	fifth september twenty fourteen
+63149	DATE	9.365	12.97	twelfth february , twenty sixty three
+63149	PATIENT	16.716	17.076	oman
+63149	AGE	17.677	18.458	fifty four
+63167	ID_NUMBER	0.391	3.733	seven six c four three two one eight
+63167	PATIENT	4.693	5.074	stephen
+63167	STREET	5.714	6.354	memo street
+63167	CITY	7.775	8.375	con ##om ##bo
+63167	STATE	9.936	12.037	tasmania ta ##s
+63167	ID_NUMBER	14.739	16.54	seven zero five four
+63167	DATE	18.121	19.942	third may two thousand two
+63167	PATIENT	27.686	28.126	stephen
+63175	PATIENT	4.778	5.7	patrick smith
+63175	DATE	13.452	15.876	august
+63175	STREET	27.935	28.997	old pic ##ard street
+63182	PATIENT	0.492	1.833	michele car ##uso
+63182	DATE	2.794	5.397	august nineteenth , nineteen eighty - seven
+63182	MEDICAL_RECORD_NUMBER	9.181	12.665	six two zero seven nine seven dot o - y - i
+63182	MEDICAL_RECORD_NUMBER	14.547	18.111	six two b - seven nine seven five nine three h
+63182	ID_NUMBER	21.695	24.919	six two b - seven nine seven five nine
+63182	PATIENT	25.479	26.06	michele
+63182	STREET	27.001	27.782	pali ##n street
+63182	CITY	28.182	28.743	so ##tel
+63197	PATIENT	0.151	0.612	daniel
+63197	DOCTOR	2.634	3.015	crown
+63197	DOCTOR	3.736	4.156	russell
+63197	DOCTOR	4.977	5.357	harvey
+63197	DATE	9.382	12.346	fourteenth of october , twenty sixty - three
+63197	PATIENT	16.651	17.072	daniel
+63225	DATE	0.191	2.912	february twenty - six , twenty - sixty - two
+63225	TIME	3.633	4.973	ten - thirty a . m .
+63225	DOCTOR	6.114	6.714	s ho ##rry
+63225	DOCTOR	7.394	15.979	s . pop ##o br ##enne ##man
+63240	DOCTOR	18.525	19.807	anne he ##dding ##ton
+63256	ID_NUMBER	0.812	4.958	three zero r five zero four three six
+63256	STREET	7.061	7.842	du ##von street
+63256	CITY	8.182	8.643	oak ##dale
+63256	ZIP	11.106	13.149	four eight one six
+63256	DATE	14.551	17.856	october sixteenth , nineteen ninety four
+63256	PATIENT	18.296	18.817	milton
+63256	DATE	21.0	24.705	december eighteenth , twenty thirteen
+63256	TIME	25.386	26.948	ten twenty five a . m
+63256	PATIENT	28.35	28.811	milton
+63268	PATIENT	6.853	7.133	matt
+63301	ID_NUMBER	4.335	8.679	zero eight k , five nine eight three zero
+63301	PATIENT	17.488	18.309	oman put ##h
+63301	STREET	19.99	21.111	ga ##rman street
+63301	CITY	22.172	22.773	pen ##rith
+63301	STATE	23.594	24.034	nt
+63301	ZIP	26.297	27.978	four zero three zero
+63323	PATIENT	13.909	14.31	om ##en
+63330	DATE	0.211	0.432	day
+63330	DATE	0.752	2.435	today sum ##mar ##ize
+63330	PATIENT	4.158	6.201	jack eddy ore ##nko ##ski
+63348	DATE	0.992	2.975	july seventeenth , twenty sixty - two
+63348	DOCTOR	9.803	10.203	wagner
+63356	TIME	6.179	7.601	one twenty five pm
+63356	DATE	8.302	8.843	same day
+63356	DEPARTMENT	13.068	14.851	acute care ward
+63356	HOSPITAL	15.451	16.593	tomorrow hospital
+63356	DOCTOR	19.897	20.478	michel ##in
+63365	DURATION	0.111	0.432	a day
+63365	PATIENT	4.477	5.178	sonny healy
+63365	DATE	7.702	9.865	february third , two thousand one
+63365	ID_NUMBER	11.527	15.252	one one f four three three one four three e
+63365	MEDICAL_RECORD_NUMBER	17.676	21.381	one one one four three three one dot l i e
+63365	STREET	23.945	24.866	mer ##cht ##ham street
+63365	CITY	25.206	25.927	williams ##town
+63365	STATE	26.468	26.728	w . a
+63365	ZIP	28.15	29.272	three five five five
+63378	DATE	3.494	5.716	june , twenty - nine , - sixty - two
+63387	PATIENT	2.554	5.978	o . k . k . nine nine nine three o . ruby
+63387	DATE	9.422	12.566	june twenty fifth twenty sixty two
+63387	DATE	13.387	16.531	june twenty eighth twenty sixty two
+63387	DOCTOR	19.655	20.215	vi ##x ##en
+63387	DOCTOR	20.696	28.205	gilmore purpose
+63389	DATE	1.894	4.839	december fourth , two thousand and thirteen
+63389	TIME	5.741	7.043	nine oh eight am
+63389	DEPARTMENT	11.871	13.894	southeastern area departments
+63389	DOCTOR	15.477	16.098	robinson
+63389	DOCTOR	16.879	17.36	silver
+63389	DOCTOR	18.382	18.662	vol ##k
+63389	DOCTOR	20.465	21.066	davidson
+63389	DOCTOR	21.847	22.128	mills
+63389	PATIENT	24.953	25.393	austin
+63406	PATIENT	3.013	4.815	corey singh lok ##en
+63430	ID_NUMBER	0.105	24.304	zero eight eight three seven five five three zero eight eight three seven five five three twenty first february twenty sixty three
+63436	DATE	11.608	14.232	june twentieth , twenty - sixty - two
+63436	HOSPITAL	14.973	16.034	warren hospital
+63436	HOSPITAL	16.395	17.817	dickinson three south
+63436	DOCTOR	20.12	21.983	shirley rose ##tta badge ##tt
+63436	ID_NUMBER	24.106	26.79	two - three b - a - zero - seven - two - six
+63447	ZIP	1.512	2.633	two , two , five , two
+63447	HOSPITAL	10.119	11.581	mill mora ##ine hospital
+63447	HOSPITAL	11.941	14.543	gil ##gan ##dra multi ##pur ##pose service
+63447	PATIENT	16.505	17.025	bradley
+63447	DOCTOR	20.928	21.289	grace
+63447	DOCTOR	22.59	22.93	put ##h
+63447	DOCTOR	23.691	24.211	ni ##da
+63447	DOCTOR	24.832	25.432	wise ##man
+63447	DOCTOR	25.993	26.513	goldberg
+63447	DOCTOR	26.993	27.654	lorenzo
+63447	DOCTOR	28.214	28.655	lincoln
+63500	PATIENT	3.355	4.297	taylor bark ##ley
+63500	MEDICAL_RECORD_NUMBER	7.04	10.645	one four eight zero six eight dot q ##q ##k
+63500	PATIENT	11.967	12.387	taylor
+63500	MEDICAL_RECORD_NUMBER	14.45	17.514	one four x zero six eight six six
+63500	DATE	25.305	27.407	july eighteenth , twenty sixty two
+63500	DURATION	28.128	28.589	two days
+63553	DATE	0.291	2.492	april , twenty - sixth , twenty - twelve
+63553	TIME	3.112	3.792	fourteen to
+63553	TIME	4.012	4.792	thirty p . m .
+63553	PATIENT	5.912	6.393	jonathan
+63553	DEPARTMENT	8.333	9.853	cpc pathology
+63553	HOSPITAL	10.894	12.454	leighton district hospital
+63553	DOCTOR	24.177	24.597	bowman
+63553	PATIENT	25.757	26.297	jonathan
+63554	DOCTOR	15.404	16.005	h . se ##dd ##on
+63554	DOCTOR	17.025	18.607	h . mr ##oz ##kowski
+63554	DATE	19.207	19.608	april
+63554	DATE	19.788	21.93	eighteenth twelve
+63554	TIME	22.51	24.011	three thirty - five p . m
+63569	HOSPITAL	0.331	4.874	na ##rra ##bri district hospital department
+63569	DEPARTMENT	5.194	6.454	correct ##ive services
+63569	DOCTOR	10.797	11.117	eli ##sh
+63569	PATIENT	12.137	12.598	colby
+63569	PATIENT	17.22	17.54	colby
+63569	DOCTOR	22.123	22.623	white on
+63569	DOCTOR	22.683	22.983	july
+63569	DOCTOR	23.263	23.604	crawford
+63569	DOCTOR	24.204	24.564	sp ##ei ##ght
+63597	DOCTOR	9.704	10.184	e . q .
+63597	DOCTOR	12.207	12.748	p . s .
+63597	DATE	13.368	17.073	february thirteenth , twenty sixty three
+63601	DOCTOR	0.331	0.872	q ##g
+63601	DOCTOR	2.394	2.815	w ##g
+63601	DATE	3.716	5.118	february
+63601	DOCTOR	11.125	11.266	x
+63619	PATIENT	0.211	0.632	anton
+63619	DOCTOR	2.594	2.994	frost
+63619	DOCTOR	9.622	10.323	valentine
+63619	DOCTOR	11.204	11.685	hector
+63619	DOCTOR	12.726	13.206	hero
+63619	DOCTOR	14.508	15.069	jeffrey
+63619	PATIENT	20.795	21.196	anton
+63619	DATE	22.437	22.698	february
+63619	DATE	22.798	23.278	february
+63624	HOSPITAL	0.211	1.533	gu ##ller health service
+63624	DATE	1.954	2.434	november
+63624	DATE	2.515	4.698	november
+63624	DATE	5.639	10.246	november recovery
+63624	DOCTOR	13.29	14.712	frankie daisy tr ##ai ##ola
+63624	DOCTOR	15.874	16.615	blake sho ##ff
+63624	DOCTOR	19.319	19.78	v ##d
+63624	DOCTOR	20.26	20.781	k ##l
+63624	DOCTOR	21.783	22.083	nr
+63628	PATIENT	1.975	3.798	clarence terra ##li - claude
+63628	ID_NUMBER	5.762	10.811	a - zero - m - seven - one - seven - eight - two - a - j
+63628	MEDICAL_RECORD_NUMBER	13.255	17.764	a - zero - four - seven - one - seven - dot - v - g - u
+63628	STREET	19.507	20.428	mandolin street
+63628	STREET	20.869	21.931	brunswick heights
+63628	STATE	22.813	26.379	n - s - w - two - three - four - two
+63628	DATE	28.764	28.904	october
+63641	DATE	0.472	4.136	february fourteenth , twenty - sixty - three
+63673	DATE	0.151	2.373	march eighteenth , nineteen ninety - one
+63673	DATE	6.495	10.138	january twenty - second twenty sixty - three
+63673	DATE	13.06	16.122	january twenty - second , twenty sixty - three
+63689	DOCTOR	8.499	9.119	anita
+63689	DOCTOR	10.02	10.521	du ##ren
+63689	DOCTOR	11.381	11.882	go ##rton
+63689	DOCTOR	12.863	13.363	page
+63689	DATE	21.811	24.994	december seventh , twenty sixty - two
+63704	DATE	0.051	0.411	today
+63704	PATIENT	2.955	3.776	stephen cook
+63704	PATIENT	10.864	11.285	stephen
+63726	DOCTOR	0.512	0.912	dillon
+63726	DOCTOR	3.036	3.837	calvin ##o
+63726	DOCTOR	5.219	5.8	roth ##stein
+63726	PATIENT	15.775	16.276	linda
+63735	HOSPITAL	1.612	4.114	kingston soldiers memorial hospital
+63750	PATIENT	1.834	2.735	elmer bra ##zy
+63750	ID_NUMBER	4.578	9.324	a - four - m - four - one - five - a - two - two - f
+63750	MEDICAL_RECORD_NUMBER	11.648	17.075	a - four - four - four - one - five dot w - h - h
+63750	HOSPITAL	18.457	23.324	bellevue - curry - curry a - c - t - nine - zero - one - zero
+63750	DATE	26.148	28.412	january second , two - thousand - six
+63765	PATIENT	2.655	3.275	jamie
+63765	DATE	6.82	10.065	february eight , two thousand and sixty - three
+63765	PATIENT	14.23	14.771	jamie
+63765	DOCTOR	16.514	17.074	spec ##tor
+63765	DOCTOR	18.016	18.516	benson
+63765	DOCTOR	19.478	19.958	ke ##pper
+63765	DOCTOR	20.96	21.38	river
+63765	DOCTOR	22.742	23.323	castro
+63765	DATE	24.565	27.709	december second , two thousand and thirteen
+63771	TIME	0.486	2.129	nine twenty - six a . m
+63771	DEPARTMENT	3.31	5.854	parker ' s a department hospital
+63771	PATIENT	8.458	8.818	vita
+63771	DOCTOR	13.545	13.925	irving
+63771	DOCTOR	14.826	15.307	harper
+63771	DOCTOR	16.268	16.769	iv ##erson
+63771	DOCTOR	17.73	18.171	el ##dridge
+63771	DOCTOR	19.032	19.473	spike
+63771	DOCTOR	20.474	20.815	ode ##n
+63771	DATE	26.583	29.427	february thirteenth , twenty sixty - three
+63802	MEDICAL_RECORD_NUMBER	1.852	6.234	five six two six one eight four dot r ##hi
+63802	PATIENT	8.596	9.496	collins - murray
+63802	ID_NUMBER	12.538	16.02	five six three six one eight four six two i
+63802	ID_NUMBER	22.223	25.204	five six three six one eight four six
+63828	DOCTOR	10.284	23.58	x . has ##ek ii iii
+63833	PATIENT	0.231	0.992	bowen rose
+63833	DATE	2.334	4.116	may fourth , nineteen eighty - eight
+63833	HOSPITAL	5.758	8.1	franks ##ton public surgical center
+63833	HOSPITAL	9.602	10.263	co ##oga ##r ,
+63833	CITY	10.303	11.104	d . n . t
+63833	MEDICAL_RECORD_NUMBER	15.769	20.114	five six three six four five four dot u . r . q
+63833	MEDICAL_RECORD_NUMBER	22.417	26.602	five six j six four five four seven six q
+63844	DOCTOR	0.611	1.072	brian
+63844	DOCTOR	1.672	2.132	del ##phi
+63844	DOCTOR	2.812	3.133	rook
+63844	DATE	7.015	7.695	june
+63844	DATE	7.775	9.616	june
+63844	DATE	10.056	11.957	september
+63844	DOCTOR	18.621	19.101	marvin
+63844	DOCTOR	19.661	20.102	bailey
+63844	DOCTOR	20.662	21.242	tin ##son
+63844	DOCTOR	21.963	22.643	stockton
+63844	PATIENT	24.564	25.325	kimberly
+63855	DATE	0.031	0.351	today
+63855	PATIENT	3.175	4.617	remy randolph
+63855	PATIENT	17.213	17.513	remy
+63863	PATIENT	0.471	0.892	queen
+63863	DATE	10.04	10.12	june
+63865	PATIENT	2.654	3.175	tyrone
+63865	PATIENT	3.515	3.856	crude
+63865	ID_NUMBER	6.279	6.599	four
+63865	ID_NUMBER	6.759	9.883	five m six nine six nine nine one u
+63865	MEDICAL_RECORD_NUMBER	12.426	16.151	four five four six nine six nine dot x ##fu
+63865	MEDICAL_RECORD_NUMBER	18.313	21.197	four five m six nine six nine nine
+63865	DATE	24.321	26.704	may twenty fifth nineteen eighty five
+63865	DISTRICT	28.065	29.247	north east high
+63874	DATE	0.452	3.277	february
+63874	PATIENT	8.506	9.007	milton
+63874	DEPARTMENT	15.078	15.719	hospital
+63924	PATIENT	5.519	5.74	ian
+63924	DATE	8.183	10.567	december
+63924	PATIENT	18.879	19.841	ian clark
+63948	DOCTOR	0.432	24.026	lu i . ni ##zzo
+63948	DATE	24.527	24.707	may
+63959	DOCTOR	0.692	1.012	cook
+63959	DOCTOR	2.074	2.635	so ##han
+63959	DATE	10.666	11.027	july
+63959	DATE	11.087	11.828	july
+63959	DATE	12.85	13.551	july
+63959	PATIENT	17.637	18.157	roger
+63963	DEPARTMENT	1.613	2.954	ha ##ps department
+63963	DOCTOR	8.841	9.261	goodman
+63963	DOCTOR	9.902	10.442	henderson
+63963	DOCTOR	11.103	11.503	thomas
+63963	DATE	16.769	18.531	may fourteenth , twenty - twelve
+63963	TIME	19.552	20.253	twelve p . m .
+63963	DOCTOR	28.402	28.702	edwards
+63983	DATE	0.311	3.415	june twenty - six , twenty - sixty - two
+63983	PATIENT	4.136	4.417	crane
+63983	DOCTOR	5.698	7.461	peter mack department
+63983	HOSPITAL	8.422	9.864	mercy health service
+63983	DOCTOR	20.158	21.019	stevenson
+63983	DOCTOR	25.625	26.065	towns
+63983	DOCTOR	27.207	27.748	duran ##d
+64010	DURATION	9.56	9.781	one
+64010	DOCTOR	21.732	22.613	j mc ##ken ##zel
+64010	DOCTOR	23.194	24.095	j stone ##burn ##er
+64025	PATIENT	12.528	13.409	mark bell
+64029	PATIENT	6.098	7.059	luke robinson
+64041	DEPARTMENT	3.913	5.934	prince of wales private
+64041	HOSPITAL	10.557	11.897	wagon hospital
+64041	DOCTOR	13.498	14.179	amsterdam
+64041	DATE	22.863	26.445	june , twenty - nine , twenty - six - two
+64041	PATIENT	26.965	27.606	foster
+64043	DATE	0.031	2.134	december seventh , twenty sixty - two
+64043	DOCTOR	2.755	3.155	gordon
+64043	PATIENT	6.8	7.181	josh
+64043	DATE	11.426	13.589	december seventh , twenty sixty - two
+64043	PATIENT	14.571	14.971	josh
+64043	DATE	19.237	21.099	july eleventh , twenty sixty - two
+64043	PATIENT	22.842	23.202	josh
+64057	DOCTOR	12.667	13.408	h . mil ##itan ##o
+64059	PATIENT	1.693	2.755	barbara bu ##wani ##s
+64059	STREET	8.082	8.723	shan ##a street
+64059	CITY	8.743	9.063	bone ##y hills ,
+64059	STATE	9.544	9.704	vic
+64059	CITY	9.784	10.205	post ##code
+64067	DATE	0.391	2.693	july twenty - third , twenty - thirteen
+64067	DATE	4.735	7.037	june nineteen , twenty - sixty - two
+64067	ZIP	8.058	9.639	ten - thirty - nine
+64067	HOSPITAL	11.161	14.063	liberty pathology fis ##ero ##id crossing hospital
+64067	DOCTOR	17.006	18.407	derek bob pratt ##ner
+64067	DOCTOR	19.068	19.488	ed she ##ehan
+64067	DATE	21.81	23.892	june twenty , twenty - sixty - two
+64067	DOCTOR	25.293	26.274	p . glint ##on
+64067	DOCTOR	28.856	29.597	p . ike ##da
+64110	DOCTOR	11.387	12.249	javier sc ##hun ##d
+64154	DOCTOR	0.431	0.892	hunter
+64154	DOCTOR	1.632	1.972	george
+64154	DOCTOR	7.175	7.635	loft ##on
+64154	DATE	8.956	11.758	december , tenth , two thousand and thirteen
+64154	TIME	12.678	14.64	twelve forty seven p . m .
+64154	PATIENT	15.24	15.7	doris
+64154	DATE	20.823	24.125	february thirteen two thousand and sixty three
+64194	DOCTOR	7.179	7.74	pp
+64194	DOCTOR	8.701	9.141	dl
+64194	DATE	9.762	13.106	january , tenth two thousand and sixty
+64202	DATE	3.514	3.955	november
+64226	DOCTOR	1.352	2.654	t . tuck ##ett
+64226	DATE	9.881	13.264	june six , twenty sixty - three
+64226	DOCTOR	14.866	16.287	t . ry ##berg
+64226	DOCTOR	27.198	28.94	t . good ##ley
+64235	DATE	2.694	3.034	third
+64235	DATE	3.234	6.999	december twenty sixty three and
+64235	DATE	7.539	8.26	sixteenth
+64235	DATE	8.44	10.923	january twenty sixty three
+64235	DEPARTMENT	23.396	25.719	envoy pathology department
+64238	DATE	11.827	15.431	august thirteenth , twenty - sixty - three ##fies
+64238	DOCTOR	23.342	24.624	federico we ##rn ##ick
+64238	DATE	27.107	29.29	may eighth , twenty - sixty - three
+64257	PATIENT	2.593	3.533	gap vincent
+64257	DEPARTMENT	6.876	7.216	eps
+64257	MEDICAL_RECORD_NUMBER	10.818	10.959	bt ##r
+64264	PATIENT	0.898	1.939	milton winston
+64264	AGE	2.84	3.862	nineteen
+64264	STATE	4.743	5.204	western
+64264	STATE	5.284	5.965	australia
+64264	HOSPITAL	9.349	11.012	royal children ' s hospital
+64264	PATIENT	15.298	15.638	milton
+64267	CITY	0.091	0.832	barr ##is ##dale
+64267	STATE	1.052	2.735	northern territory
+64267	ZIP	4.357	6.059	six zero three five
+64267	DATE	9.504	12.648	december eleventh two thousand twelve
+64267	ZIP	13.329	14.67	twelve fifty nine
+64267	CITY	15.311	15.892	dickinson
+64267	HOSPITAL	16.713	17.094	north
+64267	HOSPITAL	18.015	20.818	georgetown hospital and community center
+64267	DOCTOR	26.186	26.826	ronald
+64267	DOCTOR	27.668	28.669	gun ##ia lo ##v ##man
+64289	PATIENT	0.031	1.012	zen d ' ama ##to
+64289	PATIENT	13.606	14.487	patrick hobbs
+64289	CITY	14.848	15.468	melbourne
+64289	STATE	15.588	16.389	victoria
+64289	DATE	22.376	25.56	november sixteenth , nineteen ninety - six
+64292	STREET	1.252	1.853	bunker ##ings
+64292	STATE	1.973	2.734	victoria
+64292	ZIP	5.177	6.598	six two four four
+64292	ID_NUMBER	12.845	15.508	nine six p nine six nine four three
+64292	ZIP	24.918	28.022	twenty seventh december twenty sixty three
+64310	DOCTOR	18.357	18.978	m . hub ##el
+64310	DOCTOR	20.22	21.241	m . major
+64310	DOCTOR	22.443	23.264	m . oro ##z ##co
+64310	TIME	23.865	25.748	ten fifty - five am
+64310	DATE	26.449	29.493	january twenty - second twenty - sixty - three
+64311	ID_NUMBER	3.576	6.46	five six j six four five four seven
+64311	PATIENT	6.94	7.842	bowen resides
+64311	STREET	8.202	9.404	fox ##gate street
+64311	ZIP	11.466	13.169	six four one five
+64311	DATE	14.49	17.034	february nineteenth , twenty sixty three
+64311	PATIENT	17.434	17.835	bowen
+64311	DEPARTMENT	19.657	22.501	med ##ic surgery ward hospital
+64311	DOCTOR	29.29	29.671	jordan
+64313	DATE	0.031	0.331	today
+64313	PATIENT	2.294	3.155	katherine brown
+64313	PATIENT	12.525	13.186	katherine resides
+64313	STREET	13.326	14.407	marcus ga ##r ##vey street
+64339	DATE	5.694	6.255	february
+64350	TIME	0.091	2.955	four twenty five p . m . day
+64350	DEPARTMENT	5.418	6.659	acute care ward
+64350	HOSPITAL	7.66	9.623	hugh hen ##g den hospital
+64350	DOCTOR	13.247	13.748	rossi
+64350	DOCTOR	20.556	20.856	aden
+64350	DOCTOR	21.637	22.018	troy
+64350	DOCTOR	22.859	23.259	rowland
+64350	DOCTOR	24.04	24.481	ra ##dley
+64353	DEPARTMENT	1.593	4.658	molecular on ##cology department
+64353	HOSPITAL	5.639	6.66	clear hospital
+64353	DATE	9.645	11.507	december
+64353	DOCTOR	24.085	25.087	tracy sec ##kt ##on
+64365	DATE	0.691	1.092	today
+64365	MEDICAL_RECORD_NUMBER	3.933	7.335	a - zero - e - five - six - two - nine - four - nine - v
+64365	PATIENT	8.556	9.476	bradley green
+64365	DATE	10.737	13.158	february ninth , nineteen eighty - six
+64365	MEDICAL_RECORD_NUMBER	15.719	19.361	a - zero - one - five - six - two - nine - dot - m - z - v
+64365	MEDICAL_RECORD_NUMBER	21.362	24.684	a - zero - e - five - six - two - nine - four
+64365	PATIENT	25.345	25.765	bradley
+64365	STREET	27.025	28.026	w . valle ##e street
+64365	CITY	28.346	29.026	gladstone ,
+64365	STATE	29.247	29.507	n . t .
+64384	DATE	0.491	2.352	july eleventh , twenty sixty - two
+64384	PATIENT	11.214	11.714	terre ##nce
+64384	DOCTOR	13.935	14.495	franks ##ton
+64384	DOCTOR	18.456	18.956	dar ##gan
+64384	DOCTOR	19.696	20.156	rap ##son
+64384	DOCTOR	20.837	21.417	zu ##cker ##berg
+64415	DATE	3.276	6.421	december eleventh , two thousand and twelve
+64415	TIME	6.781	7.943	three forty eight p . m
+64415	DEPARTMENT	8.845	11.849	peter mccall ##um cancer center department of
+64415	DEPARTMENT	11.909	13.171	radiation on ##cology
+64415	DOCTOR	15.715	17.298	morton jam ##ar bro ##uss ##ard
+64415	DATE	19.661	21.624	february thirteenth , twenty sixty two
+64415	DATE	24.068	26.051	february fourteenth , twenty sixty two
+64437	HOSPITAL	0.952	2.815	cambridge hospital
+64437	DOCTOR	16.756	17.136	wood
+64437	DOCTOR	20.661	21.182	lawson
+64437	DOCTOR	22.524	23.085	thompson
+64437	DEPARTMENT	28.072	29.174	gap
+64439	PATIENT	1.493	3.675	zachary ar ##dis - gi ##zia ##no
+64439	MEDICAL_RECORD_NUMBER	5.357	8.7	eight one eighty eight twenty eight three dot g ##q ##q
+64439	MEDICAL_RECORD_NUMBER	9.781	13.065	eighty one x eighty two eighty three two
+64439	DATE	15.327	17.83	february nineteen twenty sixty three
+64460	PATIENT	0.471	1.452	lean ##dre k ##run ##ova ##c
+64460	DATE	4.313	5.094	march , tenth
+64460	STREET	6.234	6.514	panda ##nus
+64460	CITY	6.574	7.495	mount isa
+64460	STATE	7.555	7.995	washington
+64466	ID_NUMBER	3.215	3.495	two
+64466	ID_NUMBER	4.356	8.001	i - five - four - two - eight - nine - one - m
+64466	PATIENT	8.681	9.082	anton
+64466	STREET	10.083	11.004	russia street
+64466	CITY	11.625	12.286	red cliff
+64466	ZIP	14.568	15.95	one - two - three - eight
+64466	HOSPITAL	21.076	22.338	bombardier hospital
+64466	DEPARTMENT	27.704	29.166	fort jubilee place
+64517	STREET	4.196	5.057	kent street ,
+64517	STREET	5.077	5.697	west ##bury
+64517	DOCTOR	11.744	12.205	e ##fra ##in
+64517	DOCTOR	12.225	12.866	jacob mc ##me ##eki ##n
+64543	DATE	0.031	0.291	today
+64543	PATIENT	1.653	2.414	danny hu ##ston
+64543	DATE	4.256	6.438	april third , two thousand five
+64543	PATIENT	7.079	7.359	danny
+64543	MEDICAL_RECORD_NUMBER	9.462	13.346	thirty eight oh sixty eight thirty nine dot b u e
+64543	MEDICAL_RECORD_NUMBER	15.368	19.453	thirty eight eight sixty eight thirty nine oh
+64543	STREET	20.574	21.135	irvine hill
+64543	CITY	21.355	22.216	kia ##ma downs
+64543	STATE	22.356	23.037	tanzania
+64543	ZIP	24.959	26.16	twenty eight fifty two
+64563	DOCTOR	2.534	3.915	gavin michelle hen ##kel
+64563	DOCTOR	6.878	7.499	pl
+64563	DOCTOR	8.42	8.76	u ##e
+64563	DATE	12.884	16.147	september twenty - fifth , twenty - sixty - three
+64566	DOCTOR	2.334	3.175	t . diesel
+64566	DOCTOR	7.642	8.383	p ##j and
+64566	DOCTOR	8.463	8.924	qb
+64566	DATE	15.193	17.456	january tenth , twenty sixty - three
+64590	DATE	0.031	0.311	today
+64590	PATIENT	2.213	2.934	josh gi ##dd ##ey
+64590	DOCTOR	4.656	6.258	peter mccall ##um cancer center
+64590	CITY	6.458	6.979	melbourne
+64590	PATIENT	7.82	8.14	josh
+64590	DATE	8.881	10.983	january sixth , nineteen eighty three
+64590	STREET	12.845	14.086	sun country street
+64590	CITY	14.467	15.288	mu ##swell brook
+64590	STATE	15.428	16.449	western australia
+64590	ID_NUMBER	17.53	18.491	two two three two
+64590	PATIENT	19.633	20.013	josh
+64590	MEDICAL_RECORD_NUMBER	21.675	26.2	two one eight six six eight three dot x ##wn
+64592	DOCTOR	3.455	3.976	ken ##nard
+64592	PATIENT	5.478	6.019	sarah
+64592	DATE	7.12	10.084	february seventh , two thousand and sixty - three
+64592	PATIENT	16.713	17.273	sarah
+64592	AGE	18.075	18.836	sixty
+64592	AGE	18.075	18.836	two
+64602	PATIENT	0.071	0.652	willie
+64602	DATE	4.957	6.178	april th ##ir ##tie ##th
+64602	AGE	6.538	7.68	twenty - twelve
+64602	TIME	8.721	10.743	twelve thirty - three p . m
+64602	HOSPITAL	11.945	13.667	place ##r pine hospital
+64602	DEPARTMENT	21.336	22.837	pathology north
+64602	DEPARTMENT	23.358	26.181	jun ##i multi - purpose service
+64602	PATIENT	26.702	27.282	willie
+64637	DATE	0.992	3.376	march fourteenth , twenty - thirteen
+64637	ZIP	4.017	4.878	nine - thirteen
+64637	HOSPITAL	5.499	8.023	seals central muscle brook hospital
+64637	DOCTOR	10.186	11.588	joel andrew chi ##min ##o
+64637	DATE	26.109	28.392	may sixteenth , twenty - sixty - three
+64647	DOCTOR	6.458	6.958	marvin
+64647	DOCTOR	7.899	8.22	nash
+64647	PATIENT	17.81	18.571	ram ##iro
+64649	PATIENT	2.732	4.313	micah si ##gm ##und per ##og
+64649	MEDICAL_RECORD_NUMBER	6.534	11.117	four eight one seven nine four zero dot w y o
+64649	MEDICAL_RECORD_NUMBER	13.178	16.64	four eight d seven nine four zero eight
+64649	DATE	19.702	23.003	january fourteenth two thousand and sixty three
+64675	DEPARTMENT	0.952	2.173	envoy pathology
+64675	HOSPITAL	2.534	3.695	ex - mouth hospital
+64675	DOCTOR	5.477	7.279	milo ##van ismail i ##gles ##ias
+64675	DOCTOR	8.14	8.6	yu ##o
+64675	DATE	10.622	12.905	july tenth twenty - sixty - three
+64675	DOCTOR	14.286	15.007	x . pen ##tec ##o
+64710	PATIENT	2.535	3.056	jamie
+64710	DATE	9.265	12.23	february fifth two thousand and sixty - three
+64710	PATIENT	13.532	14.053	jamie
+64710	DEPARTMENT	16.376	18.419	he ##xi ##on specialty chemicals
+64748	PATIENT	0.171	0.572	anton
+64748	DATE	5.596	6.037	february
+64748	DATE	6.117	8.039	nineteenth twenty sixty three
+64748	HOSPITAL	8.559	10.281	bali ##na district hospital
+64748	DEPARTMENT	16.207	17.128	f ##pl group
+64748	PATIENT	20.03	20.471	anton
+64748	DATE	25.696	26.256	february
+64748	DATE	26.417	28.719	eighteenth twenty sixty three
+64748	PATIENT	28.739	29.58	anton
+64758	DOCTOR	4.678	5.359	m . be ##vel
+64770	STATE	1.433	1.853	western
+64770	STATE	1.913	2.514	australia
+64770	ZIP	4.277	5.698	two six seven one
+64770	DATE	6.78	7.741	january th ##ir ##tie ##th
+64770	TIME	7.861	8.883	two thousand and nine
+64770	PATIENT	9.303	9.764	katherine
+64770	DATE	17.654	20.158	july eleventh , twenty thirteen
+64770	TIME	20.818	21.88	six thirty pm
+64770	HOSPITAL	24.143	25.465	nana ##ngo hospital
+64770	DEPARTMENT	27.227	28.609	r ##h ##w department
+64781	DOCTOR	8.498	9.018	wai wai
+64781	DATE	9.319	10.179	june
+64808	DOCTOR	27.744	28.365	r ##w
+64808	DOCTOR	28.765	29.106	z ##g
+64811	PATIENT	3.633	4.514	jonathan wooden
+64816	DATE	1.032	2.694	october , twenty - thirteenth
+64816	TIME	3.836	4.917	one twenty pm
+64816	DEPARTMENT	8.762	10.765	prince of wales private department
+64816	DEPARTMENT	13.308	14.669	the commonwealth hospital
+64816	DOCTOR	23.661	24.081	marvin
+64816	DOCTOR	25.003	25.503	powell
+64816	DOCTOR	26.605	27.105	kaplan
+64839	DOCTOR	4.237	4.617	u . a .
+64839	DOCTOR	5.678	6.199	c y .
+64839	DATE	6.68	9.464	february xx
+64839	DATE	9.784	12.548	february xx ##i
+64839	DOCTOR	18.836	19.857	p . sud ##aro
+64839	DATE	20.238	22.761	march iv
+64839	DEPARTMENT	23.382	25.865	ta ##sman multi ##pur ##pose center
+64839	DOCTOR	28.469	29.35	p . honey ##cut ##t
+64870	STREET	4.015	5.277	asphalt wind street
+64870	CITY	5.637	6.197	bay ##view
+64870	STATE	6.738	7.859	western australia
+64870	ZIP	10.482	11.984	seven two one five
+64870	DATE	13.405	15.968	june seventh , two thousand five
+64870	PATIENT	16.588	17.009	linda
+64870	DATE	21.694	25.678	april twenty third two thousand twelve
+64870	TIME	26.979	28.12	one zero nine p . m .
+64870	PATIENT	29.102	29.522	linda
+64878	PATIENT	2.373	2.773	v ##dot
+64878	DATE	3.794	6.537	february eleventh , twenty sixty - three
+64878	DATE	17.867	20.45	february thirteenth , twenty sixty - three
+64878	PATIENT	21.07	21.47	v ##dot
+64891	DOCTOR	1.993	2.313	bloom
+64891	DOCTOR	2.953	3.494	richardson
+64891	DATE	25.651	28.153	november fourteenth twenty thirteen
+64903	DATE	0.291	3.155	november fourteenth twenty - thirteen
+64903	TIME	4.296	5.718	one o ' nine p . m .
+64903	ID_NUMBER	17.531	17.792	two
+64903	ID_NUMBER	17.912	20.815	seven k five nine two six four
+64903	DOCTOR	25.861	26.662	g man ##rose
+64916	PATIENT	3.292	6.012	yes ##enia kendall - ga ##zi ##k
+64916	MEDICAL_RECORD_NUMBER	9.193	16.614	seven zero one zero five seven zero dot t - j - r
+64916	ID_NUMBER	19.415	24.976	seven zero e zero five seven zero seven
+64916	DATE	25.756	29.237	january fourteenth twenty sixty three
+64963	PATIENT	1.453	2.194	daniel bang
+64963	MEDICAL_RECORD_NUMBER	9.265	13.592	two four nine five six two two dot m l h
+64963	MEDICAL_RECORD_NUMBER	16.036	19.401	two four y five six two two four
+64963	DATE	23.948	24.69	sixteenth of
+64963	DATE	24.83	26.853	october twenty sixty three
+64971	PATIENT	10.141	11.002	gary sar ##ge
+64973	DATE	1.072	1.473	today
+64973	PATIENT	3.875	5.056	jamie bro ##nson
+64973	HOSPITAL	10.342	11.603	herb ##inton hospital
+64973	PATIENT	12.545	13.065	jamie
+64973	MEDICAL_RECORD_NUMBER	16.208	20.733	two six four two eight eight dot x ##bb
+64973	MEDICAL_RECORD_NUMBER	22.856	26.52	two six l two eight eight eight zero
+70004	PATIENT	0.292	0.714	dennis
+70004	PATIENT	4.73	5.072	dennis
+70006	ID_NUMBER	1.913	5.395	zero four oh three four one five three nine g
+70006	DATE	5.976	6.336	today
+70006	PATIENT	9.258	9.899	peter cheek
+70006	DEPARTMENT	11.74	12.401	he ##ster com ##p
+70006	CITY	12.641	13.222	berg ##ara
+70006	STATE	13.582	13.882	wa
+70006	ZIP	15.463	16.584	two six five two
+70006	DATE	18.726	19.387	march tenth
+70006	TIME	19.567	20.467	two thousand and six
+70006	AGE	21.528	22.009	seventeen
+70006	PATIENT	24.571	24.871	peter
+70006	MEDICAL_RECORD_NUMBER	26.412	29.375	zero four five three four one five dot k ##z ##g
+70055	DOCTOR	17.196	17.556	brooke
+70055	DOCTOR	18.658	19.079	smith
+70055	DOCTOR	20.16	20.621	terry
+70055	DOCTOR	21.642	22.183	bro ##nne ##r
+70055	DOCTOR	22.944	23.485	jonas
+70066	DOCTOR	2.915	3.336	e . f .
+70066	DATE	7.842	10.345	march twenty - fifth - sixty - three
+70066	DATE	11.046	13.41	april third - sixty - three
+70066	DATE	14.331	16.835	april thirteenth twenty - sixty - three
+70066	DOCTOR	21.121	21.922	u . vi ##gue ##ras
+70066	DOCTOR	22.983	23.965	pere ##l be ##skin
+70066	DOCTOR	25.547	26.168	u . st ##as
+70066	DOCTOR	27.489	28.391	u . sand ##haus
+70069	DATE	0.331	2.595	april twenty - second two thousand thirteen
+70069	TIME	3.036	4.238	one forty - two p . m
+70069	STREET	5.219	8.224	two point twenty - three h . r . state surgical unit ,
+70069	HOSPITAL	8.645	9.646	glen ##side campus
+70069	DOCTOR	11.93	13.011	ad ##lai jude - edit
+70069	DOCTOR	13.993	14.454	z . v
+70069	DATE	16.517	18.921	june twenty - five , two thousand sixty - three
+70069	DOCTOR	19.742	20.523	y . falcon
+70069	DATE	22.006	24.85	september twenty - fourth , nineteen ninety - six
+70073	DATE	11.346	14.07	december fourth , twenty - twelve at
+70073	TIME	14.29	15.692	three thirteen p . m .
+70073	DATE	22.942	25.565	february seventh , twenty - sixty - two
+70088	DATE	0.071	0.411	today
+70088	PATIENT	2.654	3.555	sandra powell
+70088	MEDICAL_RECORD_NUMBER	6.258	10.984	three four nine six three two eight dot t ##fi
+70088	PATIENT	11.825	12.305	sandra
+70088	STREET	13.287	14.448	clark street
+70088	CITY	15.95	17.191	parisian beach
+70088	STATE	17.632	18.012	nt
+70088	ID_NUMBER	20.375	22.097	two six four seven
+70088	DATE	23.338	27.403	may twenty fifth ninety six ninety two
+70105	PATIENT	0.051	0.653	ke ##rat ##in
+70105	DEPARTMENT	1.657	2.26	mgm ##t
+70107	ID_NUMBER	1.453	6.52	one four g zero eight two seven five zero u
+70107	DATE	7.241	7.601	today
+70107	PATIENT	10.465	11.266	emily cooper
+70107	MEDICAL_RECORD_NUMBER	14.17	18.756	one four two zero eight two seven dot pc ##u
+70107	ID_NUMBER	23.402	27.167	one four g zero eight two seven five
+70121	PATIENT	8.904	9.906	henry harden
+70121	CITY	12.169	13.231	latter ##y ne ##uron
+70121	STATE	13.351	14.092	v . i . c
+70121	PATIENT	19.18	19.541	henry
+70121	DATE	20.402	22.826	june thirty , nineteen eighty - seven
+70121	AGE	24.308	25.049	thirty six
+70122	PATIENT	0.051	0.351	mark
+70122	DATE	2.333	5.496	july sixteenth , two thousand thirteen
+70122	TIME	7.838	9.44	eight twenty - six am
+70122	DOCTOR	13.944	14.424	run ##dle
+70122	PATIENT	19.289	19.629	mark
+70122	AGE	22.111	22.932	seventy three
+70171	DATE	0.231	2.294	january fourteenth twenty - sixty - three
+70171	DATE	6.139	8.262	november twenty - seventh - sixty - two
+70171	DATE	8.863	10.886	january fourteenth twenty - sixty - three
+70171	DOCTOR	16.273	16.613	red ##dick
+70171	DOCTOR	17.294	17.675	vincent
+70171	DOCTOR	18.436	18.756	levy
+70171	PATIENT	23.763	24.003	br ##ie
+70175	ID_NUMBER	9.064	13.33	one two k five one two , five three five eight
+70175	DATE	15.473	18.798	january twenty eighth , two thousand fourteen
+70175	TIME	19.358	20.78	seven forty eight pm
+70175	PATIENT	21.982	22.303	sean
+70175	DEPARTMENT	24.005	25.828	parks for east department
+70175	HOSPITAL	27.029	28.852	royal prince alfred hospital
+70199	DOCTOR	3.733	4.053	brooke
+70199	DOCTOR	4.674	5.134	jackson
+70199	DOCTOR	5.894	6.455	mill ##ike ##n
+70199	DOCTOR	7.936	8.396	rod ##man
+70199	DATE	13.499	13.879	april
+70199	DATE	13.899	14.219	april
+70199	DATE	14.499	14.699	april
+70219	DATE	9.521	12.164	january , twentieth , twenty - fourteen
+70219	ZIP	12.824	13.846	eleven forty - six
+70219	DEPARTMENT	14.847	16.468	intensive care unit
+70219	HOSPITAL	16.789	18.611	broken hill base hospital
+70219	DOCTOR	21.373	24.036	ty ##esh ##a ari va ##vr ##iche ##k
+70219	DOCTOR	25.077	25.758	ann mu ##na
+70219	DOCTOR	26.799	27.88	ann ek ##berg
+70227	DATE	5.952	7.833	january
+70227	CITY	10.393	10.853	marvin
+70227	DEPARTMENT	12.253	13.314	emergency department
+70227	HOSPITAL	13.814	15.074	royal hobart hospital
+70234	DOCTOR	5.137	5.557	bowen
+70234	DOCTOR	6.398	6.798	river
+70234	DOCTOR	7.739	8.08	brown
+70234	DOCTOR	8.881	9.381	va ##ssel ##l
+70234	DATE	10.502	12.965	august thirteenth , twenty - sixty - three
+70234	PATIENT	23.877	24.477	felicia
+70256	DATE	5.098	8.803	today
+70256	PATIENT	11.667	12.588	el ##va russell
+70269	DATE	6.195	6.415	day
+70269	DATE	7.476	7.756	today
+70269	PATIENT	10.098	10.959	bill duncan
+70269	HOSPITAL	16.322	18.164	maru ##mba hardin hospital
+70285	DOCTOR	2.915	3.736	tre ##na - dil ##bert
+70285	DOCTOR	4.336	4.777	favor ##ing
+70285	DATE	9.783	10.304	january
+70285	DATE	11.846	12.366	fifth
+70285	TIME	12.867	14.229	eleven twelve a . m
+70285	DOCTOR	15.23	15.59	y . n
+70285	DATE	18.534	18.794	march
+70285	DATE	18.935	19.375	eighteenth
+70285	DOCTOR	19.896	19.996	j . u .
+70285	DOCTOR	20.236	20.276	q . m
+70285	DATE	20.416	20.617	march
+70286	PATIENT	4.551	4.873	billie
+70309	DOCTOR	0.051	1.493	shi ##loh sharon eric ##k
+70309	DOCTOR	9.0	9.341	e ##gren
+70309	DATE	15.147	18.23	may first , twenty - sixty - three
+70309	DOCTOR	22.474	23.075	v stout
+70309	DOCTOR	24.296	25.017	v . wilde ##n
+70309	DATE	25.818	28.1	may twenty - first , twenty - sixty - three
+70314	PATIENT	0.431	1.372	a . d . ferrari
+70314	DATE	2.233	3.014	june - fourth
+70314	AGE	3.314	4.255	nineteen - ninety - five
+70314	MEDICAL_RECORD_NUMBER	6.296	11.14	eight - nine - f - seven - nine - one - four - three - zero - six
+70314	MEDICAL_RECORD_NUMBER	14.643	18.747	eight - nine - one - seven - nine - one - dot - l - i - b
+70314	MEDICAL_RECORD_NUMBER	21.129	23.791	eight - nine - f - seven - nine - one - four - three
+70314	STREET	25.452	26.373	crooked yard
+70314	CITY	26.573	27.114	western ,
+70314	CITY	27.434	29.476	s . a . six - nine - four - zero
+70376	DOCTOR	0.852	1.312	sullivan
+70376	DATE	2.173	4.795	march eighteenth , two thousand sixty - three
+70376	HOSPITAL	6.556	8.278	ob ##ost regional health
+70376	DOCTOR	11.38	11.7	heal ##d
+70376	HOSPITAL	14.803	15.984	tom price hospital
+70376	DOCTOR	16.905	17.365	russell
+70376	PATIENT	19.487	19.687	mac
+70379	PATIENT	0.051	0.872	ricky angel
+70379	MEDICAL_RECORD_NUMBER	3.215	7.02	three zero one five zero seven dot u . r . b
+70379	ID_NUMBER	8.803	13.088	three zero e five zero seven seven six
+70379	DATE	16.873	19.917	february twelve twenty sixty two
+70379	DOCTOR	23.802	24.323	x ##r ,
+70379	DOCTOR	24.864	25.404	x ##m
+70379	DOCTOR	26.766	28.128	i . ga ##mber ##ini
+70404	HOSPITAL	0.291	2.814	cl ##on ##cu ##rry multi ##pur ##pose health service
+70404	DOCTOR	4.195	5.196	k ##ho ##ury cha ##lice
+70404	HOSPITAL	5.497	6.578	qui ##lp ##ai hospital
+70404	DATE	12.544	14.246	march second , twenty - sixty - three
+70404	DATE	14.546	16.208	march fifth - sixty - three
+70404	DATE	16.508	18.771	september twelfth - sixty - three
+70404	DOCTOR	25.718	26.118	r . ul ##b
+70404	DOCTOR	27.019	27.44	u ##bil
+70404	DOCTOR	28.681	29.001	i . f .
+70417	DATE	12.166	13.648	december ninth , twenty thirteen
+70417	TIME	14.97	16.192	one forty seven pm
+70417	DATE	18.915	20.858	february twelfth , twenty sixty three
+70417	DATE	21.598	23.461	march fourth , twenty sixty four
+70417	DOCTOR	26.284	27.286	cullen luther hans ##el
+70417	DOCTOR	28.087	28.407	cole
+70417	DOCTOR	29.128	29.749	p . she ##rian
+70438	DATE	2.073	2.613	january
+70438	DOCTOR	9.36	10.901	c . merit ##ato
+70438	DATE	25.494	25.735	march
+70452	PATIENT	1.292	2.612	megan colleen polk
+70452	MEDICAL_RECORD_NUMBER	4.994	8.716	five two eight zero five eight four dot pp ##o
+70452	ID_NUMBER	10.397	19.822	five two v zero five eight four six five o ##a two one seven nine
+70452	DATE	21.442	22.563	april twenty ninth ,
+70452	TIME	22.903	23.924	twenty fifteen
+70452	AGE	25.965	26.505	forty nine
+70452	AGE	26.745	27.306	forty five
+70465	PATIENT	2.532	3.272	penny wall
+70465	MEDICAL_RECORD_NUMBER	8.073	11.674	three zero eight zero zero six seven dot pie
+70465	DATE	12.734	15.254	june second , nineteen eighty eight
+70465	PATIENT	16.054	16.415	penny
+70465	STREET	17.695	18.755	da costa street
+70465	CITY	19.175	19.595	bowen
+70465	STATE	19.695	20.235	queensland
+70465	ZIP	22.716	24.836	six zero two zero
+70490	DOCTOR	5.678	6.159	anderson
+70490	DOCTOR	11.446	11.926	zu ##bek
+70490	DOCTOR	12.827	13.348	collins
+70490	DOCTOR	14.169	14.63	carter
+70490	DATE	18.955	20.157	october twenty - fifth
+70490	DATE	20.617	21.699	twenty - sixty - two
+70490	DATE	22.439	23.621	october th ##ir ##tie ##th
+70490	DATE	23.881	24.963	twenty - sixty - two
+70529	ID_NUMBER	1.073	3.957	dot four one p six three four seven two five w
+70529	DATE	4.438	4.739	today
+70529	PATIENT	6.481	7.383	jessica martin
+70529	MEDICAL_RECORD_NUMBER	9.426	12.271	four one six six three four seven dot actual w
+70529	MEDICAL_RECORD_NUMBER	15.175	19.823	four one p six three four seven two . four one p six three four seven two
+70529	PATIENT	23.689	24.19	jessica
+70529	DATE	24.65	26.533	november twenty first ten ninety
+70529	STREET	27.274	28.376	concordia street
+70529	CITY	28.597	29.358	greenwood point
+70538	DATE	2.275	4.679	october - eighth - fifteen
+70538	DATE	7.625	10.49	august , twenty - seventh , twenty - sixty - three
+70538	DOCTOR	11.532	11.953	if
+70543	DOCTOR	3.334	3.634	gill
+70543	DOCTOR	8.158	8.638	weston
+70543	ID_NUMBER	14.764	18.047	one two k , five one two five three
+70552	DOCTOR	0.071	0.653	ren ##ato
+70580	DURATION	0.151	0.712	eighteen months
+70580	DATE	3.818	5.901	march third , two thousand sixty - four
+70580	DOCTOR	7.925	8.265	george
+70580	DOCTOR	8.886	9.267	marvin
+70580	DATE	12.052	14.456	april sixth , two thousand sixty - four
+70580	DOCTOR	16.119	16.64	ellington
+70580	DOCTOR	17.221	17.582	edwards
+70580	DOCTOR	18.183	18.563	ru ##ta
+70580	PATIENT	19.244	19.605	lauren
+70587	PATIENT	2.894	3.195	mike
+70618	PATIENT	0.031	2.332	passion ##ed jamie said hallway
+70618	ID_NUMBER	5.773	6.033	five
+70618	ID_NUMBER	6.093	10.194	five three seven zero seven seven two three n
+70618	MEDICAL_RECORD_NUMBER	12.955	19.277	five five eight seven zero seven seven dot g ##jn precise
+70618	CITY	19.977	25.539	robert evans sur ##ame ##re tasmania three six three two
+70631	DOCTOR	0.932	2.834	penny
+70636	DATE	6.758	7.038	today
+70636	PATIENT	8.42	9.121	joe lopez
+70636	HOSPITAL	11.523	12.584	con ##nem ##ara hospital
+70647	DOCTOR	5.218	6.339	elizabeth vera ##nd
+70647	DOCTOR	7.361	7.521	q
+70647	DOCTOR	7.361	7.942	. west
+70647	DOCTOR	8.723	9.283	k . i .
+70647	DOCTOR	10.145	10.625	d . v
+70647	DATE	13.369	16.033	march , twenty - fifth twenty - sixty - four
+70647	PATIENT	17.454	18.596	key - sixty - seven
+70653	DATE	0.071	1.272	october th ##ir ##tie ##th
+70653	AGE	1.572	2.652	twenty sixty two
+70653	DATE	5.914	8.496	november twenty seventh twenty sixty - two
+70653	PATIENT	23.884	24.324	zach
+70654	DOCTOR	2.815	3.315	w . e .
+70654	DOCTOR	4.417	4.837	n . f .
+70654	DOCTOR	5.658	6.44	v . lu ##bo
+70654	DATE	9.323	11.466	march , twenty - third - sixty - four
+70697	DATE	1.012	3.496	september fourteenth , twenty sixty - two
+70697	PATIENT	8.443	8.883	billie
+70697	DOCTOR	15.833	16.294	jain ##a
+70697	DOCTOR	17.095	17.716	robe ##rson
+70697	DOCTOR	18.657	19.198	bridges
+70697	DOCTOR	20.139	20.52	brooke
+70697	DOCTOR	21.561	21.942	put ##h
+70697	DOCTOR	22.943	23.264	sar ##ge
+70698	DATE	9.347	12.493	july seventh two thousand alpha
+70698	STREET	13.375	14.296	high lake street
+70698	CITY	14.817	17.141	mad ##ing ##ley south australia
+70698	ID_NUMBER	19.425	20.808	one one three eight
+70698	HOSPITAL	24.094	26.638	ta ##sman multi - purpose center
+70726	DOCTOR	0.071	4.08	cha ##unce ##y gregor ##io alf ##ieri
+70726	DOCTOR	6.144	6.626	gi ##zi
+70726	DATE	8.329	8.389	may ,
+70726	DATE	8.67	8.81	may
+70726	DOCTOR	9.432	10.013	doi berlin ##g
+70772	PATIENT	8.529	8.83	chris
+70822	DATE	2.074	3.957	december fifth , twenty sixty - three
+70822	HOSPITAL	6.721	7.882	hay district hospital
+70822	HOSPITAL	8.303	8.984	tr ##af ##al ##gar
+70822	DATE	20.641	22.564	december fifth , twenty sixty - three
+70829	DOCTOR	2.755	3.776	##s . fu
+70829	DOCTOR	4.176	4.597	y ##k
+70829	DATE	5.598	7.381	december third , twenty sixty three
+70829	DOCTOR	9.643	10.605	wallace cameron
+70829	HOSPITAL	10.945	11.946	black coat hospital
+70829	CITY	12.267	12.888	alice springs
+70830	ID_NUMBER	1.273	1.593	nine ,
+70830	ID_NUMBER	1.753	2.555	three oh
+70830	ID_NUMBER	2.855	5.599	three , eight one eight , zero , two
+70830	ID_NUMBER	5.739	6.04	j
+70830	DATE	7.101	7.402	today
+70830	PATIENT	9.184	9.985	susan terry
+70830	MEDICAL_RECORD_NUMBER	16.515	20.22	nine , three , five , three , eight , one , eight , dot , a - g - j
+70830	ID_NUMBER	26.349	26.61	nine
+70830	ID_NUMBER	26.71	26.99	three
+70830	ID_NUMBER	27.651	27.951	three
+70830	ID_NUMBER	28.212	28.432	eight
+70830	ID_NUMBER	28.693	28.833	one
+70830	ID_NUMBER	29.073	29.674	eight , zero
+70849	DATE	3.655	5.977	june twenty - eighth , twenty - sixty - two
+70849	DOCTOR	10.102	10.722	q ##m
+70849	DATE	11.603	14.026	june twelfth twenty - sixty - two
+70849	DOCTOR	15.487	16.168	o . fu ##zier
+70849	HOSPITAL	20.793	24.296	var ##ie ##ta motor purpose service hospital
+70849	DATE	25.778	27.92	june twenty - eighth twenty - sixty - two
+70853	DATE	0.031	0.311	today
+70853	PATIENT	2.213	3.013	jimmy dudley
+70853	MEDICAL_RECORD_NUMBER	7.077	11.941	nine seven six zero two seven eight dot ed ##m
+70853	DATE	13.081	15.283	june fifteenth two thousand seven
+70853	PATIENT	15.784	16.044	jimmy
+70853	STREET	16.905	17.905	gulf ##oy street
+70853	CITY	18.406	18.926	ur ##aw ##in
+70853	CITY	19.667	20.307	q ##ld
+70853	ID_NUMBER	21.748	23.049	five one seven one
+70914	PATIENT	0.031	1.694	ju ##dson ru ##fin ##o ridley
+70914	MEDICAL_RECORD_NUMBER	3.176	5.58	zero nine s one two nine seven
+70914	MEDICAL_RECORD_NUMBER	7.703	11.91	zero nine six one two nine seven dot vs ##z
+70914	ID_NUMBER	13.252	15.896	zero nine s one two nine seven a seven z
+70914	CITY	17.218	18.66	lazy point bell ##ingham
+70914	STATE	18.82	20.583	queensland five seven three two
+70914	DATE	22.466	24.329	seventeenth january twenty ten
+70917	DATE	1.252	3.073	february thirteenth , twenty sixty - three
+70917	HOSPITAL	6.214	8.856	path ##west townsville university hospital
+70917	HOSPITAL	11.877	13.138	southwest healthcare
+70917	HOSPITAL	13.498	14.419	war ##ram ##ble campus
+70917	HOSPITAL	15.119	16.96	ball ##inger river district hospital
+70917	DOCTOR	19.902	22.763	fernando brent manga ##ner ##o
+70917	DOCTOR	24.084	24.824	alma ty ##mon
+70917	DOCTOR	25.805	26.365	a . bus ##sell
+70917	DOCTOR	27.125	27.586	v . m .
+70917	DOCTOR	28.266	28.586	old ##ie
+70917	DOCTOR	29.527	29.947	a . has ##sel
+70926	PATIENT	0.051	1.032	moi ##ses ko ##rs
+70926	STREET	4.055	5.897	northwest pacific isle
+70926	CITY	6.138	6.398	windsor
+70926	STATE	6.478	6.518	nt
+70926	DATE	7.759	7.86	may
+70963	DOCTOR	2.074	3.115	randall wa ##quin - warren
+70963	DOCTOR	3.716	4.096	bus ##sey
+70963	DOCTOR	4.577	5.278	t . t .
+70963	DOCTOR	5.718	6.239	z . rave ##l
+70963	DOCTOR	6.84	7.44	z . war ##bl ##ow
+70963	DOCTOR	8.141	12.727	z . moral ##co unit
+70963	DATE	14.709	17.974	april
+70963	DATE	18.094	19.716	april
+70979	PATIENT	0.612	1.132	ken mu ##ll
+70979	ID_NUMBER	3.115	6.579	six two s zero two one four four two h
+70979	MEDICAL_RECORD_NUMBER	8.261	11.665	six two seven zero two one four dot m ##f ##h
+70979	MEDICAL_RECORD_NUMBER	13.387	16.13	six two s zero two one four four
+70979	HOSPITAL	17.551	18.633	yale end ##er group ,
+70979	CITY	19.033	19.614	ta ##s
+70979	ID_NUMBER	20.795	22.397	two zero four two
+70979	DEPARTMENT	25.421	26.342	pathology north
+70979	HOSPITAL	26.822	28.524	western district health service ,
+70979	HOSPITAL	28.684	29.145	hamilton
+70994	DATE	2.513	5.495	august
+70994	DOCTOR	8.817	9.157	terry
+70994	DATE	12.639	14.68	october
+71009	DOCTOR	0.492	4.217	u ##gor ##a memorial multi ##pur ##pose service
+71009	CITY	6.962	8.805	park ##es for east
+71009	DATE	13.872	18.74	february twenty - second - sixty - two
+71009	DATE	19.581	22.967	march fifth - sixty - four
+71009	DOCTOR	29.136	29.577	simmons
+71021	PATIENT	0.031	0.892	jason the great
+71021	DATE	3.395	5.777	april third , two thousand thirteen
+71021	STREET	7.94	8.701	cheney pond
+71021	STREET	9.261	10.002	narrow ##court
+71021	STATE	10.122	11.343	western australia
+71021	ZIP	12.325	13.466	two two nine two
+71021	DEPARTMENT	16.069	18.071	card ##iot ##hora ##cic ic ##u
+71021	HOSPITAL	18.992	20.494	her ##vey bay hospital
+71021	DOCTOR	23.016	24.218	sandy neal ma ##urer
+71062	DATE	0.412	3.276	january fifteenth , twenty fourteen
+71062	TIME	3.977	5.299	eleven twelve am
+71062	DATE	8.404	10.948	march twenty fifth , twenty sixty four
+71062	DOCTOR	12.711	14.554	tai ##bu bo ##ra health service
+71062	DOCTOR	15.756	16.698	g and ##ring ##a
+71062	DATE	19.742	21.886	march eighteenth , twenty sixty four
+71062	DOCTOR	26.714	27.114	ir
+71100	DOCTOR	0.932	1.292	owen
+71100	PATIENT	6.457	6.717	jack
+71100	PATIENT	12.523	12.843	jack
+71101	DEPARTMENT	1.833	3.616	forensic medicine department
+71101	HOSPITAL	3.856	5.018	men ##ing ##i hospital
+71101	DATE	10.325	12.828	august six , two thousand sixty - three
+71101	DOCTOR	15.131	16.573	ev ##ita lo ##lita - wat ##zell
+71116	PATIENT	0.492	1.313	brit ##t powell
+71116	CITY	2.535	2.996	ga ##rrow ##in
+71116	CITY	3.217	3.838	ton ##anda
+71116	STATE	4.058	4.579	queensland
+71116	ID_NUMBER	6.222	7.665	six three two seven
+71116	ID_NUMBER	11.431	14.757	seven nine i seven three eight four four four y
+71116	MEDICAL_RECORD_NUMBER	17.442	20.587	seven nine three seven three eight dot m l l
+71116	PATIENT	23.873	24.214	brit ##t
+71116	DATE	24.775	26.778	june twenty fifth , nineteen eighty three
+71116	HOSPITAL	28.161	28.842	williams ##town
+71189	DOCTOR	0.471	1.012	obe ##han
+71189	DOCTOR	27.228	27.489	o '
+71224	DOCTOR	2.233	2.773	patrice
+71224	DOCTOR	3.454	4.014	o . wen ##and
+71224	DOCTOR	8.258	8.799	tar ##ka
+71224	DOCTOR	9.699	10.54	o . song ##er
+71224	DEPARTMENT	11.461	13.963	st . vincent ' s pathology within
+71224	DEPARTMENT	14.243	15.544	emergency department
+71232	PATIENT	0.511	1.052	cl ##et ##us
+71232	PATIENT	1.212	2.253	elena ro ##swell
+71232	ID_NUMBER	5.056	8.018	one three r eight three eight seven eight
+71232	ID_NUMBER	10.22	14.424	one three r a three a seven eight one w
+71232	MEDICAL_RECORD_NUMBER	16.586	20.49	one three six a three eight seven dot v e w
+71232	DATE	23.472	25.554	july thirteenth , nineteen ninety - one
+71232	STREET	27.416	28.237	wan ##o street
+71232	CITY	29.058	29.418	burn ##ey
+71241	DATE	8.423	10.607	july third , twenty - sixty - three
+71241	CITY	13.511	14.312	la ##vert ##y
+71244	DATE	2.053	4.115	may first , twenty - sixty - three
+71244	DATE	7.578	10.181	may twenty , twenty - sixty - three
+71244	DOCTOR	13.064	13.564	v . z
+71271	HOSPITAL	0.031	0.312	wa ##gga
+71271	HOSPITAL	0.332	1.874	wa ##gga rural refer ##ral hospital
+71271	DOCTOR	3.718	4.459	rose ##lle cr ##is
+71271	DOCTOR	4.559	5.201	del quan ##to
+71271	DOCTOR	5.942	6.202	s . h
+71271	DATE	8.567	11.673	august twenty - first - sixty - three
+71271	DOCTOR	12.494	13.035	f . ho ##lli ##day
+71271	DATE	15.68	17.764	august twenty - fourth two thousand and two
+71283	PATIENT	0.031	1.172	thomas ho ##s ##nett
+71283	ID_NUMBER	3.435	6.038	four three y one eight six four seven
+71283	ID_NUMBER	7.46	10.644	four three y one eight six four seven nine w
+71283	MEDICAL_RECORD_NUMBER	12.727	16.131	four three nine one eight six four dot t ##z ##w
+71283	STREET	17.393	17.853	medley
+71283	CITY	17.973	18.514	lee ##sburg
+71283	STATE	18.594	19.515	south australia
+71283	MEDICAL_RECORD_NUMBER	19.836	20.957	three eight nine eight
+71283	DATE	22.379	24.261	january third , twenty eleven
+71283	DATE	26.524	28.266	august twentieth , twenty thirteen
+71283	TIME	28.567	29.608	eleven thirteen am
+71287	PATIENT	2.474	2.815	mark
+71287	MEDICAL_RECORD_NUMBER	5.819	10.244	eight three eight six four zero six dot v ##d ##v
+71287	MEDICAL_RECORD_NUMBER	13.308	21.379	eight three w six four zero six eight eight three w six four zero six eight
+71287	HOSPITAL	24.182	26.385	al ##k ##wine health myrtle ##ford
+71287	DEPARTMENT	27.647	29.79	radiation on ##cology department
+71314	DOCTOR	2.535	3.075	yu ##ji
+71314	DATE	3.676	3.977	march
+71324	PATIENT	2.613	3.294	vince carter
+71324	MEDICAL_RECORD_NUMBER	6.096	8.779	four nine seven two six four five aa ##u
+71324	PATIENT	9.379	9.62	vince
+71324	STREET	10.6	11.481	calvert ##on street
+71324	CITY	12.222	12.802	san re ##mo
+71324	STATE	12.842	13.283	queensland
+71324	ZIP	14.904	15.905	four zero zero four
+71324	DATE	17.006	27.936	march twenty fourth , nineteen seventy three four
+71349	DATE	10.677	13.321	january sixteenth , twenty sixty - two
+71349	PATIENT	14.362	14.642	joe
+71349	DEPARTMENT	16.986	19.149	st . vincent department
+71349	HOSPITAL	19.709	21.332	port augusta hospital
+71349	DOCTOR	24.676	25.137	frey ##er
+71349	DOCTOR	27.64	27.78	cook
+71363	PATIENT	0.031	1.212	dani ##ta sara ##bia
+71363	DATE	2.893	3.613	june tenth ,
+71363	ID_NUMBER	4.273	5.134	nineteen eighty - eight
+71363	ID_NUMBER	6.955	10.637	thirteen t o twenty three fifty three two u
+71363	ID_NUMBER	11.997	17.6	thirteen t o twenty three fifty three thirteen t o twenty three fifty three
+71363	MEDICAL_RECORD_NUMBER	19.641	23.804	thirteen seventy twenty three five dot k h u
+71363	STREET	24.964	25.625	bush pound ,
+71363	CITY	25.945	26.565	harvey bay ,
+71363	CITY	26.725	27.346	q ##ld
+71363	ZIP	27.906	28.866	three triple one
+71381	PATIENT	6.158	6.338	eps ##o
+71381	DATE	10.122	10.583	november
+71415	ID_NUMBER	3.312	7.313	six four oh four nine one five seven seven j
+71415	DATE	8.733	12.214	january twenty ninth two thousand fourteen at
+71415	TIME	12.354	13.775	twelve eighteen p . m .
+71415	PATIENT	14.755	14.975	mike
+71415	DEPARTMENT	16.415	18.816	on ##cology guidance department
+71415	HOSPITAL	19.196	20.056	terror hospital
+71415	DOCTOR	24.318	26.318	mitchell fellow
+71432	DEPARTMENT	4.736	7.119	board district health operating theatres
+71432	DOCTOR	9.061	10.943	bernard ##a ru ##ana mc ##far ##land
+71432	DOCTOR	13.767	14.367	q . prom
+71432	DOCTOR	15.248	15.709	dd
+71432	DURATION	18.832	19.353	two years
+71432	DATE	22.156	24.199	january seven , twenty sixty three
+71432	DATE	25.26	27.002	january eighth , twenty sixty three
+71439	STATE	0.071	0.732	victoria
+71439	ZIP	2.636	3.778	three , six , eight , nine
+71439	HOSPITAL	5.841	6.823	jo ##kara ##nda place
+71439	HOSPITAL	6.883	9.427	big queensland adolescent extended treatment center
+71439	DEPARTMENT	10.95	11.972	medical surgery ward
+71439	DATE	17.582	19.465	february , eighteenth , twenty - thirteen
+71439	TIME	20.387	21.789	nine forty - four am
+71439	DATE	24.213	24.614	that day
+71439	TIME	24.894	25.836	twelve five pm
+71442	HOSPITAL	14.669	17.613	delegate multi - purpose service hospital
+71442	DATE	18.674	19.936	january , twenty - eighth
+71442	DATE	20.276	21.237	twenty - fourteenth
+71442	TIME	22.539	23.941	eight thirty - six am
+71473	DOCTOR	5.434	5.514	r
+71473	DOCTOR	5.434	6.075	. snow ##d
+71473	DOCTOR	24.326	25.987	freddie ea ##mes
+71473	HOSPITAL	27.187	28.428	bridget ##own hospital
+71530	PATIENT	0.571	1.032	el ##va
+71530	DOCTOR	3.634	4.034	james
+71530	DOCTOR	5.135	5.756	edwards
+71530	DOCTOR	6.796	7.177	hill
+71530	DOCTOR	8.058	8.818	pre ##zi ##jan ##s
+71530	PATIENT	17.025	17.345	el ##va
+71535	DOCTOR	1.012	1.512	wagner
+71535	DOCTOR	3.975	4.335	eli ##sh
+71535	DOCTOR	5.056	5.496	colby
+71535	DOCTOR	6.797	7.198	le ##hner
+71535	PATIENT	10.721	11.262	madeline
+71535	PATIENT	15.906	16.407	madeline
+71541	DURATION	2.899	5.786	one three
+71548	PATIENT	1.192	2.072	misty wilson
+71548	ID_NUMBER	3.973	7.595	three six b , eight seven one seven five one c
+71548	MEDICAL_RECORD_NUMBER	9.176	12.378	three six zero eight seven one seven dot nec
+71548	ID_NUMBER	14.58	17.001	three six b , eight seven one seven five
+71548	STREET	18.922	19.863	mc ##neil street
+71548	CITY	20.243	20.943	stan ##thorpe
+71548	STATE	21.324	22.084	new south wales
+71548	STREET	22.584	24.666	zip five four one zero
+71548	STREET	27.407	28.548	dickinson three south
+71571	DATE	0.211	1.413	november
+71572	HOSPITAL	8.123	10.707	royal tablet rehabilitation center
+71572	DEPARTMENT	11.328	17.518	cure for life foundation ne ##uro - on ##cology laboratory adult center department area
+71572	DOCTOR	25.89	26.411	hamilton
+71572	DOCTOR	27.072	27.433	do ##rt
+71572	DOCTOR	28.094	28.554	tyson
+71579	DATE	0.271	0.452	day
+71579	PATIENT	3.416	4.217	gary adams
+71579	DATE	4.297	4.657	today
+71579	PATIENT	5.438	5.839	gary
+71579	MEDICAL_RECORD_NUMBER	8.302	11.847	two five zero six one zero dot pg ##i
+71579	MEDICAL_RECORD_NUMBER	14.23	16.874	two five eight six one zero six two
+71579	DOCTOR	21.82	22.361	johnson
+71579	DOCTOR	23.482	24.083	port ##is
+71579	DOCTOR	25.065	25.405	irving
+71584	PATIENT	0.111	1.193	sun ##hausen
+71584	MEDICAL_RECORD_NUMBER	3.036	6.661	six seven five two four nine eight dot kn ##i
+71584	ID_NUMBER	8.083	11.769	six seven oh two four nine eight three five i
+71584	CITY	13.031	18.199	silver ##smith ya ##ra ##wang ##a nor ##son territory four three seven one
+71584	DATE	20.322	22.345	eleventh december nineteen eighty five
+71584	ID_NUMBER	27.213	29.897	six seven oh two four nine eight three
+71596	PATIENT	0.351	0.571	jimmy
+71596	HOSPITAL	1.372	2.553	to ##cum ##el hospital
+71596	DEPARTMENT	5.136	6.797	parks nine east department
+71702	DEPARTMENT	1.373	2.415	acute care ward
+71702	DOCTOR	4.658	6.1	tyler reginald rib ##era
+71702	DATE	9.305	11.509	november fifth , twenty thirteen at
+71702	TIME	11.569	13.091	twelve forty three p . m
+71702	PATIENT	13.552	21.163	breed seven nine seven three eight four four
+71702	DATE	25.51	27.353	january eighth , twenty sixty three
+71705	PATIENT	9.765	10.165	emily
+71705	DATE	11.187	13.831	november third , nineteen seventy - eight
+71705	STREET	15.333	16.755	w . adams street
+71705	CITY	17.636	18.137	thor ##eau
+71705	CITY	19.138	19.999	q ##ld
+71705	ZIP	22.323	23.525	two four five five
+71731	PATIENT	1.252	2.574	ethel jam ##ar se ##well
+71731	MEDICAL_RECORD_NUMBER	5.277	8.861	two - six - l - three - one - six - four - eight
+71731	MEDICAL_RECORD_NUMBER	10.643	15.169	two - six - l - three - one - six - four - eight - one - m
+71731	MEDICAL_RECORD_NUMBER	17.652	22.818	two - six - four - three - one - six - four - dot - x - d - m
+71731	DATE	24.199	26.642	november sixteenth , two - thousand - four
+71731	STREET	28.144	28.865	pe ##lham ##dale
+71731	CITY	29.225	29.726	warwick
+71767	DATE	1.693	3.214	march
+71767	PATIENT	26.417	26.737	joe
+71768	DATE	3.537	3.798	may
+71768	PATIENT	8.707	8.987	shu ##ren
+71768	PATIENT	13.395	13.636	shu ##ren '
+71784	DEPARTMENT	0.311	1.933	sentinel l ##ym ##ph node bio ##psy
+71784	HOSPITAL	2.273	5.076	seals central , med ##eo ##ra - based public hospital
+71784	DATE	7.378	7.939	september ,
+71784	DATE	7.999	9.48	twenty - fourth - thirteen
+71784	TIME	10.001	11.042	one twenty - two pm
+71784	DOCTOR	16.647	17.048	e ##yn ##ix
+71784	TIME	17.468	18.689	two forty - five pm
+71784	DATE	19.049	21.091	september , - fourth - thirteen
+71784	DOCTOR	23.794	25.596	fe ##l ##ju ##dge dani ##lo long ##bine
+71790	DATE	4.996	8.559	january , twenty - first - sixty - three
+71790	DEPARTMENT	8.739	9.42	envoy pathology
+71790	HOSPITAL	9.64	11.162	queen elizabeth center
+71790	DOCTOR	12.663	13.744	se ##ls ##a cassie co ##rg ##i
+71791	ID_NUMBER	1.973	4.655	zero four oh three four one five three
+71791	HOSPITAL	6.757	11.462	greenwich hospital three h . r . state surgical unit
+71791	PATIENT	15.826	16.146	peter
+71791	DATE	17.928	19.67	september fourth , twenty thirteen
+71791	TIME	20.01	21.011	nine fifty a . m .
+71791	DOCTOR	22.973	23.573	hall ##ib ##urt ##on
+71791	DOCTOR	25.855	26.276	tatum
+71791	DOCTOR	27.077	27.597	a temple
+71791	DOCTOR	28.278	28.618	reeves
+71791	DOCTOR	29.259	29.579	rivers
+71800	TIME	0.571	2.973	ten twenty a . m day
+71800	DOCTOR	3.893	4.353	rodney
+71800	DOCTOR	5.314	5.834	fisher
+71800	DOCTOR	6.935	7.395	england
+71800	PATIENT	13.198	13.598	mark
+71800	DEPARTMENT	17.64	18.361	on ##cology
+71800	DOCTOR	27.125	27.586	randall
+71839	DATE	0.451	4.276	october twenty - eighth , nineteen ninety - four
+71839	DATE	7.259	10.904	march eighteenth , twenty - sixty - four
+71839	HOSPITAL	11.865	16.17	col ##ley district hospital day surgery department
+71839	DOCTOR	19.073	20.695	el ##zar marlene halle ##y
+71839	DOCTOR	21.936	26.742	alfonso am ##bold ##o
+71839	DOCTOR	28.063	28.484	h . n .
+71893	PATIENT	0.051	1.152	tracy levine
+71893	CITY	5.038	5.358	pine ##croft
+71893	STATE	5.799	6.64	western australia
+71895	PATIENT	1.493	2.915	anti ##one ##tte tan ##nis
+71895	STREET	9.725	10.406	met ##cal ##fe
+71895	CITY	10.426	11.387	go ##nd ##wind ##i
+71895	STATE	11.407	11.627	tasmania
+71901	PATIENT	13.394	14.274	lily resides
+71901	STREET	14.875	15.875	g ##led ##a street
+71901	STREET	16.575	17.395	long chin place
+71901	DATE	23.257	25.317	november third , twenty nineteen
+71901	PATIENT	26.217	26.617	lily
+71910	DATE	0.151	2.815	september twenty third , two thousand thirteen
+71910	DOCTOR	7.361	7.821	e . s .
+71910	DOCTOR	8.763	9.263	t q .
+71910	DATE	10.585	12.808	november twenty sixth , twenty sixty three
+71910	DOCTOR	18.115	18.716	t . sar ##p
+71911	ID_NUMBER	2.034	4.777	a nine u zero zero four six six
+71911	DATE	7.821	9.824	december fourth twenty sixty two
+71911	HOSPITAL	11.526	12.468	lever ##ton hospital
+71911	DEPARTMENT	14.591	15.892	seals central department
+71911	PATIENT	17.795	18.075	sharon
+71911	DOCTOR	21.8	22.762	brian dr
+71911	DOCTOR	22.802	23.302	terry
+71911	DOCTOR	23.843	24.344	washington
+71911	DATE	27.127	28.89	december fifth twenty sixty two
+71918	TIME	0.331	1.512	ten twenty am
+71918	DATE	13.183	15.785	july eighteenth twenty sixty three
+71918	DATE	22.211	24.513	july eleventh twenty sixty three
+71935	ID_NUMBER	3.556	7.522	seven two i four eight six seven one
+71935	DATE	10.045	13.23	april twenty sixth twenty thirteen
+71935	TIME	14.732	16.315	twelve twenty three p . m
+71935	DEPARTMENT	17.256	18.778	acute care ward
+71935	HOSPITAL	19.339	21.823	bruce rock memorial hospital
+71935	DOCTOR	25.187	27.27	la ##zar ##o is ##ha lin ##mut ##h
+71935	DOCTOR	28.572	28.873	w . f
+71988	DATE	0.031	0.331	today
+71988	PATIENT	2.174	3.075	bradley bea ##l
+71988	MEDICAL_RECORD_NUMBER	7.761	11.867	one nine one four zero five nine dot b ##mt
+71988	DATE	12.988	14.891	july tenth nineteen ninety
+71988	PATIENT	15.552	15.952	bradley
+71988	STREET	16.693	17.795	east como street
+71988	CITY	18.135	18.676	cook ##town
+71988	STATE	18.936	20.819	australian capital territory
+71988	ZIP	22.822	24.284	three nine five six
+71995	DATE	0.151	2.614	march twenty - first twenty - thirteen
+71995	PATIENT	3.396	3.756	lily
+71995	TIME	5.699	7.421	seven - fifty - one p . m
+71995	DATE	18.416	21.36	may twenty - fourth - sixty - three
+71995	DOCTOR	22.661	23.182	randolph
+71995	DOCTOR	23.663	24.424	rev ##isi ##ting
+71995	PATIENT	24.504	27.428	lily - forty seven
+71997	PATIENT	1.633	2.494	mali
+71997	DATE	7.019	10.063	september , twenty - first - sixty - three
+71997	DATE	13.027	16.411	september , twentieth , twenty - sixty - three
+71997	DOCTOR	17.712	18.553	kay facto
+71997	DOCTOR	21.477	22.097	c
+71997	DOCTOR	21.477	22.097	. s .
+72019	DATE	0.031	2.11	march twenty - third , twenty - sixty - four
+72028	DATE	9.779	9.939	june
+72028	DATE	10.039	10.379	nineteenth
+72028	DATE	10.439	11.04	twenty - twelve
+72028	TIME	11.56	11.72	eight ,
+72028	TIME	11.76	12.341	nine p . m .
+72028	PATIENT	16.024	16.264	tom
+72028	DOCTOR	20.548	21.128	kam ##insky
+72028	DOCTOR	23.67	23.97	f ##olt ##z
+72028	DATE	24.291	26.532	august second sixty two
+72028	DOCTOR	28.094	28.594	holm ##gren
+72038	DATE	2.174	3.556	november seventh
+72038	TIME	4.256	6.82	six fifty - six p . m
+72038	DEPARTMENT	7.16	8.282	waste department ,
+72038	HOSPITAL	8.702	9.744	ga ##ret ##on hospital
+72038	DOCTOR	11.606	13.368	brad ter ##land - mca ##nne ##y
+72038	DOCTOR	16.472	16.833	ip
+72038	DOCTOR	17.394	17.714	l ##j
+72038	DOCTOR	18.275	19.296	b . k ##lem ##ens ##ic
+72038	DATE	21.399	21.859	january
+72083	DATE	0.191	0.512	today
+72083	PATIENT	3.195	3.816	danny smith
+72083	PATIENT	6.279	6.639	danny
+72083	PATIENT	19.856	20.157	danny
+72083	DATE	23.12	25.003	december
+72091	HOSPITAL	0.291	1.573	st . vincent ' s pathology
+72091	HOSPITAL	1.894	3.016	bari ##lab ##a hospital
+72091	DOCTOR	7.102	8.424	roy n . d . ur ##ji ##eck
+72091	DOCTOR	9.165	9.586	d . v .
+72091	DATE	9.906	10.307	october
+72091	DOCTOR	12.911	13.472	m . ka ##rth ##ew
+72091	DOCTOR	14.053	14.534	m . chu ##dy
+72091	DATE	15.075	15.876	october
+72091	DOCTOR	17.959	18.66	m . li ##ova ##no
+72091	DOCTOR	19.101	20.503	na ##ree ##l tu ##lan ##yam ##chua
+72145	HOSPITAL	5.779	9.785	south central queen elizabeth ii family center
+72145	DATE	11.046	13.85	august , twenty - third two thousand thirteen
+72145	TIME	14.511	15.713	four three p . m
+72145	DOCTOR	22.783	24.245	eddie wallace s . ken ##den
+72145	DOCTOR	25.306	25.827	b . q .
+72145	DOCTOR	26.788	27.409	o . w .
+72145	DOCTOR	28.571	29.192	s . ti ##bber ##t
+72175	ID_NUMBER	1.293	5.459	eight three w six four zero six eight one d
+72175	DATE	6.621	7.081	today
+72175	PATIENT	10.066	10.827	mark clock
+72175	STREET	13.631	14.532	east cha ##uf ##ford
+72175	CITY	14.953	16.616	bath ##el tasmania
+72175	ID_NUMBER	19.319	20.722	two five nine four
+72175	DATE	23.325	25.549	october fifth nineteen ninety four
+72175	AGE	27.592	28.233	twenty seven
+72176	DEPARTMENT	0.111	3.853	dickinson ii north department
+72176	DOCTOR	7.655	8.155	stein
+72176	DOCTOR	9.816	10.276	gordon
+72176	DOCTOR	11.036	11.537	winston
+72176	DOCTOR	12.577	12.937	ingram
+72176	DATE	20.701	24.383	november sixth , twenty sixty - two
+72229	PATIENT	1.172	2.073	evelyn led ##low
+72229	ID_NUMBER	4.215	7.598	three four f , three nine one six two six zero
+72229	MEDICAL_RECORD_NUMBER	9.259	12.562	three four two three nine one six dot g ##qa
+72229	CITY	13.743	14.304	bra ##ith ##waite
+72229	CITY	14.664	14.944	eden
+72229	STATE	15.104	15.725	victoria
+72229	MEDICAL_RECORD_NUMBER	15.865	16.926	four eight one eight
+72229	DATE	18.387	20.509	june twentieth , nineteen ninety - seven
+72229	DEPARTMENT	22.211	23.332	day surgery unit
+72229	HOSPITAL	23.772	25.454	women ' s and children ' s hospital
+72233	PATIENT	0.552	1.853	hugo card ##ona
+72233	DATE	2.674	5.477	march eighteenth nineteen ninety one
+72233	AGE	6.238	6.919	seventy seven
+72233	CITY	8.16	8.44	london
+72233	STATE	8.801	10.242	devon ##port victoria
+72233	ID_NUMBER	11.644	12.985	two three one nine
+72233	MEDICAL_RECORD_NUMBER	22.255	27.501	four five two three five two three dot q ##j ##x
+72234	PATIENT	0.971	1.772	ashton pillar ##d
+72234	DATE	15.156	18.317	jan . twenty - nine , two thousand sixty - two
+72234	DOCTOR	20.697	21.138	g ##q
+72234	DOCTOR	21.718	22.018	y ##b
+72234	DOCTOR	23.098	23.678	n . laura
+72234	DATE	26.099	28.84	jan . twenty - eight , two thousand sixty - two
+72322	DEPARTMENT	0.591	2.832	forensic medicine department
+72322	HOSPITAL	3.793	7.795	go ##ul ##burn valley health center for older persons
+72322	DATE	13.738	14.799	june
+72322	DOCTOR	21.202	23.083	tommy hers ##chel - aug ##lo
+72342	DEPARTMENT	5.138	6.24	corona ##ry care unit
+72342	HOSPITAL	6.46	7.681	heath ##cote ' s health
+72342	DOCTOR	11.527	12.688	lawrence mel ##ita morrow
+72342	DOCTOR	13.329	13.73	kb
+72342	DOCTOR	14.351	14.791	g . ma ##as
+72342	DATE	18.176	19.978	october
+72342	DATE	22.462	22.842	november
+72345	DOCTOR	3.173	3.733	caste ##ll
+72345	DOCTOR	4.553	4.994	hunter
+72345	DATE	7.335	7.895	january
+72345	DOCTOR	16.36	16.92	moi ##ses
+72345	DOCTOR	17.881	18.241	nile ##s
+72345	DATE	22.403	25.365	march
+72345	DOCTOR	29.167	29.647	peterson
+72347	ID_NUMBER	3.035	9.543	five two v zero five eight four six five two v zero five eight four six
+72347	DATE	12.467	16.712	march twenty third twenty sixty four ##cum ##bo hospital
+72347	DEPARTMENT	17.253	18.475	envoy department
+72347	DOCTOR	21.298	22.78	laura ann all ##erman
+72347	DOCTOR	23.821	24.402	o . fritz
+72347	DOCTOR	27.586	28.067	vin ##on
+72347	DOCTOR	29.529	29.789	keith
+72354	PATIENT	1.132	1.852	eric mill ##ey
+72354	MEDICAL_RECORD_NUMBER	5.634	9.756	eight four zero nine two nine eight dot g . j . s
+72354	ID_NUMBER	12.218	16.02	eight four b nine two nine eight two three s
+72354	STREET	18.001	18.922	north salad ##o
+72354	CITY	19.142	19.662	w ##yn ##dham
+72354	STATE	19.842	20.923	south australia
+72354	ZIP	21.863	23.284	four five one two
+72358	DATE	8.516	8.696	may
+72382	DATE	17.972	18.252	april
+72396	PATIENT	1.271	2.071	joe mu ##sk
+72396	MEDICAL_RECORD_NUMBER	6.112	10.533	four three eight eight nine zero six dot e x y
+72396	DATE	12.114	14.694	july thirteenth , nineteen ninety one
+72396	PATIENT	16.095	16.855	joe resides
+72396	STREET	17.195	18.815	diablo vista street
+72396	CITY	19.216	19.856	sad ##uma
+72396	STATE	20.436	21.056	queensland
+72396	ZIP	23.056	24.577	four three zero seven
+72421	DOCTOR	5.974	6.374	parker
+72421	DOCTOR	6.955	7.375	houston
+72421	DOCTOR	7.975	8.215	bell
+72421	DATE	13.778	16.02	december sixteenth , twenty sixty - three
+72421	PATIENT	25.825	26.205	oliver
+72452	TIME	5.055	6.096	four thirty p . m
+72452	DATE	6.396	12.561	september twenty sixth twenty twelve date
+72539	PATIENT	0.832	2.113	frankie nathaniel she ##mp
+72539	ID_NUMBER	3.135	6.399	two eight l zero six four seven five nine l
+72539	MEDICAL_RECORD_NUMBER	8.181	11.405	two eight four zero six four seven dot ox ##l
+72539	STREET	12.346	13.207	east one street
+72539	CITY	13.467	13.727	eden
+72539	STATE	14.128	14.468	wa
+72539	ID_NUMBER	15.95	17.291	six nine one zero
+72539	DATE	19.314	20.215	september twenty
+72539	TIME	20.515	21.316	twenty eighteen
+72539	ID_NUMBER	25.181	27.804	two eight l zero six four seven five
+72541	ID_NUMBER	2.796	5.36	three one x nine eight four five one
+72541	DATE	8.826	11.63	november twenty seventh two thousand twelve
+72541	TIME	12.552	13.614	four thirty eight p . m .
+72541	PATIENT	15.637	16.018	lauren
+72541	DEPARTMENT	17.44	18.342	macquarie ward
+72541	HOSPITAL	19.023	19.944	rose ##bu ##d hospital
+72541	DOCTOR	24.552	25.073	bro ##nson
+72541	DOCTOR	25.634	26.095	ingram
+72541	DOCTOR	26.615	26.916	allen
+72544	HOSPITAL	2.893	4.334	cobra ##m district health
+72544	DOCTOR	11.198	13.659	ya ##ron h ##lad ##ik
+72544	DEPARTMENT	15.46	17.242	gr ##en ##fell multi ##pur ##pose service
+72576	DOCTOR	2.172	2.612	h . zee
+72576	DOCTOR	8.913	9.993	h . de la rosa
+72606	PATIENT	0.712	1.553	oliver smith
+72606	MEDICAL_RECORD_NUMBER	4.718	8.464	three seven one eight five nine five dot a h h
+72606	ID_NUMBER	15.915	18.519	three seven e eight five nine five zero
+72606	DATE	23.086	25.229	december twenty fifth , twenty sixty three
+72606	PATIENT	25.83	26.13	oliver
+72610	DATE	0.232	2.922	july thirteenth , twenty sixty - three
+72611	DOCTOR	17.984	18.304	hz
+72631	DATE	0.051	0.372	today
+72631	PATIENT	2.856	3.718	larry bat ##tam
+72631	MEDICAL_RECORD_NUMBER	7.625	11.451	six one two three eight four eight dot mr ##k
+72631	DATE	12.994	16.48	april twenty - fourth , nineteen eighty - seven
+72631	PATIENT	17.021	17.382	larry
+72631	STREET	18.364	19.285	a ni ##mble street
+72631	CITY	19.586	20.067	derby
+72631	STATE	20.548	22.191	northern territory
+72631	ZIP	23.613	25.617	four one five eight
+72643	DATE	0.031	0.291	today
+72643	PATIENT	3.094	4.055	samuel jackson
+72643	MEDICAL_RECORD_NUMBER	8.198	12.322	one eight three six two eight seven dot t ##zy
+72643	MEDICAL_RECORD_NUMBER	14.644	21.31	one eight i six two eight seven seven , one eight i six two eight seven seven
+72643	PATIENT	27.935	28.376	samuel
+72678	MEDICAL_RECORD_NUMBER	0.531	3.833	five two three three six two six dot z u p
+72678	MEDICAL_RECORD_NUMBER	6.374	9.216	five two k three six two six nine
+72678	PATIENT	10.176	10.577	austin
+72678	HOSPITAL	13.018	16.16	al ##bury wi ##dong ##a hills al ##bury campus
+72678	DEPARTMENT	18.941	20.742	intensive department
+72678	DATE	23.343	25.985	august thirteenth twenty thirteen
+72678	TIME	26.925	28.306	six oh one pm
+72693	DATE	2.154	3.476	year twenty sixty one
+72693	DATE	5.498	7.521	march first , twenty sixty four
+72693	DOCTOR	12.207	12.668	goodwin
+72693	DOCTOR	17.654	18.155	ever ##son
+72726	DOCTOR	2.735	3.075	nash
+72726	DOCTOR	5.438	5.779	heal ##d
+72726	DOCTOR	6.5	7.02	gas ##ol
+72726	DOCTOR	7.862	8.302	curry
+72726	DOCTOR	8.903	9.324	martin
+72726	DOCTOR	10.745	11.246	iv ##erson
+72726	DOCTOR	11.927	12.207	wall
+72726	DATE	20.018	23.563	march seventeenth , twenty sixty - three
+72747	DATE	3.456	5.779	october tenth , twenty sixty - two
+72747	DATE	6.18	8.723	october eleventh , twenty sixty - two
+72747	DOCTOR	15.332	15.993	valentine
+72747	DOCTOR	16.614	17.035	griffin
+72747	DOCTOR	17.716	18.217	collins
+72747	DOCTOR	18.938	19.438	ho ##lli ##day
+72747	DOCTOR	20.079	20.58	butler
+72747	DOCTOR	21.601	21.922	hart
+72747	PATIENT	27.91	28.331	susan
+72766	DATE	8.042	10.345	february fifth , twenty sixty - three
+72766	DOCTOR	12.708	14.11	sheldon lawrence mo ##ser
+72766	DOCTOR	18.697	19.438	k . ste ##nd ##rew
+72766	TIME	20.059	21.04	nine forty am
+72766	DATE	21.36	23.163	december third , twenty thirteen
+72766	DATE	26.447	28.35	february sixth , twenty sixty - three
+72766	DOCTOR	29.051	29.752	k . pi ##fo
+72770	DATE	0.372	0.712	today
+72770	PATIENT	3.016	3.877	lauren weston
+72770	MEDICAL_RECORD_NUMBER	8.706	12.712	o - two - five - five - four - nine - six - dot - l - y - z
+72770	PATIENT	13.233	13.554	lauren
+72770	STREET	14.335	15.557	south claremont street
+72770	CITY	15.958	16.459	co ##bar
+72770	STATE	16.919	17.821	new south wales
+72782	DATE	0.351	0.671	today
+72782	PATIENT	2.873	3.733	julia west
+72782	MEDICAL_RECORD_NUMBER	8.756	12.378	three three nine nine two seven six dot i h f
+72782	PATIENT	13.138	14.299	julia residences
+72782	STREET	14.679	16.16	worthy moore street
+72782	CITY	16.54	17.22	gr ##en ##fell
+72782	STATE	17.32	18.821	western australia
+72782	ZIP	20.562	21.903	two five three nine
+72782	DATE	23.584	26.265	october twelfth , nineteen eighty seven
+72794	DATE	6.942	7.323	today
+72794	PATIENT	9.867	10.868	felicia rose
+72809	DOCTOR	0.431	0.952	washington
+72809	DOCTOR	1.472	1.853	wilson
+72846	DOCTOR	4.697	5.317	porter
+72846	DOCTOR	6.499	6.859	ellis
+72846	DATE	10.183	13.147	march second , twenty sixty - four
+72846	DOCTOR	14.008	14.468	nielsen
+72846	DOCTOR	15.129	15.61	moran
+72846	PATIENT	28.185	28.786	julia
+72854	DOCTOR	3.162	3.644	k ##f
+72854	DOCTOR	4.266	4.728	v ##h
+72854	DOCTOR	5.49	6.113	p . finn ##o
+72854	DATE	7.899	10.127	december , twenty - sixth twenty - sixty - three
+72856	DATE	0.912	2.354	october twenty - eighth
+72856	ID_NUMBER	2.954	3.976	nineteen eighty - five
+72856	ID_NUMBER	6.939	9.962	eight six i one eight five seven one
+72856	DATE	14.548	17.731	january twenty - second , twenty - thirteenth
+72856	TIME	18.812	20.274	two twenty - eight p . m
+72856	DEPARTMENT	21.355	23.418	a . c . t . genetic department
+72856	DOCTOR	27.663	29.665	ethan fl ##ore ##ntino - haven
+72869	DATE	6.677	7.037	today
+72869	PATIENT	9.519	10.54	dr ##ay ##mond nash
+72886	DATE	2.252	2.612	april
+72886	TIME	5.993	6.813	six o ' clock
+72886	DOCTOR	10.994	12.775	w . wall ##en ##wei ##der
+72886	DOCTOR	20.637	21.277	w . grass ##o
+72931	DATE	11.727	14.311	november fourth twenty thirteenth
+72931	TIME	15.753	17.175	one thirteen pm
+72931	HOSPITAL	19.197	20.459	norman ##ton hospital
+72931	DEPARTMENT	23.664	27.549	anatomical pathology department
+72946	TIME	0.451	2.053	five twenty - five p . m .
+72946	DOCTOR	3.254	4.555	z . ro ##sted
+72946	DATE	12.723	14.904	november seventh twelve
+72946	TIME	15.885	17.307	five twenty - five p . m
+72946	DOCTOR	18.308	19.028	z . fed ##er
+72953	ID_NUMBER	5.357	5.577	eight
+72953	ID_NUMBER	5.857	8.58	one eight two seven one five five five t
+72953	ID_NUMBER	10.202	15.788	eight one eight two seven one five five eight one eight two seven one five five
+72953	DATE	17.19	19.092	april seven twenty sixty four
+72953	DOCTOR	22.335	22.656	mu ##sk
+72953	DATE	26.38	28.082	april eight twenty sixty four
+72953	DOCTOR	29.043	29.263	cook
+72958	DOCTOR	1.072	1.612	z . n .
+72958	DOCTOR	2.573	3.014	x . m .
+72958	DATE	3.334	5.856	march , twenty - third , twenty - sixty - four
+72959	PATIENT	0.551	1.412	blake freud ##iger
+72959	ID_NUMBER	3.574	5.856	two two h four eight five five one
+72959	MEDICAL_RECORD_NUMBER	7.677	10.379	two two two four eight five dot o ##ee
+72959	DATE	12.761	14.663	march second , twenty sixty four
+72959	DOCTOR	16.845	17.225	e ##gy
+72959	DOCTOR	18.626	19.167	h bra ##zen
+72959	DATE	19.567	21.689	march twenty sixth , twenty sixty four
+72960	PATIENT	0.431	1.413	jeremy jackson
+72960	MEDICAL_RECORD_NUMBER	3.815	7.339	eight five zero eight seven nine five dot pc ##p
+72960	ID_NUMBER	15.688	18.671	eight five eight eight seven nine five six
+72960	DATE	24.137	25.979	march third , twenty sixty four
+72960	PATIENT	26.44	26.88	jeremy
+72972	DOCTOR	0.612	1.193	w ##hit ##more
+72972	DOCTOR	2.154	2.615	jordan
+72972	DOCTOR	3.536	4.157	clarkson
+72972	DOCTOR	5.219	5.56	brown
+72972	PATIENT	12.09	12.51	henry
+72972	DATE	13.632	14.914	april
+72977	PATIENT	11.523	11.863	henry
+72977	HOSPITAL	14.345	16.107	murray district hospital
+72977	DOCTOR	18.67	20.191	peter mac department
+72977	DATE	23.154	25.437	april seventh twenty sixty four
+73006	DATE	4.055	6.598	september thirteenth , two thousand sixty - two
+73006	DATE	13.646	15.868	july sixteenth , two thousand sixty - three
+73006	PATIENT	20.313	20.593	joe
+73006	DATE	24.737	26.9	may sixth , two thousand thirteen
+73006	TIME	27.32	28.341	two fifty p . m .
+73014	HOSPITAL	9.4	17.467	black ##water hospital west g ##yne ##cology department
+73062	DATE	5.979	7.921	july eleventh , twenty sixty - three
+73062	DOCTOR	10.004	10.425	wesley
+73062	DOCTOR	11.005	11.506	robinson
+73062	DATE	18.295	20.218	june eleventh , twenty sixty - three
+73062	DOCTOR	21.179	22.06	vale ##nc ##iu ##nas
+73062	PATIENT	25.444	25.725	peter
+73067	DOCTOR	0.171	0.531	adams
+73067	DOCTOR	1.272	1.712	bosch
+73067	DOCTOR	3.213	3.473	cook
+73067	DOCTOR	4.493	5.014	ku ##z ##ma
+73067	DOCTOR	5.974	6.374	moran
+73067	DATE	10.397	13.158	december nineteenth , twenty - twelve
+73067	TIME	19.161	20.582	ten fifty a . m .
+73067	TIME	22.063	23.524	twelve forty p . m
+73071	PATIENT	1.052	1.292	ellie
+73071	DATE	7.137	9.359	december twenty - fifth , twenty sixty - two ,
+73071	DOCTOR	13.082	13.503	chandler
+73071	PATIENT	15.544	15.785	ellie
+73079	DOCTOR	5.761	6.302	kam ##insky
+73079	DOCTOR	6.823	7.364	alfonso
+73079	DOCTOR	7.765	8.326	stephenson
+73079	DOCTOR	8.827	9.328	wellington
+73079	DOCTOR	9.849	10.249	wagner
+73079	DOCTOR	10.73	11.091	scott
+73079	DOCTOR	11.532	11.852	mu ##sk
+73079	DOCTOR	12.473	12.834	porter
+73079	DOCTOR	13.495	13.936	iv ##erson
+73079	PATIENT	19.226	19.546	joe
+73079	DURATION	20.869	21.53	several days
+73079	PATIENT	22.992	23.253	joe
+73079	DATE	24.435	24.736	july
+73091	DATE	0.592	0.932	today
+73091	PATIENT	3.016	3.717	billie john
+73091	MEDICAL_RECORD_NUMBER	8.384	14.033	zero nine four seven five five seven dot w ##j ##f
+73091	ID_NUMBER	18.841	27.715	zero nine m seven five five seven eight zero nine m seven five five seven eight
+73133	PATIENT	10.147	11.089	mali
+73133	DOCTOR	16.858	17.699	d . max ##ey
+73133	DOCTOR	18.42	19.182	d dar ##den
+73133	TIME	19.722	21.245	one o ' clock p . m
+73133	DATE	21.666	24.51	january twentieth , twenty - fourteen
+73133	DOCTOR	27.635	27.695	f . t .
+73140	DOCTOR	2.354	3.416	theo - breton red ##es ##k
+73140	DOCTOR	4.297	4.558	w . y .
+73140	DOCTOR	5.119	5.599	z . m .
+73140	DOCTOR	6.38	7.142	e . fa ##lag ##o
+73140	DOCTOR	7.823	8.544	e . rude ##rs
+73140	DOCTOR	9.365	9.465	e
+73140	DOCTOR	9.365	10.066	. dickens ##hit ##z
+73140	DOCTOR	10.907	11.488	e . ne ##ider ##t
+73140	TIME	22.344	23.846	four fifty eight p . m .
+73140	DATE	24.287	25.949	august twenty , twenty thirteen
+73173	PATIENT	0.691	1.651	woodrow ha ##rk ##ley
+73173	DATE	6.633	6.693	aug
+73173	DOCTOR	7.953	8.053	w . e .
+73173	DOCTOR	8.333	9.113	y . nos ##tan
+73173	DATE	12.234	12.454	aug
+73174	HOSPITAL	0.351	1.893	ca ##wley district hospital
+73174	DOCTOR	4.875	6.417	jason angel ios ##a
+73174	DOCTOR	7.077	8.278	uk dr i . s .
+73174	DOCTOR	9.379	10.4	s . wo ##j ##cic ##ki
+73174	DATE	13.603	16.325	october - ten , two thousand sixty - three
+73174	DOCTOR	26.774	27.315	craig ##baum
+73174	DOCTOR	28.476	29.076	s . hopping ##s
+73180	DATE	3.855	4.296	may
+73180	DATE	4.436	4.636	may
+73196	DOCTOR	2.193	2.594	smith
+73196	PATIENT	3.795	4.236	austin
+73196	DOCTOR	7.059	7.62	charlotte
+73196	DOCTOR	8.881	9.462	k ##lu ##kas
+73196	DOCTOR	11.024	11.684	pale ##nka
+73196	PATIENT	18.893	19.313	austin
+73196	AGE	20.475	21.416	fifteen seven
+73196	DATE	25.6	28.564	october sixteenth , twenty - sixty - three
+73198	PATIENT	0.752	1.773	shi ##wana pol ##i
+73198	DATE	2.734	4.396	october fifth , nineteen eighty
+73198	STREET	6.219	6.799	w . aspen
+73198	CITY	7.16	8.702	indian ga ##tha s . a
+73198	ZIP	10.664	11.886	three one six five
+73198	DEPARTMENT	13.367	14.649	culinary care unit
+73198	HOSPITAL	15.31	16.491	mount baker district
+73198	HOSPITAL	17.072	18.494	soldier memorial hospital
+73198	ID_NUMBER	22.999	26.183	two two q nine nine six five two a four
+73233	PATIENT	1.493	2.434	mike garland
+73233	AGE	3.055	4.177	thirty four
+73233	MEDICAL_RECORD_NUMBER	8.704	12.489	six four five four nine one five dot t t j
+73233	DATE	14.111	16.174	november ninth twenty - thirty - four
+73233	PATIENT	16.976	17.256	mike
+73233	STREET	18.478	19.82	old clubhouse street
+73233	CITY	20.04	20.621	wellington
+73233	STATE	21.462	23.365	australian capitol ##e territory
+73233	ZIP	25.207	26.469	five four six two
+73248	PATIENT	0.572	1.553	ashley on ##stead
+73248	MEDICAL_RECORD_NUMBER	4.198	7.383	zero one seven one zero six dot ni ##v
+73248	ID_NUMBER	8.905	11.549	zero one u one zero six five three
+73248	DATE	18.16	20.263	november fifteenth twenty sixty three
+73248	DOCTOR	22.226	22.827	x ##w
+73248	DATE	23.147	25.191	november fourteenth , twenty sixty three
+73248	DOCTOR	28.816	29.578	a . ho ##hen ##stein
+73249	STATE	0.832	2.754	australian capital territory
+73249	ZIP	3.075	3.956	one thousand three
+73249	HOSPITAL	6.018	7.179	morgan hospital
+73249	DEPARTMENT	7.46	8.421	acute care ward
+73249	DOCTOR	11.084	12.105	scott dale park
+73249	DOCTOR	14.628	18.512	q . e . b . a . a ter ##aton ##eal bio
+73249	DATE	19.734	22.457	january sixteenth , twenty sixty - two
+73257	PATIENT	0.872	1.653	jesus wilhelm
+73257	ID_NUMBER	2.975	5.658	one six oh four four three four zero
+73257	ID_NUMBER	7.18	8.421	one six five four four three
+73257	ID_NUMBER	10.624	13.628	one six oh four four three four zero five t
+73257	DATE	14.669	16.471	july fifth , twenty thirty three
+73257	STATE	17.813	18.133	wales
+73257	DEPARTMENT	18.614	19.095	womb ##at
+73257	STATE	19.195	21.498	new south wales five one four one
+73257	HOSPITAL	23.22	24.241	derby hospital
+73257	DEPARTMENT	24.561	25.803	hereditary department
+73257	DATE	26.544	29.007	october twenty second , twenty sixty three
+73284	DATE	0.471	3.054	march twenty - fifth twenty - sixty - four
+73284	DOCTOR	4.675	4.995	s . d .
+73284	DOCTOR	13.223	14.023	a n . i . f
+73284	ID_NUMBER	14.163	15.865	seven nine one four three
+73284	TIME	27.895	28.756	six o ' clock
+73288	DATE	2.475	5.381	june first , twenty - six sixty - three
+73288	DATE	6.483	8.807	july fourth twenty - sixty - three
+73288	DOCTOR	10.17	11.151	t . bo ##cle ##w
+73316	HOSPITAL	1.152	3.915	murray bridge soldiers memorial hospital
+73316	DEPARTMENT	4.917	6.378	ob ##ste ##trics department
+73316	DOCTOR	10.783	11.144	o ' neill
+73316	DOCTOR	11.945	12.305	monk
+73316	DOCTOR	13.166	13.627	oman
+73316	DOCTOR	14.428	15.008	edwards
+73316	DOCTOR	15.749	16.11	stone
+73316	TIME	19.814	20.955	nine eighteen a . m .
+73316	DATE	21.336	22.997	june sixth , twenty - twelve
+73321	ID_NUMBER	1.853	4.475	one zero r zero seven nine four one
+73321	DATE	6.897	9.459	january twentieth , twenty fourteen
+73321	ZIP	9.799	10.58	twelve thirty
+73321	HOSPITAL	11.041	12.802	st . vincent ' s pathology ,
+73321	HOSPITAL	13.303	14.664	crystal brook campus
+73321	DOCTOR	17.927	19.568	my ##ron d . sc ##her ##tz
+73321	DOCTOR	20.729	21.89	d . ge ##rt ##ner
+73321	ZIP	25.253	26.754	fifty four fifteen
+73347	DATE	0.572	0.952	today
+73347	PATIENT	3.056	3.837	oliver martin
+73347	MEDICAL_RECORD_NUMBER	6.2	9.385	five five four zero one zero eight dot q o o
+73347	STREET	10.867	11.869	brook tree ranch
+73347	CITY	12.45	12.951	penguin
+73347	STATE	13.211	14.132	south australia
+73347	ZIP	15.454	16.456	seven one one nine
+73347	DATE	17.478	19.861	february seventeenth , nineteen ninety - four
+73347	PATIENT	20.262	20.542	oliver
+73347	HOSPITAL	22.665	24.288	red ##land hospital under
+73347	HOSPITAL	24.428	26.071	prince of wales private department
+73356	DATE	1.652	3.854	august ten , nineteen ninety - four
+73356	PATIENT	4.275	4.795	felicia
+73356	STREET	5.836	6.516	crowns ##tone
+73356	CITY	6.737	7.337	tom ##orra
+73356	STATE	7.577	8.598	new south wales
+73356	ZIP	10.72	12.582	seven zero one two
+73356	DATE	17.266	19.908	january fifteenth , twenty sixty - two
+73356	DATE	20.668	23.251	january sixteenth twenty sixty - two
+73373	DATE	8.377	10.238	august the fifteenth , twenty sixty - three
+73373	PATIENT	10.878	11.259	edison
+73391	DOCTOR	1.592	2.293	sc ##hu ##ber ##deck ##er
+73391	DOCTOR	3.413	4.074	g . tai ##t ##bo
+73391	DOCTOR	4.634	5.295	g . lear ##man
+73391	TIME	5.935	6.856	three oh five p . m
+73391	DATE	7.196	9.258	august - seventh - thirteen
+73391	DOCTOR	12.46	13.121	g . moss
+73408	DOCTOR	0.672	1.353	p . em ##lin
+73408	DOCTOR	2.295	13.993	p . fan - iii - a - ii - n i i n i n i n i n i n i n i n i n i n i n n n i n i n i n i n i n i n i n i n i n i n i n
+73454	PATIENT	2.574	3.856	ren ##ato brown
+73454	MEDICAL_RECORD_NUMBER	8.582	13.789	eight seven nine five three five five dot ks ##p
+73454	PATIENT	14.329	14.91	ren ##ato
+73454	DATE	16.051	20.117	february eighteenth nineteen eighty six
+73454	STREET	21.699	22.5	dan street
+73454	CITY	22.9	23.561	richmond
+73454	STATE	23.821	24.642	tasmania
+73454	ZIP	26.725	28.567	zero eight zero zero
+73481	DATE	4.42	7.405	december twelfth twenty - twelve
+73481	TIME	8.207	9.71	four forty - five pm
+73481	PATIENT	18.347	18.788	kenny
+73484	DOCTOR	2.053	4.656	##ay ##mond
+73484	DATE	5.516	7.298	july third , twenty eleven
+73484	STREET	8.78	9.36	end ##gate
+73484	CITY	9.761	10.301	weston
+73484	STATE	10.701	12.063	western australia
+73484	ZIP	14.425	15.947	one four nine zero
+73484	DATE	20.891	23.154	august eight , twenty sixty two
+73484	DATE	23.934	26.016	august nine , twenty sixty two
+73489	PATIENT	0.031	1.353	kenneth darren jo ##wer ##s
+73489	MEDICAL_RECORD_NUMBER	2.856	6.742	six seven q four three five six nine six g
+73489	MEDICAL_RECORD_NUMBER	8.866	12.752	six seven six four three five six dot y ##pg
+73489	CITY	13.494	13.894	lea ##ton
+73489	CITY	14.175	14.796	th ##uro ##mere
+73489	STATE	15.497	15.838	wa
+73489	ID_NUMBER	17.701	18.943	three nine zero two
+73489	DATE	20.005	21.147	sixteenth february ,
+73489	ZIP	21.247	22.168	two thousand seven
+73503	DATE	0.031	0.431	today
+73503	PATIENT	2.474	3.194	tom bryant
+73503	PATIENT	8.3	9.901	tom resides
+73503	STREET	10.382	11.122	lowry street
+73503	CITY	11.223	11.843	man ##ju ##ra
+73503	STATE	11.943	12.804	south australia
+73503	DATE	15.907	16.268	born on
+73503	DATE	16.308	18.49	september
+73503	HOSPITAL	20.752	22.214	suns ##bury day hospital
+73503	HOSPITAL	23.115	25.197	st . george private department
+73512	DOCTOR	2.975	3.395	gale
+73512	DOCTOR	4.216	4.557	gunn
+73512	DOCTOR	5.318	5.959	sa ##bon ##is
+73512	DOCTOR	7.24	7.781	benson
+73512	DOCTOR	8.462	8.962	randall
+73512	DOCTOR	9.763	10.164	george
+73512	DOCTOR	11.746	12.186	ing ##all ##s
+73512	PATIENT	19.636	20.036	lily
+73518	DATE	0.291	3.075	december fourth , twenty - sixty - two
+73518	DATE	9.663	12.246	november twenty - sixth , twenty - sixty - two
+73518	DOCTOR	20.075	20.435	za ##k
+73518	DOCTOR	21.577	21.917	moss
+73518	DOCTOR	22.818	23.319	thompson
+73518	DOCTOR	23.92	24.24	irving
+73518	DOCTOR	25.301	25.582	wood
+73518	DOCTOR	26.322	26.763	pearson
+73528	DOCTOR	3.373	3.713	sharpe
+73528	DOCTOR	4.293	4.693	mitchell
+73528	DOCTOR	5.274	5.534	wood
+73528	DATE	15.839	17.941	october sixteenth , two thousand twelve
+73528	TIME	18.741	20.042	four twenty - six p . m .
+73528	DOCTOR	21.082	21.342	wood
+73528	DATE	24.604	26.865	december nineteenth , twenty sixty - two
+73528	DOCTOR	28.826	29.247	houston
+73570	DOCTOR	0.472	0.812	craig
+73570	DOCTOR	1.293	1.774	clarkson
+73570	DOCTOR	2.155	2.636	sabrina
+73570	DOCTOR	3.036	3.277	wade
+73570	DOCTOR	3.637	3.998	ha ##user
+73570	DOCTOR	4.339	4.82	sc ##hum ##per ##t
+73570	DOCTOR	5.541	5.942	goodwin
+73570	DOCTOR	6.483	7.003	mc ##grad ##y
+73570	DATE	16.1	16.24	may
+73570	DATE	16.26	16.36	may
+73570	DATE	16.38	16.48	may
+73570	DATE	16.541	16.681	may
+73570	DATE	16.721	16.801	may
+73570	DATE	16.821	17.061	may
+73570	DATE	17.081	17.262	may
+73570	DATE	17.282	17.422	may
+73570	DATE	17.442	17.642	may
+73570	DATE	17.663	17.743	may
+73570	DATE	17.783	17.923	may
+73570	DATE	17.943	18.003	may
+73570	DATE	18.063	18.143	may
+73570	DATE	18.163	18.244	may
+73570	DATE	18.304	18.424	may
+73570	DATE	18.444	18.564	may
+73570	DATE	18.584	18.664	may
+73570	DATE	18.764	18.885	may
+73570	DATE	18.965	19.085	may
+73570	DATE	19.105	19.225	may
+73570	DATE	19.285	19.366	may
+73570	DATE	19.386	19.546	may
+73570	DATE	19.566	19.706	may
+73570	DATE	19.726	19.927	may
+73570	DATE	19.947	20.027	may
+73579	DATE	4.359	7.144	april tenth , twenty thirteen at
+73579	TIME	7.304	8.847	three fifty five pm
+73579	DATE	16.341	18.846	june twelfth , twenty sixty three
+73579	DATE	19.567	21.731	june thirteenth , twenty sixty three
+73590	DATE	3.455	3.996	next day
+73590	DATE	4.696	7.439	january seventeenth , twenty sixty - two
+73590	DOCTOR	12.605	13.026	fu ##zz
+73590	DOCTOR	13.967	14.327	lan
+73590	DOCTOR	15.328	15.769	healer
+73590	DATE	25.76	28.023	march twentieth , twenty sixty - three
+73607	DOCTOR	6.873	7.313	bryant
+73607	DOCTOR	8.233	8.753	johnson
+73607	DOCTOR	9.313	10.273	lil ##lard
+73607	DOCTOR	11.414	11.894	winston
+73607	DOCTOR	12.594	12.874	mann
+73607	DATE	20.036	20.476	september
+73607	DATE	20.516	22.796	september
+73607	DATE	24.257	24.677	february
+73607	DATE	24.817	26.417	february
+73612	DATE	3.216	7.863	today
+73612	PATIENT	10.467	11.469	jenny thompson
+73651	PATIENT	0.111	1.553	ashton lizard
+73651	DATE	2.754	5.378	august twenty , nineteen ninety - four
+73651	AGE	6.519	8.101	seventy three
+73651	CITY	9.022	11.645	butterfly out ##gate act
+73651	ID_NUMBER	13.227	15.35	five six four zero
+73651	ID_NUMBER	16.952	20.956	nine three b three seven three four two one g
+73651	MEDICAL_RECORD_NUMBER	22.999	27.424	nine three zero three seven three four dot f e g
+73663	PATIENT	1.132	2.494	sima jorge - lo ##rang ##e
+73663	DATE	11.325	11.606	march
+73664	HOSPITAL	11.526	12.667	wild ##cat ##chen hospital
+73664	DEPARTMENT	13.048	15.251	anatomical pathology department
+73664	DATE	15.751	18.134	january twenty eight . two thousand fourteen
+73664	TIME	18.795	20.077	four twenty seven p . m
+73664	DOCTOR	26.045	26.465	laurie
+73690	DEPARTMENT	0.792	2.934	im ##vs department
+73690	DOCTOR	6.818	7.298	tucker
+73690	DOCTOR	9.7	10.181	silver
+73690	DOCTOR	10.821	11.302	goodwin
+73690	DOCTOR	12.403	12.883	walton
+73690	PATIENT	20.391	20.751	larry
+73690	AGE	21.312	21.792	eighty
+73690	DATE	26.497	29.84	september twenty - first , twenty - sixty - two
+73718	DOCTOR	1.232	1.832	hunter
+73718	DOCTOR	2.613	2.933	bird
+73718	PATIENT	8.997	9.338	mark
+73718	DATE	10.999	13.32	september
+73718	PATIENT	22.467	22.827	mark
+73733	DATE	6.333	6.533	day
+73733	DATE	7.413	7.774	today
+73733	PATIENT	9.614	10.254	lily white
+73733	HOSPITAL	13.636	15.376	st . vincent ' s hospital
+73733	STATE	17.417	19.257	australian capital territory
+73733	DEPARTMENT	21.578	23.719	seventh acute care ward
+73733	PATIENT	24.619	25.019	lily
+73772	DOCTOR	0.592	1.072	robinson
+73772	PATIENT	8.162	8.402	vin
+73772	DATE	10.705	12.868	march eleventh , twenty sixty - four
+73772	DOCTOR	15.191	15.472	put ##h
+73772	DOCTOR	17.735	18.095	martin
+73772	PATIENT	21.54	21.78	vin
+73825	DOCTOR	12.635	13.356	i . pu ##gm ##ire
+73831	PATIENT	7.139	7.379	jack
+73831	DEPARTMENT	8.841	10.303	peter mack department
+73831	HOSPITAL	11.644	14.307	ing ##lewood multi ##pur ##pose health service
+73831	DATE	26.882	27.483	february
+73837	HOSPITAL	0.492	2.013	st . george hospital ,
+73837	HOSPITAL	2.134	2.935	q ##ld
+73837	DEPARTMENT	3.936	6.038	molecular on ##cology department
+73837	DOCTOR	7.981	8.461	run ##dle
+73837	HOSPITAL	12.646	14.589	western district health service ,
+73837	HOSPITAL	15.029	15.65	co ##rri ##ne
+73837	DOCTOR	17.893	18.414	wesley
+73837	DATE	22.559	22.719	nov
+73872	ID_NUMBER	1.193	9.005	n n n n n n n n n n n n n n n n n n n n n n n n n
+73907	ID_NUMBER	5.218	5.458	two
+73907	ID_NUMBER	5.678	8.642	eight n three five zero five one zero three
+73907	ID_NUMBER	9.924	12.568	two eight n three five zero five one
+73907	MEDICAL_RECORD_NUMBER	14.771	17.955	two eight five three five zero dot n c a
+73907	DATE	19.216	21.139	may fifth , nineteen ninety - nine
+73907	CITY	22.981	23.722	al ##mer ##ia
+73907	CITY	23.943	24.443	algae
+73907	ZIP	25.264	26.666	two seven two seven
+73911	DATE	15.696	15.957	august
+73918	DATE	5.652	6.114	january
+73921	PATIENT	1.152	2.413	va ##ira ve ##nch ##ik
+73921	MEDICAL_RECORD_NUMBER	4.534	8.557	five seven six two seven six eight dot n ##x ##p
+73921	ID_NUMBER	9.958	13.621	five seven r two seven six eight five nine p
+73921	STREET	15.162	15.883	wind ##bridge
+73921	CITY	16.203	17.183	hill ##is ##ville
+73921	STATE	17.304	18.604	south australia
+73921	ZIP	18.785	20.266	three zero two five
+73921	DATE	22.047	24.989	september twenty ninth , nineteen ninety seven
+73924	DATE	2.273	4.835	march , march
+73924	DOCTOR	8.017	8.458	tucker
+73924	DOCTOR	9.779	10.279	du ##ren
+73924	DATE	12.801	15.443	march , march
+73924	DOCTOR	17.865	18.526	spencer
+73940	PATIENT	0.412	1.874	warren ja ##quet ##ta humphrey ##s
+73940	AGE	2.174	2.955	sixty
+73940	AGE	2.174	2.955	six
+73940	DATE	4.578	6.841	january fifteen , two thousand one
+73940	MEDICAL_RECORD_NUMBER	8.163	11.909	sixty - one p - o - four - four - sixty - nine - o - c
+73940	MEDICAL_RECORD_NUMBER	13.21	15.874	sixty - one p - o - four - four - sixty - nine
+73940	MEDICAL_RECORD_NUMBER	18.078	21.643	sixty - one sixty - four - four - six , z ##cc
+73940	CITY	23.245	23.726	kellogg
+73940	CITY	23.886	24.467	townsville
+73940	STATE	24.527	24.808	vic
+73940	ZIP	25.609	26.67	two - five - five - eight
+73940	CITY	28.894	29.775	seattle central
+73971	DOCTOR	22.303	23.425	oz ##ell martin ##dale
+73997	DATE	1.793	2.714	september
+73997	DATE	2.754	4.777	twenty sixth - twelve
+73997	TIME	4.857	5.438	twelve - ten p m
+73997	PATIENT	5.458	5.678	penny
+73997	HOSPITAL	7.1	8.662	mild ##ura bay public hospital
+73997	DEPARTMENT	11.505	13.007	seal central department
+74029	DATE	1.093	3.736	february ninth , twenty sixty two
+74035	DOCTOR	1.853	2.314	barnes
+74035	DOCTOR	3.275	3.775	iv ##erson
+74035	DOCTOR	4.757	5.257	lawson
+74035	DOCTOR	5.878	6.318	sharon
+74035	DOCTOR	7.4	7.86	lamar
+74035	DATE	11.765	14.388	january seventh , twenty - sixty - three
+74035	DATE	16.39	19.774	january eighth , twenty - sixty - three
+74035	DATE	20.435	23.579	april thirteenth , twenty - sixty - four
+74036	DOCTOR	2.113	2.573	numbers
+74036	DOCTOR	4.214	5.015	k . trader
+74036	DOCTOR	5.855	6.736	k k ##rzy ##zia ##k
+74036	DATE	7.837	8.998	july seventeenth
+74036	DATE	9.158	10.338	two thousand thirteen
+74036	TIME	11.459	13.141	three forty seven p . m
+74063	PATIENT	7.623	8.204	alice chen
+74063	CITY	9.886	10.988	diet go ##ndi ##wen ##di
+74063	STATE	11.008	11.549	vi ##tto ##ria
+74063	ID_NUMBER	13.692	14.734	two four two four
+74063	PATIENT	15.234	15.415	ellie
+74063	DATE	16.436	18.499	february fourth , twenty twenty five
+74063	PATIENT	19.881	20.182	ellie
+74063	MEDICAL_RECORD_NUMBER	22.105	25.41	five three one eight five four nine t , fm
+74067	HOSPITAL	1.052	4.515	ko ##ra district hospital receiving care
+74067	HOSPITAL	5.176	7.058	reno clinic department
+74067	ID_NUMBER	12.203	16.827	three four y six three two eight seven two i
+74067	ID_NUMBER	19.11	27.578	three four y six three two eight seven three four y six three two eight seven
+74097	DATE	0.371	3.114	march first , two thousand sixty - four
+74097	DOCTOR	5.597	5.957	james
+74097	DOCTOR	6.598	6.898	bo ##e
+74097	PATIENT	13.145	13.466	alex
+74124	DATE	0.131	3.916	march
+74124	DATE	4.497	6.699	march
+74124	TIME	28.427	29.248	nine o ' clock
+74139	DATE	5.758	6.038	today
+74139	PATIENT	7.94	8.621	sharon lopez
+74139	STREET	10.143	10.864	storing ranch
+74139	CITY	10.924	11.365	he ##sp ##in
+74139	STATE	11.945	15.67	western australia four three four five
+74139	PATIENT	16.451	16.791	sharon
+74139	DATE	17.612	19.494	august second , nineteen ninety six
+74139	AGE	21.096	21.617	twenty six
+74139	PATIENT	23.559	23.9	sharon
+74139	MEDICAL_RECORD_NUMBER	26.102	29.166	eight nine seven zero zero four six r ##gr
+74145	PATIENT	0.171	1.372	melissa ce ##rell ##o
+74145	DATE	6.277	6.497	march
+74145	DOCTOR	8.419	8.539	p . o .
+74145	DOCTOR	8.819	9.139	z . c .
+74145	DOCTOR	9.52	9.98	s . o ##da
+74145	DATE	12.502	12.743	march
+74166	DOCTOR	1.934	2.455	wagner
+74166	DATE	5.96	10.827	october
+74189	DOCTOR	0.532	0.972	p . n .
+74189	DATE	5.577	7.358	march second , twenty sixty - three
+74189	DATE	7.659	9.641	september twelve twenty sixty - three
+74189	DATE	14.365	17.128	february fifth , twenty sixty - two
+74211	DOCTOR	0.871	1.311	joseph
+74211	DOCTOR	2.012	2.372	edwards
+74211	PATIENT	9.514	9.854	marvin
+74211	DATE	11.775	13.695	march , eighteen , twenty - sixty - four
+74211	DOCTOR	16.396	16.696	adams
+74211	DOCTOR	19.297	19.657	brooke ##r
+74211	PATIENT	23.378	23.818	marvin
+74214	DOCTOR	18.68	19.962	g . sc ##hli ##nk ##er
+74243	TIME	5.397	6.658	four twenty - five p . m .
+74243	DATE	7.018	8.92	june fourth two thousand thirteen
+74243	DOCTOR	9.181	10.462	##s . d . roy ##a
+74243	DOCTOR	10.942	12.004	d . rei ##tma ##yer
+74243	DOCTOR	16.248	16.949	d . br ##ue ##gel
+74243	DOCTOR	19.191	19.972	d . cha ##ston
+74253	PATIENT	0.031	0.832	melanie wake
+74264	DOCTOR	0.915	1.819	z . sad ##bury
+74264	DATE	4.954	7.405	september third , twenty sixty three
+74276	DATE	5.057	5.918	april , seventh
+74276	DATE	16.111	16.351	june
+74276	DATE	16.552	17.913	fifth sixty three
+74276	HOSPITAL	19.455	22.339	cholera - ne ##bri multi - purpose service hospital
+74276	DOCTOR	23.961	25.163	v . ot ##ele
+74283	ID_NUMBER	1.533	4.777	six seven q four three five six nine
+74283	DATE	6.419	11.726	twenty fourth june two thousand thirteen at ten fifty eight
+74283	DOCTOR	12.687	13.669	s . a . pathology
+74283	HOSPITAL	14.049	15.211	mercy health service
+74283	DOCTOR	17.714	19.136	sheila harvey tre ##bert
+74283	DOCTOR	20.257	20.598	easy
+74283	DATE	22.841	25.224	twenty seventh august twenty sixty three
+74283	DOCTOR	28.548	29.189	r . tre ##ves ##on
+74308	DEPARTMENT	12.331	14.674	war ##ia ##ta multi ##pur ##pose service
+74308	DEPARTMENT	16.638	18.12	hereditary department
+74308	DATE	23.749	24.109	august ,
+74308	DATE	24.19	25.011	twenty - second
+74308	DATE	25.211	26.093	twenty - twelve
+74308	TIME	26.794	28.296	four - thirty - five p . m
+74335	DOCTOR	0.293	0.896	douglas
+74348	PATIENT	0.031	1.073	kamal ##a hard
+74348	MEDICAL_RECORD_NUMBER	2.435	2.755	zero
+74348	ID_NUMBER	2.996	7.282	eight , y six , three , seven , three , zero , two , c
+74348	MEDICAL_RECORD_NUMBER	9.606	13.372	zero eight , nine , six , three , seven , dot , kb ##h
+74348	CITY	14.133	14.534	buff ##um
+74348	CITY	15.075	15.696	overs ##tone
+74348	STATE	16.236	16.877	victoria
+74348	ID_NUMBER	18.099	19.261	three one , one , three
+74348	DATE	20.383	21.024	twenty - fourth
+74348	DATE	21.104	22.306	december nineteen
+74351	DATE	0.051	0.351	today
+74351	PATIENT	2.033	2.894	max brooke
+74351	ID_NUMBER	6.498	10.543	twenty three one one four zero four zu ##k
+74351	PATIENT	11.204	11.464	max
+74351	CITY	12.325	12.605	lear
+74351	CITY	12.685	14.727	glen stanley northern territory
+74351	ZIP	16.59	17.591	three one zero four
+74351	DATE	18.852	21.235	june twenty sixth , two thousand four
+74361	ID_NUMBER	2.413	7.497	eight seven y five three five five four seven p
+74361	ID_NUMBER	10.539	14.062	eight seven y five three five five four
+74361	DATE	15.143	18.206	september third twenty twelve at
+74361	TIME	18.926	25.552	one thirty six pm condor dean health service
+74380	DATE	0.632	0.993	today
+74380	PATIENT	3.076	3.958	zach randolph
+74380	MEDICAL_RECORD_NUMBER	7.584	13.154	eight , two , seven , seven , five , three , nine , dot , i - a - q
+74380	PATIENT	13.755	14.076	zach
+74380	DATE	14.777	17.702	november twenty - seventh nineteen eighty - eight
+74380	STREET	18.964	19.926	timber ##ley street
+74380	STREET	20.206	21.028	tee gardens
+74380	CITY	21.408	21.949	ace a
+74380	ZIP	23.752	25.435	six , three , nine , seven
+74382	HOSPITAL	0.22	2.943	lou ##rdes hospital and community services
+74382	DEPARTMENT	4.645	5.947	med ##ic surgery world
+74382	STREET	8.43	9.191	holly dean
+74382	CITY	9.652	10.573	ki ##lmer downs
+74382	STATE	10.793	11.554	victoria
+74382	DATE	15.599	18.102	may tenth , nineteen eighty nine
+74382	DOCTOR	23.969	25.331	elvis earl el ##wood
+74382	DOCTOR	28.715	28.815	c . n .
+74389	PATIENT	1.293	2.075	renee dung ##as
+74389	MEDICAL_RECORD_NUMBER	3.578	7.525	five eight six one three seven five dot x ##q ##n
+74389	ID_NUMBER	8.987	12.474	five eight q one three seven five eight six n
+74389	ID_NUMBER	14.117	19.948	five eight q one three seven five eight , five eight q one three seven five eight
+74389	STREET	21.631	22.292	e nichols
+74389	CITY	22.572	23.194	natalia
+74389	STATE	23.454	24.055	victoria
+74389	ZIP	24.336	25.478	three eight five four
+74389	AGE	27.021	27.642	seventy one
+74404	PATIENT	3.756	4.036	joe
+74404	STREET	4.677	5.178	good ##e street
+74404	CITY	5.358	5.819	bun ##gar ##y
+74404	STATE	5.939	8.062	q ##ld zip
+74404	DATE	9.404	12.007	november
+74404	AGE	13.089	13.629	twenty eight
+74404	DATE	18.195	20.559	july
+74404	DEPARTMENT	26.346	28.169	arena department hospital
+74430	DATE	9.786	11.91	may twenty - fifth , nineteen ninety - one
+74430	DATE	14.975	18.019	march sixteenth , twenty - thirteen
+74430	TIME	19.181	20.804	six twenty - one p . m
+74430	DEPARTMENT	22.006	24.229	in ##vo ##i specialist department
+74430	DEPARTMENT	25.191	27.554	or ##io ##da multi ##pur ##pose service
+74441	ID_NUMBER	1.013	1.293	four
+74441	ID_NUMBER	1.413	5.44	five s three six zero seven four , four a
+74441	PATIENT	8.825	9.587	kenny smith
+74441	MEDICAL_RECORD_NUMBER	14.394	18.501	four five seven three six , zero , seven , dot ll ##a
+74441	ID_NUMBER	25.032	25.292	four
+74441	ID_NUMBER	25.412	25.693	five
+74441	ID_NUMBER	25.953	26.033	s
+74441	ID_NUMBER	26.214	28.177	three six zero seven , four
+74482	TIME	3.133	5.815	one forty - five p . m .
+74482	DATE	6.336	6.856	same day
+74482	DOCTOR	12.761	13.201	madness
+74482	DOCTOR	13.982	14.362	richard
+74482	DOCTOR	15.223	15.663	terry
+74482	DOCTOR	16.564	17.344	bio ##mbo
+74482	DOCTOR	19.026	19.546	g ##lim ##or
+74482	DOCTOR	20.347	21.147	wesley
+74482	DATE	25.231	28.213	november twenty - ninth , twenty - sixty - two
+74565	PATIENT	9.998	10.378	bill
+74565	DATE	12.099	15.161	august eighteenth , twenty - fourteen
+74565	PATIENT	15.942	16.282	bill
+74565	STREET	17.543	18.764	fitz stephan street
+74565	CITY	19.304	20.245	gil ##gan ##dra
+74565	STATE	20.525	21.346	tasmania
+74565	ZIP	23.667	25.108	four eight two one
+74582	DATE	1.633	3.215	june fifth , twenty sixty three
+74585	DATE	2.18	4.248	december , twenty - seventh - sixty - two
+74591	DOCTOR	7.43	7.972	ju tho ##t
+74591	DATE	8.252	10.538	october second , twenty sixty three
+74591	DATE	14.107	16.313	october twenty ninth , twenty sixty three
+74592	PATIENT	1.311	2.792	concepcion bosch
+74592	STREET	18.397	19.157	elm ##end ##orf
+74592	STATE	20.758	21.918	northern territory
+74634	PATIENT	0.772	1.153	ren long
+74634	AGE	1.694	2.495	thirty five
+74634	CITY	3.217	3.798	span ##aker
+74634	STATE	4.078	4.679	ku ##pan ##da
+74634	STATE	4.839	5.44	k ##ld
+74634	DATE	9.267	11.371	february twenty - second twenty - thirty - three
+74638	DATE	5.059	6.822	january eighth , twenty - fourteen
+74638	TIME	7.343	8.245	seven forty p . m .
+74638	PATIENT	8.725	8.966	vince
+74638	DEPARTMENT	10.448	11.871	envoy pathology department
+74638	HOSPITAL	12.452	13.513	col ##ley district hospital
+74638	ID_NUMBER	18.081	23.129	four nine t two six four five zero , four nine t two six four five zero
+74675	DATE	5.236	5.537	today
+74675	PATIENT	7.439	8.32	eds ##on winston
+74675	PATIENT	26.278	26.919	eds ##on resides
+74675	STREET	27.119	27.66	pots ##me ##et
+74675	CITY	27.88	28.641	mount eliza
+74675	STATE	28.741	29.602	northern territory
+74679	DOCTOR	9.423	9.843	r . ko ##rth ##auer
+74695	DOCTOR	0.051	1.336	chi ##ara gin ##eria
+74695	DOCTOR	2.781	3.925	hum ##berto be ##rson
+74695	HOSPITAL	8.521	9.826	ja ##car ##anda place ,
+74695	STATE	10.528	14.422	queensland adolescent extended treatment centre
+74701	DOCTOR	2.112	3.193	nick lilly - co ##sper
+74701	DOCTOR	3.873	4.273	mitchell
+74701	AGE	6.335	7.876	fifty seven
+74701	DATE	8.836	10.577	october third ten
+74701	DOCTOR	21.083	21.423	juan
+74701	ID_NUMBER	23.425	26.246	six two s zero two one four four
+74701	DOCTOR	28.127	29.068	r mal ##tes
+74732	DEPARTMENT	0.552	1.753	envoy pathology
+74732	HOSPITAL	3.835	6.178	yi ##ye and district memorial hospital
+74732	DOCTOR	9.221	9.742	ke ##rs ##haw
+74732	DOCTOR	10.403	10.723	white
+74732	DOCTOR	11.644	12.145	cooper
+74732	DOCTOR	12.966	13.466	harper
+74732	DOCTOR	14.147	14.708	vincent
+74732	DOCTOR	15.809	22.376	non ##t
+74732	PATIENT	25.56	25.94	jenny
+74738	DOCTOR	3.236	4.117	meta ##sta ##sis
+74738	DOCTOR	8.403	9.084	ari ##sti ##de
+74738	DOCTOR	10.066	10.827	v . roth ##ley
+74738	ZIP	12.129	13.09	ten fifteen
+74738	DATE	13.731	16.155	march fourteenth , two thousand thirteen
+74738	DATE	19.82	22.404	may seventeenth , twenty sixty - three
+74752	PATIENT	0.051	0.452	jessica
+74752	DOCTOR	4.518	4.878	turner
+74752	DOCTOR	5.319	5.719	lawson
+74752	DOCTOR	6.14	6.581	em ##bi ##id
+74752	DOCTOR	7.001	7.502	franks ##ton
+74752	DOCTOR	7.883	8.283	ha ##rro ##d
+74752	DOCTOR	8.724	9.004	irving
+74752	DOCTOR	9.545	9.785	poole
+74752	DATE	16.215	18.278	april twenty first , twenty sixty three
+74752	PATIENT	27.572	27.972	jessica
+74784	PATIENT	2.794	3.094	chris
+74784	DATE	3.935	4.095	july ,
+74784	DATE	4.115	5.476	july , seven , two thousand
+74784	STREET	7.218	8.259	tia ##li street
+74784	CITY	9.159	10.18	davenport
+74784	STATE	10.501	11.822	western australia
+74784	ZIP	14.184	15.846	three , six , one , four
+74784	HOSPITAL	19.729	21.871	pe ##mb ##ula district hospital
+74784	DEPARTMENT	24.834	25.995	pathology west
+74800	PATIENT	3.342	3.703	emily
+74813	DOCTOR	11.939	12.721	leo ##man ##tum
+74819	DOCTOR	1.011	1.952	p . anger ##s
+74819	DOCTOR	2.332	3.272	p peters
+74819	DOCTOR	3.992	4.672	p za ##nt
+74819	DOCTOR	15.396	16.436	perry la ##vel ##le
+74819	TIME	16.836	18.457	two oh five p . m
+74819	DATE	18.877	21.038	june twenty fourth , twenty thirteen
+74819	DOCTOR	26.199	26.979	y . watkins
+74819	DOCTOR	27.94	28.64	y . so ##rrell
+74831	DATE	3.116	4.959	july eleventh two thousand and four
+74831	DATE	8.785	10.568	march eighteenth , twenty thirteen
+74831	TIME	11.089	13.873	one forty five p . m same day
+74831	TIME	15.576	17.699	four thirty eight p . m .
+74831	DEPARTMENT	22.968	24.69	dickinson three north department
+74831	HOSPITAL	24.831	26.473	cu ##nard hospital
+74841	PATIENT	0.451	2.453	leopold ##o eco ##no ##mide ##s
+74841	ID_NUMBER	3.934	7.436	five five eight nine nine two five eight four l
+74841	ID_NUMBER	8.777	11.239	five five eight nine nine two five eight
+74841	MEDICAL_RECORD_NUMBER	13.2	16.582	five five eight nine nine two dot n ##v ##m
+74841	STREET	18.084	20.225	off summer lakes entrance
+74841	STATE	20.725	22.867	australian capital territory
+74841	ID_NUMBER	23.407	24.868	two one six five
+74842	ID_NUMBER	2.113	5.718	three one x nine eight four five one four j
+74842	DATE	6.258	6.559	today
+74842	PATIENT	9.142	9.762	lauren house
+74842	STREET	12.105	14.588	j . paul rio ##long ##a ta ##s
+74842	ZIP	16.49	17.632	six three one seven
+74842	PATIENT	18.413	18.733	lauren
+74842	DATE	19.774	21.436	march third , twenty eighteen
+74842	AGE	22.457	22.698	five
+74842	PATIENT	23.939	24.299	lauren
+74842	MEDICAL_RECORD_NUMBER	26.362	29.145	three one nine nine eight four o ##cl
+74851	DATE	0.211	1.773	march
+74854	PATIENT	0.391	1.151	felicia wheeler
+74854	DATE	2.192	3.072	march , twenty - second ,
+74854	ZIP	3.312	4.012	nineteen ninety - nine
+74854	CITY	5.312	5.832	kashmir
+74854	CITY	5.892	6.272	k ##hol ##ok
+74854	ZIP	7.453	8.453	five one three nine
+74854	ID_NUMBER	12.014	14.935	zero one z three nine five six seven zero b
+74854	MEDICAL_RECORD_NUMBER	16.675	16.975	zero
+74854	MEDICAL_RECORD_NUMBER	17.075	19.376	one nine three nine five rs ##b
+74854	ID_NUMBER	21.336	23.797	zero one z three nine five six seven
+74854	DATE	26.357	28.658	february twelfth twenty sixty - three
+74861	DATE	0.031	0.351	today
+74861	PATIENT	2.592	3.332	alex blaine
+74873	DOCTOR	0.939	2.129	lei ##omy ##oma ##s
+74873	DOCTOR	2.875	4.045	aden ##omy ##osis
+74881	DATE	0.351	1.192	october third
+74881	DOCTOR	7.559	8.059	douglas
+74891	PATIENT	1.892	4.613	clarence sweeney ste ##arm ##an
+74891	MEDICAL_RECORD_NUMBER	7.155	10.737	one zero six zero seven nine four dot e k x
+74891	ID_NUMBER	12.598	16.56	one zero r zero seven nine four one four x
+74891	STREET	18.101	19.141	sunset view
+74891	CITY	19.461	20.122	hu ##ndo ##rf
+74891	STATE	20.602	21.482	tasmania
+74891	ID_NUMBER	21.663	23.243	four eight seven zero
+74891	DATE	24.784	27.446	april twenty seventh , nineteen eighty five
+74892	PROFESSION	8.41	8.911	doctors
+74893	DEPARTMENT	0.892	2.194	asa pathology
+74893	DATE	6.859	10.023	january thirteenth , twenty thirteen at
+74893	TIME	10.243	11.945	eleven forty one am
+74893	DATE	21.296	22.777	year twenty sixty two
+74893	DATE	23.158	25.2	march third , twenty sixty three
+74898	DATE	3.136	5.941	january tenth , twenty sixty - two
+74898	DOCTOR	16.82	17.782	wendy hen ##ning ##s
+74898	DATE	18.183	21.068	march twenty - third , twenty sixty - four
+74902	ID_NUMBER	0.391	12.266	number three three z nine two seven six three two f three three z nine two seven six three
+74902	HOSPITAL	15.009	17.752	gan ##da hospital under department
+74902	DEPARTMENT	18.033	19.434	correct ##ive services
+74902	DATE	20.996	23.96	january twenty ninth twenty fourteen
+74902	TIME	25.442	26.983	nine fifty one a . m
+74906	DATE	0.311	0.691	today
+74906	PATIENT	2.832	4.012	alyssa simon ##s
+74906	PATIENT	12.894	14.314	alyssa resides
+74906	STREET	14.975	16.155	far ##aday street
+74906	CITY	16.535	17.235	gr ##en ##fell
+74906	STATE	17.335	18.655	western australia
+74906	DATE	23.177	25.657	december sixth , nineteen ninety - five
+74951	PATIENT	2.515	3.256	marvin run ##dle
+74951	MEDICAL_RECORD_NUMBER	6.821	9.005	nine one nine one three , an l ##f
+74951	PATIENT	10.306	10.787	marvin
+74951	STREET	11.949	13.171	st . wil ##frid street
+74951	CITY	13.752	14.513	mount isa
+74951	STATE	14.633	15.134	queensland
+74951	ZIP	16.836	18.118	one five nine seven
+74951	DATE	19.18	20.882	april thirteen , twenty twenty
+74957	DOCTOR	9.536	9.916	con ##ning
+74957	DOCTOR	10.637	11.017	ren ##dell
+74957	DOCTOR	11.877	12.258	golden
+74957	TIME	12.578	13.658	one hundred and five pm
+74957	DATE	13.978	15.619	august seventh , twenty thirteen
+74957	DURATION	22.523	22.823	seven
+74968	DOCTOR	3.276	4.659	madeleine gin ##gol ##in - ka ##sm ##i
+74968	DOCTOR	7.283	7.684	q . do ##rr
+74968	DOCTOR	9.166	9.687	q . du ##mo ##ulin
+74968	DOCTOR	9.807	10.428	q . wo ##j ##cic ##ki
+74968	DOCTOR	10.709	11.249	q . sip ##ta ##k
+74968	DOCTOR	12.151	12.391	y . t . at ##ten
+74972	DATE	6.299	9.163	june sixteenth , twenty - twenty - one
+74972	HOSPITAL	12.447	13.949	dickinson ' s hills house
+74972	HOSPITAL	14.25	15.672	stan ##thorpe hospital
+74972	DOCTOR	19.317	20.458	braid evan car ##on
+74972	DOCTOR	21.62	22.14	z . i .
+74972	DOCTOR	23.082	23.742	v win ##ant
+74976	DATE	0.051	0.491	today
+74976	PATIENT	2.653	3.174	grace lee
+74976	MEDICAL_RECORD_NUMBER	7.117	10.62	eight one zero two seven one five dot pp ##t
+74976	STREET	12.121	12.702	grand park
+74976	STREET	12.762	13.702	no . one bal ##mer ##dry
+74976	STATE	14.423	15.884	australian capital territory
+74976	ZIP	18.066	19.567	six nine zero seven
+74976	DATE	20.648	22.57	october fifth , nineteen seventy nine
+74976	PATIENT	22.81	23.09	grace
+74976	HOSPITAL	24.912	28.475	mount barker district soldiers memorial hospital under
+84546	ID_NUMBER	0.333	2.746	天 [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] 下 [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
