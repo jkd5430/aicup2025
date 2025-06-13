@@ -44,14 +44,15 @@ json檔案使用
 *需修改檔案內 `alocal`、`blocal`改成data_AI_CUP資料夾路徑，157行以及166行需改成split_ch_en.py所建立的en資料夾
     
 使用以下程式碼，清理推論結果中不需要的文字  
-*需修改`clean_data`檔案內的第14行、第168行，設定推論文字檔及輸出檔案\
         
         python clean_data.py
-使用以下程式碼，找出敏感字詞中的特殊字元      
-*需修改`English_find_symbol` 檔案內 `local` 分割後的英文txt檔案 
+*需修改`clean_data`檔案內的第13行、第168行，設定推論文字檔及輸出檔案
+    
+使用以下程式碼，找出敏感字詞中的特殊字元       
         
         python English_find_symbol.py
-
+*需修改`English_find_symbol` 檔案內 `local` 分割後的英文txt檔案
+    
 使用以下程式碼，將文字稿的敏感字詞對回去json檔中的時間以抓出敏感字詞的時間序  
 *需修改`English_timestep` 檔案內`local`  local需包含中文的txt以及json資料夾  
 *第252、260行需設定輸出資料夾分別為有對到時間序的檔案及沒對到時間序的檔案
