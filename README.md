@@ -95,7 +95,25 @@ json檔案使用
 
         python concate.py
 *需修改`concate`檔案內第20行，分別將中英文的timestep的txt合併
+##BERT
+使用以下程式碼，將官方給的資料集標註成BIO格式
     
+    python bio.py 
+*需修改`bio.py `檔案內`ann_df`需改成任一task2_answer.txt，`word_df`需改成任一task1_answer.txt，`bio_txt`是bio標註檔案的存放位置    
+使用以下程式碼，進行BERT訓練
+    
+    python bert_train.py
+*其中資料均放在bert_code/bert_data/bert/位置裡
+使用以下程式碼，進行BERT預測
+    
+    python bert_pred.py
+*其中第168行放task1_whisper.py所生成的"result_val_all_number/task2_json"
+*其中第170行設定存放位置
+
+
+
+
+
 
 
     
