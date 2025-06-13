@@ -94,7 +94,7 @@ json檔案使用
 使用以下程式碼，將中文英文檔案合併成最終結果  
 
     python concate.py
-*需修改`concate`檔案內第20行，分別將中英文的timestep的txt合併
+*需修改`concate`檔案內第20行，分別將中英文的timestep的txt合併    
 ##BERT
 使用以下程式碼，將官方給的資料集標註成BIO格式
     
