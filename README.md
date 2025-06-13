@@ -6,6 +6,7 @@
 任務二 Qwen3以及BERT環境  
     
     conda env create -f qwen3.yml
+    conda env create -f bert.yml
 ****
 ## 任務一 語音轉文字 
 使用以下程式碼，啟動whisperx.yml環境
