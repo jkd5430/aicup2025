@@ -1,4 +1,4 @@
-# aicup2025
+# TEAM_7373
 ## 創建環境
 任務一 whisperX環境
     
